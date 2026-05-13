@@ -177,7 +177,7 @@ function parseEntry(entry) {
 
   // Pull the bit after "Scheduled - " up to ~200 chars
   const match = stripped.match(/Scheduled\s*-\s*([^.]+\.[^.]*)/i);
-  const desc = (match ? match[1] : stripped).trim().slice(0, 240);
+  const desc = (match ? match[1] : stripped).trim().slice(0, 600);
 
   // Service name: strip the date part from the title
   const service = title.replace(/\s+(May|June|July|August|September|October|November|December|January|February|March|April|Jan|Feb|Mar|Apr|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+\d.*$/i, '').trim();
