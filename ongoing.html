@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>UBC IT — Active Now</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { width: 100%; height: 100%; overflow: hidden; }
+  body {
+    background: #0d1117;
+    color: #e6edf3;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-weight: 300;
+    display: flex;
+    height: 100vh;
+  }
+
+  /* LEFT — featured */
+  .featured {
+    flex: 1;
+    padding: 6vh 6vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-right: 1px solid #21262d;
+  }
+  .status-tag {
+    display: flex;
+    align-items: center;
+    gap: 1vw;
+    font-size: 1.1vw;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    margin-bottom: 3vh;
+  }
+  .status-tag .pulse {
+    width: 1.2vw;
+    height: 1.2vw;
+    border-radius: 50%;
+    animation: pulse 2s ease-in-out infinite;
+  }
+  @keyframes pulse {
+    0%, 100% { opacity: 1; transform: scale(1); }
+    50%      { opacity: 0.5; transform: scale(0.85); }
+  }
+  .status-incident .pulse { background: #f85149; box-shadow: 0 0 1.2vw #f85149; }
+  .status-incident         { color: #f85149; }
+  .status-maint .pulse    { background: #d29922; box-shadow: 0 0 1.2vw #d29922; }
+  .status-maint            { color: #d29922; }
+
+  .service {
+    font-size: 4.5vw;
+    font-weight: 600;
+    line-height: 1.05;
+    margin-bottom: 3vh;
+    letter-spacing: -0.02em;
+  }
+  .substate {
+    font-size: 1.6vw;
+    color: #c9d1d9;
+    margin-bottom: 4vh;
+    font-weight: 400;
+  }
+  .desc {
+    font-size: 1.4vw;
+    color: #8b949e;
+    line-height: 1.5;
+    max-width: 90%;
+  }
+  .counter {
+    margin-top: auto;
+    font-size: 0.9vw;
+    letter-spacing: 0.3em;
+    color: #484f58;
+    text-transform: uppercase;
+  }
+
+  /* All-clear state */
+  .allclear {
+    margin: auto;
+    text-align: center;
+  }
+  .allclear .check {
+    width: 6vw; height: 6vw;
+    border-radius: 50%;
+    background: #238636;
+    box-shadow: 0 0 3vw rgba(35, 134, 54, 0.5);
+    display: flex; align-items: center; justify-content: center;
+    margin: 0 auto 4vh;
+    font-size: 3vw;
+    color: white;
+  }
+  .allclear-text {
+    font-size: 3vw;
+    font-weight: 300;
+    letter-spacing: -0.01em;
+  }
+  .allclear-sub {
+    font-size: 1.2vw;
+    color: #7d8590;
+    margin-top: 2vh;
+    letter-spacing: 0.1em;
+  }
+
+  /* RIGHT — queue */
+  .queue {
+    width: 28vw;
+    padding: 6vh 2.5vw;
+    background: #010409;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+  .queue-label {
+    font-size: 1vw;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    color: #7d8590;
+    margin-bottom: 2vh;
+  }
+  .queue-label.spaced { margin-top: 3vh; }
+
+  .queue-item {
+    padding: 1.5vh 0;
+    border-bottom: 1px solid #21262d;
+    opacity: 0.55;
+    transition: opacity 0.3s;
+  }
+  .queue-item.current { opacity: 1; }
+  .queue-item.current .qname { color: #e6edf3; }
+
+  .qrow {
+    display: flex;
+    align-items: center;
+    gap: 0.8vw;
+  }
+  .qdot {
+    width: 0.7vw;
+    height: 0.7vw;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+  .qdot.incident { background: #f85149; }
+  .qdot.maint    { background: #d29922; }
+  .queue-item.current .qdot.incident { box-shadow: 0 0 0.8vw #f85149; }
+  .queue-item.current .qdot.maint    { box-shadow: 0 0 0.8vw #d29922; }
+
+  .qname {
+    font-size: 1.15vw;
+    font-weight: 500;
+    color: #c9d1d9;
+  }
+  .qmeta {
+    font-size: 0.9vw;
+    color: #7d8590;
+    margin-left: 1.5vw;
+    margin-top: 0.3vh;
+  }
+</style>
+</head>
+<body>
+
+<div class="featured" id="featured">
+  <div class="allclear">
+    <div class="check">✓</div>
+    <div class="allclear-text">Loading…</div>
+  </div>
+</div>
+
+<div class="queue" id="queue"></div>
+
+<script>
+const FEED_URL  = 'feed.xml';
+const ROTATE_MS = 12000;
+const RELOAD_MS = 30 * 60 * 1000; // 30 min — matches the 6-hr action cadence well enough
+
+let items = [];
+let idx   = 0;
+
+async function loadFeed() {
+  try {
+    const res  = await fetch(FEED_URL + '?t=' + Date.now());
+    const text = await res.text();
+    const xml  = new DOMParser().parseFromString(text, 'text/xml');
+    const entries = [...xml.querySelectorAll('entry')];
+
+    const now = new Date();
+    items = entries
+      .map(e => parseEntry(e, now))
+      .filter(e => e.active)
+      // Incidents first, then in-progress maintenance, each newest-first
+      .sort((a, b) => {
+        if (a.kind !== b.kind) return a.kind === 'incident' ? -1 : 1;
+        return b.updated - a.updated;
+      });
+
+    render();
+  } catch (e) {
+    console.error('Feed load failed:', e);
+  }
+}
+
+function parseEntry(entry, now) {
+  const title    = entry.querySelector('title')?.textContent.trim() ?? '';
+  const content  = entry.querySelector('content')?.textContent ?? '';
+  const updated  = new Date(entry.querySelector('updated')?.textContent);
+  const published = new Date(entry.querySelector('published')?.textContent);
+
+  // The feed lists status updates chronologically newest-first within content.
+  // We extract them and look at the most recent state.
+  const states = [...content.matchAll(/<strong>(Investigating|Identified|Monitoring|Resolved|Completed|In progress|Update|Scheduled)<\/strong>/gi)]
+    .map(m => m[1].toLowerCase());
+
+  const latest = states[0] ?? '';
+  const isScheduledMaint = /THIS IS A SCHEDULED EVENT/i.test(content);
+
+  // INCIDENT (unresolved): not a scheduled-maintenance entry, and latest state is not resolved/completed
+  const isIncident = !isScheduledMaint
+    && latest && !['resolved', 'completed'].includes(latest);
+
+  // IN-PROGRESS MAINTENANCE: scheduled event whose latest status is 'in progress' (not yet completed)
+  const isInProgress = isScheduledMaint && latest === 'in progress';
+
+  let kind = null;
+  let statePretty = '';
+  if (isIncident) {
+    kind = 'incident';
+    statePretty = capitalize(latest);
+  } else if (isInProgress) {
+    kind = 'maint';
+    statePretty = 'In Progress';
+  }
+
+  // Clean description: strip tags, grab text after the latest state marker
+  const stripped = content
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/&[a-z]+;/gi, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+
+  // Take the first sentence or so after the latest status word
+  const stateRegex = new RegExp(latest + '\\s*-\\s*([^.]+\\.[^.]*)', 'i');
+  const m = stripped.match(stateRegex);
+  let desc = (m ? m[1] : stripped).trim();
+  desc = truncateAtWord(desc, 220);
+
+  // Service name: strip date suffix and common boilerplate
+  const service = cleanServiceName(title);
+
+  return {
+    active: !!kind,
+    kind,
+    title, service, desc,
+    state: statePretty,
+    updated, published
+  };
+}
+
+function cleanServiceName(title) {
+  return title
+    // Strip everything from the first month-name with a date onward
+    .replace(/\s+(January|February|March|April|May|June|July|August|September|October|November|December|Jan|Feb|Mar|Apr|Jun|Jul|Aug|Sep|Oct|Nov|Dec|Mon|Tue|Wed|Thu|Fri|Sat|Sun)[a-z]*\.?,?\s+\d.*$/i, '')
+    .replace(/\s*-\s*$/, '')
+    .replace(/\s+(Maintenance|Scheduled Maintenance|Service Maintenance|Network Maintenance|Issue)$/i, ' $1') // keep one
+    .trim();
+}
+
+function capitalize(s) {
+  return s.charAt(0).toUpperCase() + s.slice(1);
+}
+
+function truncateAtWord(s, max) {
+  if (s.length <= max) return s;
+  const cut = s.slice(0, max);
+  const lastSpace = cut.lastIndexOf(' ');
+  return cut.slice(0, lastSpace > 0 ? lastSpace : max) + '…';
+}
+
+function relativeTime(d) {
+  const mins = Math.round((Date.now() - d) / 60000);
+  if (mins < 1)   return 'just now';
+  if (mins < 60)  return mins + 'm ago';
+  const hrs = Math.round(mins / 60);
+  if (hrs < 24)   return hrs + 'h ago';
+  const days = Math.round(hrs / 24);
+  return days + 'd ago';
+}
+
+function render() {
+  if (items.length === 0) {
+    document.getElementById('featured').innerHTML = `
+      <div class="allclear">
+        <div class="check">✓</div>
+        <div class="allclear-text">All systems operational</div>
+        <div class="allclear-sub">No active incidents or maintenance</div>
+      </div>
+    `;
+    document.getElementById('queue').innerHTML = '';
+    return;
+  }
+  idx = idx % items.length;
+  renderFeatured();
+  renderQueue();
+}
+
+function renderFeatured() {
+  const it = items[idx];
+  const tagClass = it.kind === 'incident' ? 'status-incident' : 'status-maint';
+  const tagText  = it.kind === 'incident' ? 'Active Incident' : 'Maintenance In Progress';
+  document.getElementById('featured').innerHTML = `
+    <div class="status-tag ${tagClass}">
+      <span class="pulse"></span>
+      <span>${tagText}</span>
+    </div>
+    <div class="service">${escapeHtml(it.service)}</div>
+    <div class="substate">${escapeHtml(it.state)} · Updated ${escapeHtml(relativeTime(it.updated))}</div>
+    <div class="desc">${escapeHtml(it.desc)}</div>
+    <div class="counter">${idx + 1} of ${items.length}</div>
+  `;
+}
+
+function renderQueue() {
+  const q = document.getElementById('queue');
+  q.innerHTML = '';
+
+  const incidents = items.filter(i => i.kind === 'incident');
+  const maint     = items.filter(i => i.kind === 'maint');
+
+  if (incidents.length) {
+    const label = document.createElement('div');
+    label.className = 'queue-label';
+    label.textContent = 'Incidents';
+    q.appendChild(label);
+    incidents.forEach(it => q.appendChild(buildQueueItem(it)));
+  }
+
+  if (maint.length) {
+    const label = document.createElement('div');
+    label.className = 'queue-label' + (incidents.length ? ' spaced' : '');
+    label.textContent = 'Maintenance In Progress';
+    q.appendChild(label);
+    maint.forEach(it => q.appendChild(buildQueueItem(it)));
+  }
+}
+
+function buildQueueItem(it) {
+  const el = document.createElement('div');
+  const isCurrent = items[idx] === it;
+  el.className = 'queue-item' + (isCurrent ? ' current' : '');
+  el.innerHTML = `
+    <div class="qrow">
+      <span class="qdot ${it.kind}"></span>
+      <span class="qname">${escapeHtml(shortName(it.service))}</span>
+    </div>
+    <div class="qmeta">${escapeHtml(it.state)} · ${escapeHtml(relativeTime(it.updated))}</div>
+  `;
+  return el;
+}
+
+function shortName(s) {
+  return s.length > 30 ? s.slice(0, 28) + '…' : s;
+}
+
+function escapeHtml(s) {
+  return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+}
+
+function rotate() {
+  if (items.length < 2) return;
+  idx = (idx + 1) % items.length;
+  renderFeatured();
+  renderQueue();
+}
+
+loadFeed();
+setInterval(rotate, ROTATE_MS);
+setInterval(loadFeed, RELOAD_MS);
+</script>
+</body>
+</html>
