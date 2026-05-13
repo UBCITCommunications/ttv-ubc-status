@@ -206,19 +206,22 @@ function parseEntry(entry, now) {
   const updated  = new Date(entry.querySelector('updated')?.textContent);
   const published = new Date(entry.querySelector('published')?.textContent);
 
-  // The feed lists status updates chronologically newest-first within content.
-  // We extract them and look at the most recent state.
-  const states = [...content.matchAll(/<strong>(Investigating|Identified|Monitoring|Resolved|Completed|In progress|Update|Scheduled)<\/strong>/gi)]
+  // The feed lists status blocks chronologically newest-first within content.
+  // We grab ALL status words, then pick the latest "real" one — ignoring
+  // generic "Update" markers, which just mean "more info added" and don't
+  // change the underlying state.
+  const allStates = [...content.matchAll(/<strong>(Investigating|Identified|Monitoring|Resolved|Completed|In progress|Update|Scheduled)<\/strong>/gi)]
     .map(m => m[1].toLowerCase());
 
-  const latest = states[0] ?? '';
+  const realStates = allStates.filter(s => s !== 'update');
+  const latest = realStates[0] ?? allStates[0] ?? '';   // fall back to 'update' only if nothing else exists
   const isScheduledMaint = /THIS IS A SCHEDULED EVENT/i.test(content);
 
-  // INCIDENT (unresolved): not a scheduled-maintenance entry, and latest state is not resolved/completed
+  // INCIDENT (unresolved): not a scheduled-maintenance entry, and latest real state is not resolved/completed
   const isIncident = !isScheduledMaint
     && latest && !['resolved', 'completed'].includes(latest);
 
-  // IN-PROGRESS MAINTENANCE: scheduled event whose latest status is 'in progress' (not yet completed)
+  // IN-PROGRESS MAINTENANCE: scheduled event whose latest real state is 'in progress' (not yet completed)
   const isInProgress = isScheduledMaint && latest === 'in progress';
 
   let kind = null;
@@ -231,18 +234,23 @@ function parseEntry(entry, now) {
     statePretty = 'In Progress';
   }
 
-  // Clean description: strip tags, grab text after the latest state marker
-  const stripped = content
-    .replace(/<[^>]+>/g, ' ')
-    .replace(/&[a-z]+;/gi, ' ')
-    .replace(/\s+/g, ' ')
-    .trim();
-
-  // Take the first sentence or so after the latest status word
-  const stateRegex = new RegExp(latest + '\\s*-\\s*([^.]+\\.[^.]*)', 'i');
-  const m = stripped.match(stateRegex);
-  let desc = (m ? m[1] : stripped).trim();
-  desc = truncateAtWord(desc, 220);
+  // Description: pull text from the first status block that has real content.
+  // The feed lists status blocks newest-first, so we walk from the top and
+  // skip empty ones (some "Update" blocks contain just "." with no info).
+  let desc = '';
+  const blockRegex = /<strong>(Investigating|Identified|Monitoring|Resolved|Completed|In progress|Update|Scheduled)<\/strong>\s*-\s*([\s\S]*?)(?=<p>|$)/gi;
+  for (const m of content.matchAll(blockRegex)) {
+    const text = m[2]
+      .replace(/<[^>]+>/g, ' ')
+      .replace(/&[a-z]+;/gi, ' ')
+      .replace(/\s+/g, ' ')
+      .trim();
+    if (text.length > 5) {   // skip empties like "." 
+      desc = text;
+      break;
+    }
+  }
+  desc = truncateAtWord(desc, 280);
 
   // Service name: strip date suffix and common boilerplate
   const service = cleanServiceName(title);
