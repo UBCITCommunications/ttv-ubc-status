@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-05-16T06:00:09-07:00</updated>
+  <updated>2026-05-16T08:00:07-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -41,12 +41,20 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;17:30&lt;/var&gt; - &lt;var data-var='time'&gt;22:30&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;14:15&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - The Online Advising Management System (OAMS) will undergo scheduled maintenance to facilitate a database upgrade on May 20, 2026, from 17:30  PT to 22:30 PT.&lt;br /&gt;During this time, the service may be unavailable.&lt;br /&gt;&lt;br /&gt;Please contact SIS.Support@ubc.ca for any questions or concerns.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/30067146</id>
+    <published>2026-05-16T08:00:07-07:00</published>
+    <updated>2026-05-16T08:00:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/6k1pctdxfsmb"/>
+    <title>Workday Scheduled Quarterly Maintenance and Weekly Service Update May 15, 2026, 21:00 PT to May 16, 2026, 08:00 PT</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;21:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;15:52&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Update: Add/drop deadline extended to Monday, May 18 at 11:59 pm (PDT) due to system maintenance&lt;br /&gt;&lt;br /&gt;As students will be unable to login to Workday during this maintenance window, the deadline for students to add/drop course sections with a May 15 add/drop deadline has been extended until Monday, May 18 at 11:59 pm. Once the system is restored on Saturday, May 16, students will have access to the add/drop functionality for these course sections until the updated deadline above. &lt;br /&gt;&lt;br /&gt;Students can confirm course-specific add/drop deadlines in Workday by using the Find Course Sections report, which shows the adjusted deadline for any impacted courses. Student can refer to Viewing the Course Schedule (&lt;a href="https://students.ok.ubc.ca/ws-tutorial/viewing-the-course-schedule/"&gt;Okanagan&lt;/a&gt; | &lt;a href="https://workday.students.ubc.ca/course-registration/viewing-the-course-schedule/"&gt;Vancouver&lt;/a&gt;) to learn how to find an add/drop date in the Find Course Sections report.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;10:53&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Please be advised that on May 15, 2026, 21:00 PT to May 16, 2026, 08:00 PT, Workday will be undergoing scheduled maintenance as part of its quarterly service update. During the scheduled maintenance period, Workday will be unavailable for use. &lt;br /&gt;Learn about Workday Support at UBC and other available resources on isc.ubc.ca.&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/29751443</id>
-    <published>2026-05-16T07:00:00-07:00</published>
-    <updated>2026-05-16T06:00:09-07:00</updated>
+    <published>2026-05-16T07:00:07-07:00</published>
+    <updated>2026-05-16T07:00:07-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/y8r5zkfwcp6j"/>
     <title>UBC Vancouver Campus Network Maintenance May 16, 2026, 07:00-15:00 PT</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; - &lt;var data-var='time'&gt;15:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;14:27&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - The UBC Vancouver campus network will undergo maintenance on May 16, 2026, 07:00-15:00 PT. During the maintenance window, intermittent disruptions to network connectivity may be experienced, including internet, cloud services and remote VPN access.&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;14:27&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - The UBC Vancouver campus network will undergo maintenance on May 16, 2026, 07:00-15:00 PT. During the maintenance window, intermittent disruptions to network connectivity may be experienced, including internet, cloud services and remote VPN access.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30087945</id>
@@ -55,14 +63,6 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/xp8vprrd956l"/>
     <title>Okanagan Campus Network Maintenance May 15, 2026, 19:00-22:00 PT</title>
     <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;22:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;19:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;14:23&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Network maintenance will occur for the Okanagan campus on May 15, 2026, 19:00-22:00 PT.  No disruption to network services is expected.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/30067146</id>
-    <published>2026-05-15T21:00:09-07:00</published>
-    <updated>2026-05-15T21:00:09-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/6k1pctdxfsmb"/>
-    <title>Workday Scheduled Quarterly Maintenance and Weekly Service Update May 15, 2026, 21:00 PT to May 16, 2026, 08:00 PT</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;21:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;15:52&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Update: Add/drop deadline extended to Monday, May 18 at 11:59 pm (PDT) due to system maintenance&lt;br /&gt;&lt;br /&gt;As students will be unable to login to Workday during this maintenance window, the deadline for students to add/drop course sections with a May 15 add/drop deadline has been extended until Monday, May 18 at 11:59 pm. Once the system is restored on Saturday, May 16, students will have access to the add/drop functionality for these course sections until the updated deadline above. &lt;br /&gt;&lt;br /&gt;Students can confirm course-specific add/drop deadlines in Workday by using the Find Course Sections report, which shows the adjusted deadline for any impacted courses. Student can refer to Viewing the Course Schedule (&lt;a href="https://students.ok.ubc.ca/ws-tutorial/viewing-the-course-schedule/"&gt;Okanagan&lt;/a&gt; | &lt;a href="https://workday.students.ubc.ca/course-registration/viewing-the-course-schedule/"&gt;Vancouver&lt;/a&gt;) to learn how to find an add/drop date in the Find Course Sections report.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;10:53&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Please be advised that on May 15, 2026, 21:00 PT to May 16, 2026, 08:00 PT, Workday will be undergoing scheduled maintenance as part of its quarterly service update. During the scheduled maintenance period, Workday will be unavailable for use. &lt;br /&gt;Learn about Workday Support at UBC and other available resources on isc.ubc.ca.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30067275</id>
