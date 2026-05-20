@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-05-20T06:53:53-07:00</updated>
+  <updated>2026-05-20T11:28:06-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -87,6 +87,14 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/trwnj8tmf75h"/>
     <title>Online Advising Management System (OAMS) Scheduled Maintenance May 20, 2026, 17:30-22:30 PT</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;17:30&lt;/var&gt; - &lt;var data-var='time'&gt;22:30&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;14:15&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - The Online Advising Management System (OAMS) will undergo scheduled maintenance to facilitate a database upgrade on May 20, 2026, from 17:30  PT to 22:30 PT.&lt;br /&gt;During this time, the service may be unavailable.&lt;br /&gt;&lt;br /&gt;Please contact SIS.Support@ubc.ca for any questions or concerns.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/30222590</id>
+    <published>2026-05-20T11:28:06-07:00</published>
+    <updated>2026-05-20T11:28:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/8x6y0vv4bh3w"/>
+    <title>Disruption of Tableau services at UBC  May 20, 2026 11.15 PT</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;11:15&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Disruption of Tableau services at UBC:&lt;br /&gt;• Issue: Tableau services are currently experiencing a UBC-wide outage due to an ongoing contract renewal process.&lt;br /&gt;• Impact: Users are unable to access data stored in Tableau reports, which may affect regular operations and supporting processes.&lt;br /&gt;• Progress: UBC Procurement is working directly with Tableau (Salesforce) to finalize the renewal and restore full access as quickly as possible.&lt;br /&gt;• ETA: We are targeting a resolution by 2:00 PM today.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30012381</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/21jnb1cb2w7j"/>
     <title>Enterprise Automation &amp; Solution Delivery (EASD) – LFS Services Maintenance from May 14, 2026 15:00  -  16:00</title>
     <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;15:01&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;15:36&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Enterprise Automation &amp; Solution Delivery (EASD) – LFS Services Maintenance from May 14, 2026 15:00 - May 14, 2026  16:00 &lt;br /&gt;&lt;br /&gt;The LFS Team will be releasing software updates that may affect any of the following:&lt;br /&gt;&lt;br /&gt;Apps/Services:&lt;br /&gt;&lt;br /&gt;Learner Financial System (LFS)&lt;br /&gt;There will be an upcoming outage on May 21 from 2pm-6pm for the LFSM system for the release of new features for our work with Student Aid BC.  During this outage, students and staff will be unable to access LFSM.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Release Impact&lt;br /&gt;&lt;br /&gt;No other impacts to end users&lt;br /&gt;Release activities will be completed between  May 14, 2026 15:00 - May 14, 2026  16:00 &lt;br /&gt;Reason for maintenance:&lt;br /&gt;&lt;br /&gt;Bug Fixes for Appian LFS&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/30121252</id>
-    <published>2026-05-14T15:00:09-07:00</published>
-    <updated>2026-05-14T15:00:09-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/3rghdm5grhjn"/>
-    <title>you.ubc.ca Website is not accessible May 14, 2026  10.45 PT</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;14:37&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - The website has been restored.  UBC IT technicians will continue to monitor through the day.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;14:37&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to investigate this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;13:02&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Update :  May 14, 2026  13:00 PT&lt;br /&gt;&lt;br /&gt;Technicians are continuing to work on a resolution.  This message will be updated when we have more information.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;10:47&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Presently you.ubc.ca Website is not accessible.  Technicians are working to restore the website.&lt;/p&gt;</content>
   </entry>
 </feed>
