@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-05-21T12:43:57-07:00</updated>
+  <updated>2026-05-21T18:00:07-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -74,19 +74,27 @@
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30103398</id>
-    <published>2026-05-21T14:00:00-07:00</published>
-    <updated>2026-05-13T10:53:07-07:00</updated>
+    <published>2026-05-21T18:00:07-07:00</published>
+    <updated>2026-05-21T18:00:07-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/td6gwq74gv70"/>
     <title>Learner Financial Support Management (LFSM)  Maintenance May 21, 2026, 14:00-18:00 PT</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;14:00&lt;/var&gt; - &lt;var data-var='time'&gt;18:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;10:53&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Learner Financial Support Management (LFSM) applications, including the UBC Bursary (Financial Profile) application and Award Offer Acceptance screen, will be unavailable from 14:00 to 18:00 PT on May 21,2026 due to a planned system maintenance update. Students, Faculty and Staff are advised to plan accordingly.&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;18:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;14:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;10:53&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - Learner Financial Support Management (LFSM) applications, including the UBC Bursary (Financial Profile) application and Award Offer Acceptance screen, will be unavailable from 14:00 to 18:00 PT on May 21,2026 due to a planned system maintenance update. Students, Faculty and Staff are advised to plan accordingly.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30225724</id>
-    <published>2026-05-21T12:00:07-07:00</published>
-    <updated>2026-05-21T12:00:07-07:00</updated>
+    <published>2026-05-21T16:01:07-07:00</published>
+    <updated>2026-05-21T16:01:07-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/h0694hflnc16"/>
     <title>Enterprise Automation &amp; Solution Delivery service maintenance for Graduation Management Application  21 May 2026 12:00 - 16:00 PT</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;12:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;15:49&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - The Enterprise Automation and Solution Delivery (EASD)  Graduation Management Application will undergo maintenance from 21 May 2026 from 12:00  and validation until 21 May 2026 16:00&lt;br /&gt;&lt;br /&gt;Apps/Services:&lt;br /&gt;&lt;br /&gt;Bug fixes for Graduation Management Application (CNVM-Appian)&lt;br /&gt;To fix the bug that Ceremony Details page is not accessible &lt;br /&gt;Impacts:&lt;br /&gt;&lt;br /&gt;During this maintenance there may be a brief interruption (from 21 May 2026 from 12:00 - 12:30) to the apps and services listed above.&lt;br /&gt;Impacted Services:&lt;br /&gt;&lt;br /&gt;ubc-iec--appian-web-graduation-management-application--1&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;16:01&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;12:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;15:49&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - The Enterprise Automation and Solution Delivery (EASD)  Graduation Management Application will undergo maintenance from 21 May 2026 from 12:00  and validation until 21 May 2026 16:00&lt;br /&gt;&lt;br /&gt;Apps/Services:&lt;br /&gt;&lt;br /&gt;Bug fixes for Graduation Management Application (CNVM-Appian)&lt;br /&gt;To fix the bug that Ceremony Details page is not accessible &lt;br /&gt;Impacts:&lt;br /&gt;&lt;br /&gt;During this maintenance there may be a brief interruption (from 21 May 2026 from 12:00 - 12:30) to the apps and services listed above.&lt;br /&gt;Impacted Services:&lt;br /&gt;&lt;br /&gt;ubc-iec--appian-web-graduation-management-application--1&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/30206941</id>
+    <published>2026-05-21T16:00:07-07:00</published>
+    <updated>2026-05-21T16:00:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/6mbd7mhyz56c"/>
+    <title>U-Pass BC Maintenance  May 21, 2026 09:00-16:00 PT</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;14:29&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - U-Pass BC Website Maintenance on May 21, 2026&lt;br /&gt;On May 21, 2026 from 09:00 – 1600 PT, login to the U-Pass BC website (upassbc.translink.ca) will be unavailable due to website maintenance. During this time, the website will be online but users will not be able to login and activate their U-pass. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;U-Pass BC Website Maintenance on May 21, 2026&lt;br /&gt;On May 21,  2026 from 09:00 – 1600 PT, login to the U-Pass BC Admin website (https://upassbcadmin-b.translink.ca) will be unavailable due to website maintenance. During this time the website will be online, but users will not be able to login to check student account status, eligibility or card status.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30222590</id>
@@ -95,14 +103,6 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/8x6y0vv4bh3w"/>
     <title>Disruption of Tableau services at UBC  May 20, 2026 11.15 PT</title>
     <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;11:06&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - Access to Tableau has been restored for UBC users. Users should now be able to access Tableau resources as usual.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;16:59&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - • ETA Update: We are now targeting a resolution by 2:00 PM May 21, 2026&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;13:59&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - • ETA Update: We are now targeting a resolution by 4:00 PM today.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;11:15&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Disruption of Tableau services at UBC:&lt;br /&gt;• Issue: Tableau services are currently experiencing a UBC-wide outage due to an ongoing contract renewal process.&lt;br /&gt;• Impact: Users are unable to access data stored in Tableau reports, which may affect regular operations and supporting processes.&lt;br /&gt;• Progress: UBC Procurement is working directly with Tableau (Salesforce) to finalize the renewal and restore full access as quickly as possible.&lt;br /&gt;• ETA: We are targeting a resolution by 2:00 PM today.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/30206941</id>
-    <published>2026-05-21T09:00:07-07:00</published>
-    <updated>2026-05-21T09:00:07-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/6mbd7mhyz56c"/>
-    <title>U-Pass BC Maintenance  May 21, 2026 09:00-16:00 PT</title>
-    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;14:29&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Scheduled&lt;/strong&gt; - U-Pass BC Website Maintenance on May 21, 2026&lt;br /&gt;On May 21, 2026 from 09:00 – 1600 PT, login to the U-Pass BC website (upassbc.translink.ca) will be unavailable due to website maintenance. During this time, the website will be online but users will not be able to login and activate their U-pass. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;U-Pass BC Website Maintenance on May 21, 2026&lt;br /&gt;On May 21,  2026 from 09:00 – 1600 PT, login to the U-Pass BC Admin website (https://upassbcadmin-b.translink.ca) will be unavailable due to website maintenance. During this time the website will be online, but users will not be able to login to check student account status, eligibility or card status.&lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30087826</id>
