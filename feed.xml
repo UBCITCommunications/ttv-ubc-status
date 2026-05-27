@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-05-27T08:30:10-07:00</updated>
+  <updated>2026-05-27T13:00:15-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -89,6 +89,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; - &lt;var data-var='time'&gt;23:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;12:12&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - UBCIT will be performing maintenance on the eSAM component and vault servers on May 27, 2026, 20:00-23:00 PT. This change will affect both UBC campuses.&lt;br /&gt;&lt;br /&gt;Users will intermittently not be able to login to any servers managed by eSAM, nor retrieve any credentials via the eSAM Web UI throughout the maintenance window. &lt;br /&gt;&lt;br /&gt;Any connections terminated while a component is being rebooted can be reconnected to the secondary node. All connections will be terminated and users won't be able to reconnect while we patch the vault servers (which typically lasts around 30 minutes) during this window. &lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/30341245</id>
+    <published>2026-05-27T17:00:00-07:00</published>
+    <updated>2026-05-27T12:55:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/5yzc9d2m24k3"/>
+    <title>Cybersecurity Confidential Communications Website Upgrade May 27, 2025, 17:00-19:00 PT</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; - &lt;var data-var='time'&gt;19:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;12:55&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The Cybersecurity Confidential Communications website cc.cybersecurity.ubc.ca will be undergoing scheduled maintenance on May 27, 2025, 17:00-19:00 PT. During this time, users will not be able to access this site. &lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30323933</id>
     <published>2026-05-27T17:00:00-07:00</published>
     <updated>2026-05-26T14:57:22-07:00</updated>
@@ -99,26 +107,26 @@
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30323882</id>
     <published>2026-05-27T14:00:00-07:00</published>
-    <updated>2026-05-26T14:54:07-07:00</updated>
+    <updated>2026-05-27T13:00:15-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/9qxh3x9jp87y"/>
     <title>EduCloud Server Maintenance May 27, 2026, 14:00–18:00 PT</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;14:00&lt;/var&gt; - &lt;var data-var='time'&gt;18:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;14:54&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - We will be undergoing scheduled maintenance during this time. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;14:52&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - EduCloud Server Web Portals (bcnet.educloud.ubc.ca, dr.educloud.ubc.ca, and educloud.ubc.ca) will undergo maintenance on May 27, 2026, 14:00–18:00 PT.  There is no expected user impact during this maintenance window. &lt;/p&gt;</content>
   </entry>
   <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/30323872</id>
-    <published>2026-05-27T09:30:00-07:00</published>
-    <updated>2026-05-27T08:30:09-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/v7tccq5rzgmc"/>
-    <title>FireMon Maintenance, May 27, 2026,  0930 - 1330  PT</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;09:30&lt;/var&gt; - &lt;var data-var='time'&gt;13:30&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;14:50&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - FireMon will be undergoing maintenance, May 27, 2026,  0930 - 1330  PT.  During this time, there may be intermittent periods of disruption or brief service interruptions as systems are transitioned. &lt;/p&gt;</content>
-  </entry>
-  <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30304455</id>
-    <published>2026-05-25T12:46:19-07:00</published>
-    <updated>2026-05-25T12:46:19-07:00</updated>
+    <published>2026-05-27T12:06:59-07:00</published>
+    <updated>2026-05-27T12:06:59-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/6kkrm0cn7m95"/>
     <title>Black screen on UBC-managed Windows devices</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;12:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - Some faculty and staff Windows workstations are experiencing an issue where users see a black screen and the Windows taskbar disappeared and applications could not be launched. &lt;br /&gt;&lt;br /&gt;The issue has been identified. Impacted systems must remain connected to the internet to receive the update. &lt;br /&gt;&lt;br /&gt;A reboot is not required. &lt;br /&gt;&lt;br /&gt;Users currently experiencing the issue can restore functionality by restarting Windows Explorer with the following steps:&lt;br /&gt;&lt;br /&gt;1. Press Ctrl + Shift + Esc to open Task Manager. &lt;br /&gt;2. If Task Manager opens in compact mode, select More details. Select Run new task. &lt;br /&gt;3. Type explorer.exe and select OK.&lt;br /&gt;4. The update may take up to one hour to complete.&lt;br /&gt;5. If the issue still persists after this, please reach out to your local IT desktop support team.&lt;br /&gt;&lt;br /&gt;If you are unable to connect to the network for this update, please reach out to your local IT desktop support team. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;12:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Monitoring&lt;/strong&gt; - . &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;12:06&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;12:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - Some faculty and staff Windows workstations are experiencing an issue where users see a black screen and the Windows taskbar disappeared and applications could not be launched. &lt;br /&gt;&lt;br /&gt;The issue has been identified. Impacted systems must remain connected to the internet to receive the update. &lt;br /&gt;&lt;br /&gt;A reboot is not required. &lt;br /&gt;&lt;br /&gt;Users currently experiencing the issue can restore functionality by restarting Windows Explorer with the following steps:&lt;br /&gt;&lt;br /&gt;1. Press Ctrl + Shift + Esc to open Task Manager. &lt;br /&gt;2. If Task Manager opens in compact mode, select More details. Select Run new task. &lt;br /&gt;3. Type explorer.exe and select OK.&lt;br /&gt;4. The update may take up to one hour to complete.&lt;br /&gt;5. If the issue still persists after this, please reach out to your local IT desktop support team.&lt;br /&gt;&lt;br /&gt;If you are unable to connect to the network for this update, please reach out to your local IT desktop support team. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;12:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Monitoring&lt;/strong&gt; - . &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/30323872</id>
+    <published>2026-05-27T09:30:07-07:00</published>
+    <updated>2026-05-27T09:30:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/v7tccq5rzgmc"/>
+    <title>FireMon Maintenance, May 27, 2026,  0930 - 1330  PT</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;09:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;14:50&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - FireMon will be undergoing maintenance, May 27, 2026,  0930 - 1330  PT.  During this time, there may be intermittent periods of disruption or brief service interruptions as systems are transitioned. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30303575</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/sgw09ts20fk4"/>
     <title>UBC Enterprise Mailing Lists Service Migration May 22, 2026 10:00-12:00 PT</title>
     <content type="html">&lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;12:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;14:35&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The UBC Enterprise Mailing Lists (LISTSERV) server hosted on EduCloud will be undergoing maintenance on May 22, 2026 from 10:00-12:00 PT.  The UBC Mailing Lists web portal at https://lists.ubc.ca will be unavailable during this time.  Also, messages sent to @lists.ubc.ca will be delayed for delivery to recipients as they will be queued until the maintenance has completed. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/30225709</id>
-    <published>2026-05-22T04:00:09-07:00</published>
-    <updated>2026-05-22T04:00:09-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/9jhmfwzclj63"/>
-    <title>Totem Park and Place Vanier Network Switch Replacement May 21, 2026 22:00 -  May 22, 2026 04:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;04:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;22:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;15:46&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Network maintenance is being performed at the Totem Park and Place Vanier Student Residences, involving replacement of aging network infrastructure. During this service window from May 21, 2026 22:00 -  May 22, 2026 04:00 PT; network services will be interrupted briefly and intermittently while physical and logical changes are being performed on the network backbones and while the user ports are migrated to new switching infrastructure. &lt;/p&gt;</content>
   </entry>
 </feed>
