@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-05-27T13:00:15-07:00</updated>
+  <updated>2026-05-27T19:01:30-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -73,6 +73,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;21:00&lt;/var&gt; PDT &amp;nbsp;-&amp;nbsp; May &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;10:42&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Please be advised that on May 29 2026, 21:00 PT to May 30 2026, 00:00 PT, Workday will be undergoing scheduled maintenance as part of its weekly service update. The system will remain accessible during the scheduled maintenance period but it is advised not to run critical processes and tasks.  &lt;br /&gt;Learn about Workday Support at UBC and other available resources on isc.ubc.ca. &lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/30343089</id>
+    <published>2026-05-28T20:00:00-07:00</published>
+    <updated>2026-05-27T15:43:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/3hll9f4k9fdx"/>
+    <title>Enterprise Automation &amp; Solution Delivery APPIAN Cloud Platform Maintenance from May 28, 2026, 20:00 - 22:00 PST</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; - &lt;var data-var='time'&gt;22:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;15:43&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Enterprise Automation &amp; Solution Delivery (EASD) APPIAN Business Process Management System (BPMS) Cloud Platform Maintenance from May 28, 2026, 20:00 PT to 22:00 PST&lt;br /&gt;&lt;br /&gt;During the maintenance window, the Appian Production site will have a service interruption of up to 2 hours between May 28, 2026, 20:00 and 22:00 PST&lt;br /&gt;&lt;br /&gt;Validation will continue until 16:00 PST, next day - May 29, 2026 16:00 PST&lt;br /&gt;&lt;br /&gt;All BPMS Applications will auto-recover.&lt;br /&gt;&lt;br /&gt;Impacted applications:&lt;br /&gt;&lt;br /&gt;Scheduling Applications:&lt;br /&gt;Special Topics and Variable Credit (STVC)&lt;br /&gt;Standard Time Table (STTM)&lt;br /&gt;Scheduling Menu (SM)&lt;br /&gt;Final Grade Submission (AOC)&lt;br /&gt;Official Documents (ODMT)&lt;br /&gt;Student Direct Stream (SDS)&lt;br /&gt;Document Viewer (DOCV)&lt;br /&gt;Learner Financial Support (LFS)&lt;br /&gt;Role Based Access Control (RBAC)&lt;br /&gt;Student Communications Tool (ADHC)&lt;br /&gt;Course Management (CRSS)&lt;br /&gt;Academic Records (AARS)&lt;br /&gt;Affiliate Student Management Tool (ASMT)&lt;br /&gt;Scheduling Transfers (SCHT)&lt;br /&gt;Custom Organization Management System (COMS)&lt;br /&gt;Exam Management (EXMM)&lt;br /&gt;Integration Error Log (ERRL)&lt;br /&gt;Record Queue Manager (RQM)&lt;br /&gt;TeachEval (SET)&lt;br /&gt;Graduation Management (CNVM) &lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30207053</id>
     <published>2026-05-28T17:00:00-07:00</published>
     <updated>2026-05-19T14:43:25-07:00</updated>
@@ -81,36 +89,52 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; - &lt;var data-var='time'&gt;17:45&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;14:43&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - A scheduled maintenance activity will be performed on the Perceptive Content environment.&lt;br /&gt;&lt;br /&gt;The RHEL server will be patched as scheduled, and all Perceptive Content application services will be unavailable during the maintenance window. &lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/30343109</id>
+    <published>2026-05-28T15:00:00-07:00</published>
+    <updated>2026-05-27T15:46:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/j3p7l2tvqxsc"/>
+    <title>Enterprise Automation and Solution Delivery services maintenance for Exam Management from May 28, 2026 15:00 -17:00</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;15:00&lt;/var&gt; - &lt;var data-var='time'&gt;17:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;15:46&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Enterprise Automation and Solution Delivery services maintenance for Exam Management from May 28, 2026 15:00 -17:00 &lt;br /&gt;&lt;br /&gt;The EASD Team will be releasing software updates that may affect Exam services&lt;br /&gt;&lt;br /&gt;During this maintenance window there may be a brief interruption to the apps and services for &lt;30 min&lt;br /&gt;Release activities will be completed between from May 28, 2026 15:00 - 17:00.&lt;br /&gt;Apps/Services:&lt;br /&gt;&lt;br /&gt;Bug fixes / Enhancement for Exam Application and Exam Requirement&lt;br /&gt;Fix Appian to capture the correct number of registered students, including registration drops and adds with minimal delay so that when Scheduling Services exports the exam requirements from Appian to Scientia Exam Scheduler, there is accurate student information being transferred. &lt;br /&gt;A fix to remove 500 error frpm Appian application when exam payments are processed by upay/dpp&lt;br /&gt;Impacts:&lt;br /&gt;&lt;br /&gt;No other impacts to end users.&lt;br /&gt;Reason for maintenance:&lt;br /&gt;&lt;br /&gt;IRP Student: Exams enhancements &amp; bug fixes &lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/29973316</id>
     <published>2026-05-27T20:00:00-07:00</published>
-    <updated>2026-05-12T05:15:39-07:00</updated>
+    <updated>2026-05-27T19:01:30-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/6b1bfjg56yr2"/>
     <title>UBCIT eSAM Servers Maintenance May 27, 2026, 20:00-23:00 PT</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; - &lt;var data-var='time'&gt;23:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;12:12&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - UBCIT will be performing maintenance on the eSAM component and vault servers on May 27, 2026, 20:00-23:00 PT. This change will affect both UBC campuses.&lt;br /&gt;&lt;br /&gt;Users will intermittently not be able to login to any servers managed by eSAM, nor retrieve any credentials via the eSAM Web UI throughout the maintenance window. &lt;br /&gt;&lt;br /&gt;Any connections terminated while a component is being rebooted can be reconnected to the secondary node. All connections will be terminated and users won't be able to reconnect while we patch the vault servers (which typically lasts around 30 minutes) during this window. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30341245</id>
-    <published>2026-05-27T17:00:00-07:00</published>
-    <updated>2026-05-27T12:55:00-07:00</updated>
+    <published>2026-05-27T19:00:08-07:00</published>
+    <updated>2026-05-27T19:00:08-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/5yzc9d2m24k3"/>
     <title>Cybersecurity Confidential Communications Website Upgrade May 27, 2025, 17:00-19:00 PT</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; - &lt;var data-var='time'&gt;19:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;12:55&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The Cybersecurity Confidential Communications website cc.cybersecurity.ubc.ca will be undergoing scheduled maintenance on May 27, 2025, 17:00-19:00 PT. During this time, users will not be able to access this site. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/30323933</id>
-    <published>2026-05-27T17:00:00-07:00</published>
-    <updated>2026-05-26T14:57:22-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/qt85zf78qkx0"/>
-    <title>UBC IT Domain Name System DNS Maintenance May 27, 2026, 17:00-21:00 PT</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; - &lt;var data-var='time'&gt;21:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;14:57&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - UBC IT will be performing  maintenance on its DNS servers on May 27, 2026, 17:00-21:00 PT.&lt;br /&gt;DNS/DHCP service will not be impacted. &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;19:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;12:55&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The Cybersecurity Confidential Communications website cc.cybersecurity.ubc.ca will be undergoing scheduled maintenance on May 27, 2025, 17:00-19:00 PT. During this time, users will not be able to access this site. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30323882</id>
-    <published>2026-05-27T14:00:00-07:00</published>
-    <updated>2026-05-27T13:00:15-07:00</updated>
+    <published>2026-05-27T18:00:08-07:00</published>
+    <updated>2026-05-27T18:00:08-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/9qxh3x9jp87y"/>
     <title>EduCloud Server Maintenance May 27, 2026, 14:00–18:00 PT</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;14:00&lt;/var&gt; - &lt;var data-var='time'&gt;18:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;14:54&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - We will be undergoing scheduled maintenance during this time. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;14:52&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - EduCloud Server Web Portals (bcnet.educloud.ubc.ca, dr.educloud.ubc.ca, and educloud.ubc.ca) will undergo maintenance on May 27, 2026, 14:00–18:00 PT.  There is no expected user impact during this maintenance window. &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;18:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;14:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;14:54&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - We will be undergoing scheduled maintenance during this time. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;14:52&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - EduCloud Server Web Portals (bcnet.educloud.ubc.ca, dr.educloud.ubc.ca, and educloud.ubc.ca) will undergo maintenance on May 27, 2026, 14:00–18:00 PT.  There is no expected user impact during this maintenance window. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/30323933</id>
+    <published>2026-05-27T17:00:12-07:00</published>
+    <updated>2026-05-27T17:00:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/qt85zf78qkx0"/>
+    <title>UBC IT Domain Name System DNS Maintenance May 27, 2026, 17:00-21:00 PT</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;14:57&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - UBC IT will be performing  maintenance on its DNS servers on May 27, 2026, 17:00-21:00 PT.&lt;br /&gt;DNS/DHCP service will not be impacted. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/30323872</id>
+    <published>2026-05-27T13:30:07-07:00</published>
+    <updated>2026-05-27T13:30:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/v7tccq5rzgmc"/>
+    <title>FireMon Maintenance, May 27, 2026,  0930 - 1330  PT</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;13:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;09:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;14:50&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - FireMon will be undergoing maintenance, May 27, 2026,  0930 - 1330  PT.  During this time, there may be intermittent periods of disruption or brief service interruptions as systems are transitioned. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30304455</id>
@@ -119,14 +143,6 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/6kkrm0cn7m95"/>
     <title>Black screen on UBC-managed Windows devices</title>
     <content type="html">&lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;12:06&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;12:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - Some faculty and staff Windows workstations are experiencing an issue where users see a black screen and the Windows taskbar disappeared and applications could not be launched. &lt;br /&gt;&lt;br /&gt;The issue has been identified. Impacted systems must remain connected to the internet to receive the update. &lt;br /&gt;&lt;br /&gt;A reboot is not required. &lt;br /&gt;&lt;br /&gt;Users currently experiencing the issue can restore functionality by restarting Windows Explorer with the following steps:&lt;br /&gt;&lt;br /&gt;1. Press Ctrl + Shift + Esc to open Task Manager. &lt;br /&gt;2. If Task Manager opens in compact mode, select More details. Select Run new task. &lt;br /&gt;3. Type explorer.exe and select OK.&lt;br /&gt;4. The update may take up to one hour to complete.&lt;br /&gt;5. If the issue still persists after this, please reach out to your local IT desktop support team.&lt;br /&gt;&lt;br /&gt;If you are unable to connect to the network for this update, please reach out to your local IT desktop support team. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;12:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Monitoring&lt;/strong&gt; - . &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/30323872</id>
-    <published>2026-05-27T09:30:07-07:00</published>
-    <updated>2026-05-27T09:30:07-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/v7tccq5rzgmc"/>
-    <title>FireMon Maintenance, May 27, 2026,  0930 - 1330  PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;09:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;14:50&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - FireMon will be undergoing maintenance, May 27, 2026,  0930 - 1330  PT.  During this time, there may be intermittent periods of disruption or brief service interruptions as systems are transitioned. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30303575</id>
@@ -191,21 +207,5 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/01znjtfh9vfk"/>
     <title>Workday Scheduled Weekly Maintenance May 22, 2026, 21:00 PT to May 23, 2026, 00:00 PT</title>
     <content type="html">&lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;21:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;11:52&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Please be advised that on May 22 2026, 21:00 PT to May 23 2026, 00:00 PT, Workday will be undergoing scheduled maintenance as part of its weekly service update. The system will remain accessible during the scheduled maintenance period but it is advised not to run critical processes and tasks. &lt;br /&gt;Learn about Workday Support at UBC and other available resources on isc.ubc.ca. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/29731196</id>
-    <published>2026-05-22T17:00:09-07:00</published>
-    <updated>2026-05-22T17:00:09-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/g35qnwqvxpqk"/>
-    <title>TouchNet TEST site (uCommerce 9.5) Scheduled Maintenance May 22, 2026 05:00 to 17:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;05:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Apr &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;10:17&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The TouchNet TEST site will be undergoing scheduled maintenance. During the update window the TouchNet TEST site will be offline for logging in by staff as a TouchNet user and for making TEST payments. &lt;br /&gt;&lt;br /&gt;For any questions please contact dpp.support@ubc.ca &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/30206972</id>
-    <published>2026-05-22T12:00:07-07:00</published>
-    <updated>2026-05-22T12:00:07-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/sgw09ts20fk4"/>
-    <title>UBC Enterprise Mailing Lists Service Migration May 22, 2026 10:00-12:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;12:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;14:35&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The UBC Enterprise Mailing Lists (LISTSERV) server hosted on EduCloud will be undergoing maintenance on May 22, 2026 from 10:00-12:00 PT.  The UBC Mailing Lists web portal at https://lists.ubc.ca will be unavailable during this time.  Also, messages sent to @lists.ubc.ca will be delayed for delivery to recipients as they will be queued until the maintenance has completed. &lt;/p&gt;</content>
   </entry>
 </feed>
