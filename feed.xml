@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-05-29T07:39:13-07:00</updated>
+  <updated>2026-05-29T11:35:46-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -79,6 +79,22 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/g3pdlw968xnm"/>
     <title>Workday Scheduled Weekly Maintenance May 29, 2026, 21:00 PT to May 30, 2026, 00:00 PT</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;21:00&lt;/var&gt; PDT &amp;nbsp;-&amp;nbsp; May &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;10:42&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Please be advised that on May 29 2026, 21:00 PT to May 30 2026, 00:00 PT, Workday will be undergoing scheduled maintenance as part of its weekly service update. The system will remain accessible during the scheduled maintenance period but it is advised not to run critical processes and tasks.  &lt;br /&gt;Learn about Workday Support at UBC and other available resources on isc.ubc.ca. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/30373744</id>
+    <published>2026-05-29T15:00:00-07:00</published>
+    <updated>2026-05-29T08:08:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/lh30r7hqh846"/>
+    <title>Official Document Tool (ODMT) Maintenance May 29, 2026  15.00 - 20.00 PT</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT May &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;15:00&lt;/var&gt; - &lt;var data-var='time'&gt;20:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;08:08&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The UBC Official Document Tool (ODMT) will be temporarily unavailable due to scheduled maintenance on May 29, 2026, from 3:00 PM to 8:00 PM (PT). The outage may extend into the morning of Monday, June 1.  During this maintenance window, students will not be able to access, download, or order official documents (e.g., transcripts, enrolment letters, program completion letters). &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/30375591</id>
+    <published>2026-05-29T10:11:29-07:00</published>
+    <updated>2026-05-29T10:11:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/nrr40ngpqdvl"/>
+    <title>Microsoft Copilot users experiencing intermittent slowness  May 29, 2026  10.00 PT</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;10:11&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - Microsoft Copilot users may be experiencing intermittent slowness or non-response from Copilot.  Microsoft is aware of the issue and is actively working to recover the service.  &lt;br /&gt;Next update will be provided at 12:00 PT. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30343089</id>
@@ -191,21 +207,5 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/wld7h1y83b21"/>
     <title>Multiple services are impacted May 25, 2026 08.35 PT</title>
     <content type="html">&lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;09:11&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;08:34&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - The following services are presently impacted.  &lt;br /&gt;&lt;br /&gt;-	Scientia Enterprise Suite / Scientia Web Portal&lt;br /&gt;-	SITS eVision&lt;br /&gt;-	Online Advising Mangement System (OAMS)&lt;br /&gt;&lt;br /&gt;The support teams are currently working on this with no ETA at this time. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/30295706</id>
-    <published>2026-05-24T22:14:10-07:00</published>
-    <updated>2026-05-24T22:14:10-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/dyvxhh0pqz4t"/>
-    <title>Intermittent CWL Authentication issues affecting logging into some UBC systems</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;22:14&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - Earlier today, some users may have experienced intermittent issues with CWL authentication. We understand the impact this may have caused and appreciate your patience while we investigated.&lt;br /&gt;&lt;br /&gt;The issue has now been fully resolved, and access has been restored for all users. If you continue to experience any difficulties, please contact the IT Service Centre. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/30121252</id>
-    <published>2026-05-24T08:16:18-07:00</published>
-    <updated>2026-05-24T08:16:18-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/3rghdm5grhjn"/>
-    <title>you.ubc.ca Website is not accessible May 14, 2026  10.45 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;08:16&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;14:37&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Monitoring&lt;/strong&gt; - The website has been restored.  UBC IT technicians will continue to monitor through the day. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;14:37&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - We are continuing to investigate this issue. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;13:02&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - Update :  May 14, 2026  13:00 PT&lt;br /&gt;&lt;br /&gt;Technicians are continuing to work on a resolution.  This message will be updated when we have more information. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;10:47&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - Presently you.ubc.ca Website is not accessible.  Technicians are working to restore the website. &lt;/p&gt;</content>
   </entry>
 </feed>
