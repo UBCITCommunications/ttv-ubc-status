@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-06-10T02:24:04-07:00</updated>
+  <updated>2026-06-10T08:19:37-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -57,20 +57,20 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; - &lt;var data-var='time'&gt;17:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;14:56&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - On Thursday, June 11, 2026 from 09:00 PT to 17:00 PT, the UBC SharePoint Software as a Service (SaaS) service will be undergoing maintenance. During this maintenance window, SharePoint on-prem sites will be accessible as no interruptions to the service are expected. &lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/30494068</id>
+    <published>2026-06-10T05:00:13-07:00</published>
+    <updated>2026-06-10T05:00:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/4kp52x4gp3r5"/>
+    <title>Exchange Student Residence Network Switch Replacement June 9, 2026 22:00 - June 10, 2026 05:00 PT</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;05:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;22:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;14:55&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Network maintenance is being performed at the Exchange Student Residence, involving replacement of aging network infrastructure. During this service window from June 9, 2026 22:00 - June 10, 2026 05:00 PT; network services will be interrupted briefly and intermittently while physical and logical changes are being performed on the network backbones and while the user ports are migrated to new switching infrastructure. &lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30508301</id>
     <published>2026-06-10T02:00:07-07:00</published>
     <updated>2026-06-10T02:00:07-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/p1t6m2g64vs6"/>
     <title>LTIC Service Maintenance June 9, 2026, 22:00 - June 10, 02:00 PT</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;02:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;22:01&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;15:13&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Multiple LTIC services may experience brief, intermittent interruptions due to scheduled maintenance on June 9, 2026, 22:00 - June 10, 02:00 PT.&lt;br /&gt;&lt;br /&gt;Services affected:&lt;br /&gt;ComPAIR&lt;br /&gt;Hotcrp&lt;br /&gt;iPeer&lt;br /&gt;Moodle&lt;br /&gt;WeBWorK&lt;br /&gt;UBC Wiki &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/30494068</id>
-    <published>2026-06-09T22:00:07-07:00</published>
-    <updated>2026-06-09T22:00:07-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/4kp52x4gp3r5"/>
-    <title>Exchange Student Residence Network Switch Replacement June 9, 2026 22:00 - June 10, 2026 05:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;22:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;14:55&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Network maintenance is being performed at the Exchange Student Residence, involving replacement of aging network infrastructure. During this service window from June 9, 2026 22:00 - June 10, 2026 05:00 PT; network services will be interrupted briefly and intermittently while physical and logical changes are being performed on the network backbones and while the user ports are migrated to new switching infrastructure. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30205024</id>
