@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-06-09T11:44:37-07:00</updated>
+  <updated>2026-06-09T20:19:21-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -41,12 +41,28 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; - &lt;var data-var='time'&gt;04:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;12:10&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The TouchNet PROD site will be undergoing scheduled maintenance. During the update window the TouchNet PROD site will be offline for logging in by staff as a TouchNet user and for customers making new payments. During this time when the payor clicks "pay now" TouchNet will display a screen informing the payor that the system is off line for maintenance and to try again after the system is back online. &lt;br /&gt;For any questions please contact dpp.support@ubc.ca &lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/30508318</id>
+    <published>2026-06-11T09:00:00-07:00</published>
+    <updated>2026-06-09T15:16:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/chsh87b6dyb9"/>
+    <title>UBC SharePoint Maintenance Thursday, June 11, 2026 09:00 PT to 17:00 PT</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; - &lt;var data-var='time'&gt;17:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;15:16&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - On Thursday, June 11, 2026 from 09:00 PT to 17:00 PT, the UBC SharePoint Software as a Service (SaaS) service will be undergoing maintenance. During this maintenance window, SharePoint on-prem sites will be accessible as no interruptions to the service are expected. &lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30494072</id>
     <published>2026-06-11T09:00:00-07:00</published>
     <updated>2026-06-08T14:56:06-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/8f3pqkt3146z"/>
     <title>UBC SharePoint Maintenance Thursday, June 11, 2026 09:00 PT to 17:00 PT</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; - &lt;var data-var='time'&gt;17:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;14:56&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - On Thursday, June 11, 2026 from 09:00 PT to 17:00 PT, the UBC SharePoint Software as a Service (SaaS) service will be undergoing maintenance. During this maintenance window, SharePoint on-prem sites will be accessible as no interruptions to the service are expected. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/30508301</id>
+    <published>2026-06-09T22:00:00-07:00</published>
+    <updated>2026-06-09T15:13:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/p1t6m2g64vs6"/>
+    <title>LTIC Service Maintenance June 9, 2026, 22:00 - June 10, 02:00 PT</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;9&lt;/var&gt;, &lt;var data-var='time'&gt;22:00&lt;/var&gt; PDT &amp;nbsp;-&amp;nbsp; Jun &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;02:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;15:13&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Multiple LTIC services may experience brief, intermittent interruptions due to scheduled maintenance on June 9, 2026, 22:00 - June 10, 02:00 PT.&lt;br /&gt;&lt;br /&gt;Services affected:&lt;br /&gt;ComPAIR&lt;br /&gt;Hotcrp&lt;br /&gt;iPeer&lt;br /&gt;Moodle&lt;br /&gt;WeBWorK&lt;br /&gt;UBC Wiki &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30494068</id>
@@ -58,27 +74,27 @@
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30205024</id>
-    <published>2026-06-09T15:00:00-07:00</published>
-    <updated>2026-05-19T11:57:46-07:00</updated>
+    <published>2026-06-09T18:00:07-07:00</published>
+    <updated>2026-06-09T18:00:07-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/8j0x2rs3p3m6"/>
     <title>Admissions System Maintenance (ADM) Maintenance June 9, 2026, 15:00-18:00 PT</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;9&lt;/var&gt;, &lt;var data-var='time'&gt;15:00&lt;/var&gt; - &lt;var data-var='time'&gt;18:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;11:57&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - ADM applications, including Admissions Administrative Portal (AAP), Applicant Service Centre (ASC), Broad-Based Admission (BBA), and Application Server (AS), will be unavailable on June 9, 2026, from 15:00 to 18:00 PT due to a planned server migration.&lt;br /&gt;During this time, staff may not be able to access ADM applications, and students may not be able to log in to the Applicant Service Centre to accept offers, view application statuses, or complete related activities. Students, faculty, and staff are advised to plan accordingly. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/30494066</id>
-    <published>2026-06-09T07:30:07-07:00</published>
-    <updated>2026-06-09T07:30:07-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/pkh3l67794zv"/>
-    <title>Red Hat Satellite Service Maintenance June 9, 2026, 07:30 PT to June 9, 2026 15:30 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;07:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;14:54&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The UBC Satellite service will not be available on June 9, 2026, 07:30 PT to June 9, 2026 15:30 PT due to service maintenance.&lt;br /&gt;&lt;br /&gt;The Red Hat Satellite service provides errata and software updates to all registered Red Hat Linux systems. The service will be unavailable during the maintenance window. Users will be unable to register systems with the service, install software, or patches hosted by the service.&lt;br /&gt;&lt;br /&gt;Satellite Organization administrators should review the release notes to ensure their organization is not adversely affected by API or other changes in functionality:&lt;br /&gt;&lt;br /&gt;https://docs.redhat.com/en/documentation/red_hat_satellite/6.17/html/release_notes/index &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;18:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;15:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;11:57&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - ADM applications, including Admissions Administrative Portal (AAP), Applicant Service Centre (ASC), Broad-Based Admission (BBA), and Application Server (AS), will be unavailable on June 9, 2026, from 15:00 to 18:00 PT due to a planned server migration.&lt;br /&gt;During this time, staff may not be able to access ADM applications, and students may not be able to log in to the Applicant Service Centre to accept offers, view application statuses, or complete related activities. Students, faculty, and staff are advised to plan accordingly. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30453256</id>
-    <published>2026-06-09T04:00:14-07:00</published>
-    <updated>2026-06-09T04:00:14-07:00</updated>
+    <published>2026-06-09T16:00:09-07:00</published>
+    <updated>2026-06-09T16:00:09-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/9g7b1k3nxlkz"/>
     <title>Enterprise Automation &amp; Solution Delivery APPIAN Cloud Platform Maintenance from June 9, 2026, 04:00 - 16:00 PST</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;04:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;11:54&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Enterprise Automation &amp; Solution Delivery (EASD)  APPIAN Business Process Management System (BPMS) Cloud Platform Maintenance is scheduled for 09 Jun 2026, 04:00 - 16:00 PST.&lt;br /&gt;&lt;br /&gt;During the maintenance window, the UBC Appian site will experience a service interruption of up to two hours  09 Jun 2026 between 04:00 and 06:00 PST.&lt;br /&gt;&lt;br /&gt;Validation activities will continue until 16:00 PST on the same day.&lt;br /&gt;&lt;br /&gt;All BPMS applications will automatically recover once maintenance is complete.&lt;br /&gt;&lt;br /&gt;Impacted applications:&lt;br /&gt;&lt;br /&gt;Scheduling Applications:&lt;br /&gt;Special Topics and Variable Credit (STVC)&lt;br /&gt;Standard Time Table (STTM)&lt;br /&gt;Scheduling Menu (SM)&lt;br /&gt;Final Grade Submission (AOC)&lt;br /&gt;Official Documents (ODMT)&lt;br /&gt;Student Direct Stream (SDS)&lt;br /&gt;Document Viewer (DOCV)&lt;br /&gt;Learner Financial Support (LFS)&lt;br /&gt;Role Based Access Control (RBAC)&lt;br /&gt;Student Communications Tool (ADHC)&lt;br /&gt;Course Management (CRSS)&lt;br /&gt;Academic Records (AARS)&lt;br /&gt;Affiliate Student Management Tool (ASMT)&lt;br /&gt;Scheduling Transfers (SCHT)&lt;br /&gt;Custom Organization Management System (COMS)&lt;br /&gt;Exam Management (EXMM)&lt;br /&gt;Integration Error Log (ERRL)&lt;br /&gt;Record Queue Manager (RQM)&lt;br /&gt;TeachEval (SET)&lt;br /&gt;Graduation Management (CNVM)&lt;br /&gt;Automation Services &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;04:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;11:54&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Enterprise Automation &amp; Solution Delivery (EASD)  APPIAN Business Process Management System (BPMS) Cloud Platform Maintenance is scheduled for 09 Jun 2026, 04:00 - 16:00 PST.&lt;br /&gt;&lt;br /&gt;During the maintenance window, the UBC Appian site will experience a service interruption of up to two hours  09 Jun 2026 between 04:00 and 06:00 PST.&lt;br /&gt;&lt;br /&gt;Validation activities will continue until 16:00 PST on the same day.&lt;br /&gt;&lt;br /&gt;All BPMS applications will automatically recover once maintenance is complete.&lt;br /&gt;&lt;br /&gt;Impacted applications:&lt;br /&gt;&lt;br /&gt;Scheduling Applications:&lt;br /&gt;Special Topics and Variable Credit (STVC)&lt;br /&gt;Standard Time Table (STTM)&lt;br /&gt;Scheduling Menu (SM)&lt;br /&gt;Final Grade Submission (AOC)&lt;br /&gt;Official Documents (ODMT)&lt;br /&gt;Student Direct Stream (SDS)&lt;br /&gt;Document Viewer (DOCV)&lt;br /&gt;Learner Financial Support (LFS)&lt;br /&gt;Role Based Access Control (RBAC)&lt;br /&gt;Student Communications Tool (ADHC)&lt;br /&gt;Course Management (CRSS)&lt;br /&gt;Academic Records (AARS)&lt;br /&gt;Affiliate Student Management Tool (ASMT)&lt;br /&gt;Scheduling Transfers (SCHT)&lt;br /&gt;Custom Organization Management System (COMS)&lt;br /&gt;Exam Management (EXMM)&lt;br /&gt;Integration Error Log (ERRL)&lt;br /&gt;Record Queue Manager (RQM)&lt;br /&gt;TeachEval (SET)&lt;br /&gt;Graduation Management (CNVM)&lt;br /&gt;Automation Services &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/30494066</id>
+    <published>2026-06-09T15:30:07-07:00</published>
+    <updated>2026-06-09T15:30:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/pkh3l67794zv"/>
+    <title>Red Hat Satellite Service Maintenance June 9, 2026, 07:30 PT to June 9, 2026 15:30 PT</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;15:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;07:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;14:54&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The UBC Satellite service will not be available on June 9, 2026, 07:30 PT to June 9, 2026 15:30 PT due to service maintenance.&lt;br /&gt;&lt;br /&gt;The Red Hat Satellite service provides errata and software updates to all registered Red Hat Linux systems. The service will be unavailable during the maintenance window. Users will be unable to register systems with the service, install software, or patches hosted by the service.&lt;br /&gt;&lt;br /&gt;Satellite Organization administrators should review the release notes to ensure their organization is not adversely affected by API or other changes in functionality:&lt;br /&gt;&lt;br /&gt;https://docs.redhat.com/en/documentation/red_hat_satellite/6.17/html/release_notes/index &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30453238</id>
@@ -191,21 +207,5 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/l7mxn7btsh3w"/>
     <title>Scientia Enterprise Suite Scheduled Maintenance June 2, 2026, 4:30PM PT - June 3, 2026 4:00PM PT</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;16:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;16:08&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The Scientia Enterprise Suite, including the web portal, will be undergoing scheduled maintenance on June 2, 2026, 4:30PM PT - June 3, 2026 4:00PM PT&lt;br /&gt;In this regard, the service may not be available within this period.&lt;br /&gt;&lt;br /&gt;Please contact SIS.Support@ubc.ca for any questions or concerns. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/30375591</id>
-    <published>2026-06-03T14:23:39-07:00</published>
-    <updated>2026-06-03T14:23:39-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/nrr40ngpqdvl"/>
-    <title>Microsoft Copilot users experiencing intermittent slowness  May 29, 2026  10.00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;14:23&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;10:11&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - Microsoft Copilot users may be experiencing intermittent slowness or non-response from Copilot.  Microsoft is aware of the issue and is actively working to recover the service.  &lt;br /&gt;Next update will be provided at 12:00 PT. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/30442143</id>
-    <published>2026-06-03T13:26:23-07:00</published>
-    <updated>2026-06-03T13:26:23-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/ct1sh4byft11"/>
-    <title>Compass Card/U-Pass issue June 3, 2026 11:30 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;13:26&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;13:08&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - Users are currently unable to claim U-Passes after logging in to https://upassbc.translink.ca/&lt;br /&gt;&lt;br /&gt;UBC IT technicians are aware of the issue and investigating with the vendor. &lt;/p&gt;</content>
   </entry>
 </feed>
