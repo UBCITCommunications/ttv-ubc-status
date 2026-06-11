@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-06-11T08:00:52-07:00</updated>
+  <updated>2026-06-11T13:00:12-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -41,20 +41,36 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; - &lt;var data-var='time'&gt;04:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;12:10&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The TouchNet PROD site will be undergoing scheduled maintenance. During the update window the TouchNet PROD site will be offline for logging in by staff as a TouchNet user and for customers making new payments. During this time when the payor clicks "pay now" TouchNet will display a screen informing the payor that the system is off line for maintenance and to try again after the system is back online. &lt;br /&gt;For any questions please contact dpp.support@ubc.ca &lt;/p&gt;</content>
   </entry>
   <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/30494072</id>
-    <published>2026-06-11T09:00:00-07:00</published>
-    <updated>2026-06-11T08:00:52-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/8f3pqkt3146z"/>
-    <title>UBC SharePoint Maintenance Thursday, June 11, 2026 09:00 PT to 17:00 PT</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; - &lt;var data-var='time'&gt;17:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;14:56&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - On Thursday, June 11, 2026 from 09:00 PT to 17:00 PT, the UBC SharePoint Software as a Service (SaaS) service will be undergoing maintenance. During this maintenance window, SharePoint on-prem sites will be accessible as no interruptions to the service are expected. &lt;/p&gt;</content>
+    <id>tag:status.it.ubc.ca,2005:Incident/30532346</id>
+    <published>2026-06-11T14:00:00-07:00</published>
+    <updated>2026-06-11T13:00:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/zm0k8rd4q0h1"/>
+    <title>Enterprise Automation and Solution Delivery services maintenance for Scheduling Activity Transfer from Jun 11, 2026 14:00 -16:00</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;14:00&lt;/var&gt; - &lt;var data-var='time'&gt;16:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;09:01&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Enterprise Automation and Solution Delivery services maintenance for Scheduling Activity Transfer from Jun 11, 2026 14:00 -16:00 &lt;br /&gt;&lt;br /&gt;The EASD Team will be releasing software updates that may affect Scheduling services&lt;br /&gt;&lt;br /&gt;During this maintenance window there may be a potential interruption to the apps and services for &lt;30 min (between 14:00 to 16:00)&lt;br /&gt;Release activities will be completed between from Jun 11, 2026  14:00 - 16:00, Validation will continue until 17:00.&lt;br /&gt;Apps/Services:&lt;br /&gt;&lt;br /&gt;Bug fixes / Enhancement for Scheduling Activity Transfer&lt;br /&gt;Fix to change a course from Full Term to Single Term in Scientia for it to pick up the appropriate student fee group in WD&lt;br /&gt;&lt;br /&gt;Fix to update Joint Teaching Arrangements (JTAs), to ensure JTAs with undergraduate and graduate courses come through CRSS&lt;br /&gt;Impacts:&lt;br /&gt;&lt;br /&gt;No other impacts to end users.&lt;br /&gt;Reason for maintenance:&lt;br /&gt;&lt;br /&gt;IRP Student: Scheduling Activity Transfer bug fixes &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/30521753</id>
+    <published>2026-06-11T09:50:42-07:00</published>
+    <updated>2026-06-11T09:50:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/pvnv3lxsysgr"/>
+    <title>Okanagan campus phone call quality issue - Wednesday June 10, 2026 12:00 PT</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;09:50&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - Technicians performed maintenance to remediate the issue last night which has resolved the issue, and will continue to closely monitor performance throughout the day today. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;13:17&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Identified&lt;/strong&gt; - Technicians have diagnosed the cause and will be implementing an emergency fix this evening to resolve the issue.  Technicians will be monitoring the issue closely through the remainder of the afternoon/evening.&lt;br /&gt;&lt;br /&gt;Callers may find brief periods where call quality is degraded.  We apologize for any inconvenience. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;12:39&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - Okanagan campus may be experiencing some Phone call quality issues.  Technicians are working on remediating the issue.  Next update at 13:15 PT. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30508318</id>
-    <published>2026-06-11T09:00:00-07:00</published>
-    <updated>2026-06-11T08:00:50-07:00</updated>
+    <published>2026-06-11T09:00:12-07:00</published>
+    <updated>2026-06-11T09:00:12-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/chsh87b6dyb9"/>
     <title>UBC SharePoint Maintenance Thursday, June 11, 2026 09:00 PT to 17:00 PT</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; - &lt;var data-var='time'&gt;17:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;15:16&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - On Thursday, June 11, 2026 from 09:00 PT to 17:00 PT, the UBC SharePoint Software as a Service (SaaS) service will be undergoing maintenance. During this maintenance window, SharePoint on-prem sites will be accessible as no interruptions to the service are expected. &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;15:16&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - On Thursday, June 11, 2026 from 09:00 PT to 17:00 PT, the UBC SharePoint Software as a Service (SaaS) service will be undergoing maintenance. During this maintenance window, SharePoint on-prem sites will be accessible as no interruptions to the service are expected. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/30494072</id>
+    <published>2026-06-11T09:00:11-07:00</published>
+    <updated>2026-06-11T09:00:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/8f3pqkt3146z"/>
+    <title>UBC SharePoint Maintenance Thursday, June 11, 2026 09:00 PT to 17:00 PT</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;14:56&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - On Thursday, June 11, 2026 from 09:00 PT to 17:00 PT, the UBC SharePoint Software as a Service (SaaS) service will be undergoing maintenance. During this maintenance window, SharePoint on-prem sites will be accessible as no interruptions to the service are expected. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30520997</id>
@@ -63,14 +79,6 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/rsxxkrx7rfsz"/>
     <title>Red Hat Satellite Service Maintenance June 11, 2026, 07:30 PT to June 11, 2026 15:30 PT</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;07:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;11:49&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The UBC Satellite service will not be available on June 11, 2026, 07:30 PT to June 11, 2026 15:30 PT due to service maintenance.&lt;br /&gt;&lt;br /&gt;The Red Hat Satellite service provides errata and software updates to all registered Red Hat Linux systems. The service will be unavailable during the maintenance window. Users will be unable to register systems with the service, install software, or patches hosted by the service.&lt;br /&gt;&lt;br /&gt;Satellite Organization administrators should review the release notes to ensure their organization is not adversely affected by API or other changes in functionality:&lt;br /&gt;&lt;br /&gt;https://docs.redhat.com/en/documentation/red_hat_satellite/6.17/html/release_notes/index &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/30521753</id>
-    <published>2026-06-10T13:17:53-07:00</published>
-    <updated>2026-06-10T13:17:53-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/pvnv3lxsysgr"/>
-    <title>Okanagan campus phone call quality issue - Wednesday June 10, 2026 12:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;13:17&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Identified&lt;/strong&gt; - Technicians have diagnosed the cause and will be implementing an emergency fix this evening to resolve the issue.  Technicians will be monitoring the issue closely through the remainder of the afternoon/evening.&lt;br /&gt;&lt;br /&gt;Callers may find brief periods where call quality is degraded.  We apologize for any inconvenience. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;12:39&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - Okanagan campus may be experiencing some Phone call quality issues.  Technicians are working on remediating the issue.  Next update at 13:15 PT. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30494068</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/32qm90hzqrt0"/>
     <title>Brock Commons Tallwood House Student Residence Network Switch Replacement June 4, 2026 22:00 -  June 5, 2026 05:00 PT</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;05:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;22:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;14:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Network maintenance is being performed at the Brock Commons Tallwood House Student Residence, involving replacement of aging network infrastructure. During this service window from June 4, 2026 22:00 -  June 5, 2026 05:00 PT; network services will be interrupted briefly and intermittently while physical and logical changes are being performed on the network backbones and while the user ports are migrated to new switching infrastructure. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/30453270</id>
-    <published>2026-06-04T17:00:07-07:00</published>
-    <updated>2026-06-04T17:00:07-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/1wh9wbryf6s6"/>
-    <title>Enterprise Automation and Solution Delivery services maintenance for Scheduling Activity Transfer from Jun 04, 2026 15:00 -17:00</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;15:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;11:56&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Enterprise Automation and Solution Delivery services maintenance for Scheduling Activity Transfer from Jun 04,2026 15:00 -17:00 &lt;br /&gt;&lt;br /&gt;The EASD Team will be releasing software updates that may affect Scheduling services&lt;br /&gt;&lt;br /&gt;During this maintenance window there may be a potential interruption to the apps and services for &lt;30 min (between 3pm to 5pm)&lt;br /&gt;Release activities will be completed between from Jun 04, 2026  15:00 - 16:00, Validation will continue until 17:00.&lt;br /&gt;Apps/Services:&lt;br /&gt;&lt;br /&gt;Bug fixes / Enhancement for Scheduling Activity Transfer&lt;br /&gt;Fix to remove hardcoded 3 DENT_V courses that are there in certain sections of these courses, that do need to transfer to Workday before student registration starts&lt;br /&gt;&lt;br /&gt;Impacts:&lt;br /&gt;&lt;br /&gt;No other impacts to end users.&lt;br /&gt;Reason for maintenance:&lt;br /&gt;&lt;br /&gt;IRP Student: Scheduling Activity Transfer bug fixes &lt;/p&gt;</content>
   </entry>
 </feed>
