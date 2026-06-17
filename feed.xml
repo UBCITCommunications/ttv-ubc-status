@@ -4,10 +4,26 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-06-16T13:44:02-07:00</updated>
+  <updated>2026-06-16T20:09:21-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/30590044</id>
+    <published>2026-08-12T20:00:00-07:00</published>
+    <updated>2026-06-16T14:55:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/lw6ql0mr65v3"/>
+    <title>UBCO NGFW Security Update, August 12, 2026. 20:00-21:00 PT</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; - &lt;var data-var='time'&gt;21:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;14:55&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The UBCO campus border firewall will be under maintenance for security upgrades.&lt;br /&gt;&lt;br /&gt;This maintenance will not impact UBCO network traffic and services. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/30590052</id>
+    <published>2026-06-26T14:00:00-07:00</published>
+    <updated>2026-06-16T14:58:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/px9kg2w0vbm2"/>
+    <title>WeBWorK Infrastructure Migration Jun 26, 2026 14:00-14:59 PT</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;14:00&lt;/var&gt; - &lt;var data-var='time'&gt;14:59&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;14:58&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - WeBWorK (webwork.elearning.ubc.ca) will be unavailable on Jun 26, 2026 between 14:00 and 14:59 PT while the service is migrated to new infrastructure.  Users with an active session may need to log in again. We apologize for any inconvenience; questions can be directed to the LT Hub (lt.hub@ubc.ca). &lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30322424</id>
     <published>2026-06-26T05:00:00-07:00</published>
@@ -15,6 +31,14 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/g7v7p9p5x4qd"/>
     <title>TouchNet TEST site - Scheduled Maintenance June 26, 2026 - 05:00 a.m. to June 26, 2026 - 05:00 p.m.</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;05:00&lt;/var&gt; - &lt;var data-var='time'&gt;17:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;12:12&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The TouchNet TEST site will be undergoing scheduled maintenance. During the update window the TouchNet TEST site will be offline for logging in by staff as a TouchNet user and for making TEST payments. &lt;br /&gt;For any questions please contact dpp.support@ubc.ca &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/30590017</id>
+    <published>2026-06-25T17:00:00-07:00</published>
+    <updated>2026-06-16T14:50:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/szcxsbs91mnq"/>
+    <title>EASD Planned Maintenance for Minor EASD RDS Upgrade on June 25th, 2026, 17:00 - 20:00 PT</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; - &lt;var data-var='time'&gt;20:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;14:50&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Multiple enterprise services will undergo maintenance on June 25th, 2026,  from 17:00 to 20:00 PT.&lt;br /&gt;&lt;br /&gt;Maintenance will be performed after hours to minimize potential impacts.&lt;br /&gt;&lt;br /&gt;Release Notes&lt;br /&gt;&lt;br /&gt;The following maintenance activities will be completed:&lt;br /&gt;&lt;br /&gt;Upgrade EASD AWS Aurora PostgreSQL Database iecrds-prd-11 from v15.10 to v15.17&lt;br /&gt;Apply AWS OS patches&lt;br /&gt;Release Impact&lt;br /&gt;&lt;br /&gt;There may be interruptions to the applications below for up to 5 minutes while the database patches are performed.&lt;br /&gt;&lt;br /&gt;Services may be impacted during the upgrade.&lt;br /&gt;&lt;br /&gt;EASD RDS may experience an interruption of up to 5 minutes during the upgrade. The read-only instance will remain available, so the impact should be limited to applications or integrations connecting to the read-write instance.&lt;br /&gt;DAF data is expected to remain online throughout the maintenance window.&lt;br /&gt;Mule APIs, including services available through api.ubc.ca, may experience intermittent outages if they connect to the read-write instance or if their connection strings have not been updated to use the standby configuration.&lt;br /&gt;Scheduled Rundeck jobs may be delayed during the maintenance window and will be re-run after the outage, where applicable.&lt;br /&gt;All services are expected to recover automatically after the maintenance is completed. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30453222</id>
@@ -25,12 +49,28 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; - &lt;var data-var='time'&gt;22:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;11:48&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - UBCIT will be performing maintenance on the eSAM component and vault servers on June 24, 2026, 20:00-22:00 PT. This change will affect both UBC campuses.&lt;br /&gt;&lt;br /&gt;Users will intermittently not be able to login to any servers managed by eSAM, nor retrieve any credentials via the eSAM Web UI throughout the maintanance window. &lt;br /&gt;&lt;br /&gt;Any connections terminated while a component is being rebooted can be reconnected to the secondary node. All connections will be terminated and users won't be able to reconnect while we patch the vault servers (which typically lasts around 30 minutes) during this window. &lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/30590048</id>
+    <published>2026-06-20T09:00:00-07:00</published>
+    <updated>2026-06-16T14:57:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/bwcpmvp7r156"/>
+    <title>UBC Wireless Network Maintenance on Saturday, June, 20, 2026 09:00 to 17:00 PT</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; - &lt;var data-var='time'&gt;17:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;14:57&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The wireless team will be performing network maintenance from Saturday, June, 20, 2026 09:00 to 17:00 PT. During this time, there will be a brief outage to all WiFi services at the following sites:&lt;br /&gt;&lt;br /&gt;- UBC Vancouver&lt;br /&gt;- UBC Okanagan&lt;br /&gt;- Robson Square&lt;br /&gt;- Smaller remote sites where UBC IT managed wireless networks are available.&lt;br /&gt;&lt;br /&gt;Breif outages to eduroam at the following areas of operation;&lt;br /&gt;&lt;br /&gt;- BCCHRI&lt;br /&gt;- UBC affiliated teaching hospitals &lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30576920</id>
     <published>2026-06-17T22:00:00-07:00</published>
     <updated>2026-06-15T12:24:55-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/jbmnvbn1w5l0"/>
     <title>Ponderosa Housing Hub Complex Network Switch Replacement June 17, 2026 22:00 -  June 18, 2026 05:00 PT</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;22:00&lt;/var&gt; PDT &amp;nbsp;-&amp;nbsp; Jun &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;05:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;12:24&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Network maintenance is being performed at the Ponderosa Housing Hub Complex, involving replacement of aging network infrastructure. During this service window from June 17, 2026 22:00 -  June 18, 2026 05:00 PT; network services will be interrupted briefly and intermittently while physical and logical changes are being performed on the network backbones and while the user ports are migrated to new switching infrastructure. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/30590058</id>
+    <published>2026-06-17T17:30:00-07:00</published>
+    <updated>2026-06-16T14:59:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/1l34n7g6gx7t"/>
+    <title>UBC IT myDNS Maintenance June 17, 2026 17:30-22:30 PT</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;17:30&lt;/var&gt; - &lt;var data-var='time'&gt;22:30&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;14:59&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - UBC IT will be performimg maintenance on the myDNS Management Server. DNS/DHCP service will not be impacted but access to the myDNS management interface at https://mydns.ubc.ca may be intermittent while maintenance is being performed. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30493931</id>
@@ -167,45 +207,5 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/vv532spyd93k"/>
     <title>Enterprise Automation &amp; Solution Delivery service maintenance for Graduation Management Application 08 Jun 2026 10:00 PT -   08 Jun 2026 16:00 PT</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;16:01&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;09:56&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The Enterprise Automation and Solution Delivery (EASD)  Graduation Management Application will undergo maintenance from 08 Jun 2026 from 10:00  and validation until 08 Jun 2026 16:00&lt;br /&gt;&lt;br /&gt;Apps/Services:&lt;br /&gt;Bug fixes for Graduation Management Application (CNVM-Appian)&lt;br /&gt;•	To fix a bug that prevent student from editing existing graduation application page due to duplicated programs&lt;br /&gt;•	To fix a bug that program completion status affect student's ability to create graduation application.&lt;br /&gt;Impacts:&lt;br /&gt;During this maintenance there may be a brief interruption (from 08 Jun 2026 from 12:00 - 12:30) to the apps and services listed above. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/30204997</id>
-    <published>2026-06-08T16:00:07-07:00</published>
-    <updated>2026-06-08T16:00:07-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/h6cnj77qqzsl"/>
-    <title>Perceptive Content and Document Viewer Maintenance June 8, 2026, 08:30–16:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;08:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;11:55&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Perceptive Content or ImageNow, and Document Viewer will be unavailable on June 8, 2026, from 08:30 to 16:00 PT due to a planned server migration. During this time, users will not be able to access Perceptive Content or view documents, including transcripts, through the Document Viewer application in Workday. Admissions staff and other users are advised to plan accordingly. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/30463316</id>
-    <published>2026-06-08T10:16:13-07:00</published>
-    <updated>2026-06-08T10:16:13-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/glx5pcjrkdtx"/>
-    <title>UBC Vancouver Contact Centre Intermittent Audio Issues June 5, 2026</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;10:16&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - The service has been stable through the weekend and the issue is now resolved. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;18:58&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Monitoring&lt;/strong&gt; - UBC IT technicians have identified the root cause and have corrected the issue. &lt;br /&gt;&lt;br /&gt;Service has been restored and we will continue to monitor through the weekend. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;17:59&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Identified&lt;/strong&gt; - Our technicians have identified the issue and are now testing the Contact Centre systems to confirm that normal services can be restored. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;12:37&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - UBC Vancouver Contact Centre users may be experiencing intermittent audio issues.  &lt;br /&gt;&lt;br /&gt;When the issue occurs, the incoming callers are not able to hear the Contact Centre agent.  &lt;br /&gt;&lt;br /&gt;UBC IT suggests that if incoming calls are impacted by this issue, Contact Centre agents should disconnect the call and call them back.&lt;br /&gt;&lt;br /&gt;Technicians are working with the respective vendors on a resolution.&lt;br /&gt;&lt;br /&gt;We will provide our next update at 17:30 PT. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;10:08&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - Please be advised that UBC Vancouver Contact Centre users may be experiencing intermittent audio issues.  The main symptom includes the incoming caller not being able to hear the contact centre agent.  Technicians are working with the respective vendors on a resolution &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/30429846</id>
-    <published>2026-06-07T23:30:07-07:00</published>
-    <updated>2026-06-07T23:30:07-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/f56412mm2bhn"/>
-    <title>Vancouver Campus Network Maintenance Jun 7, 2026, 13:00-23:30 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;23:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;13:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;13:58&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The Vancouver campus data center network (UDC) will undergo maintenance on Jun 7, 2026, 13:00-23:30 PT.&lt;br /&gt;There will be no impact to users. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/30466790</id>
-    <published>2026-06-06T07:00:09-07:00</published>
-    <updated>2026-06-06T07:00:09-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/cggnw782twk3"/>
-    <title>Jupyter Open Maintenance June 6, 2026 06:00-07:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;06:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;15:55&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Jupyter Open will be unavailable due to scheduled maintenance on June 6, 2026 06:00-07:00 PT. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/30462329</id>
-    <published>2026-06-06T02:20:08-07:00</published>
-    <updated>2026-06-06T02:20:08-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/4d8n12lkh7gk"/>
-    <title>TouchNet PROD site - Scheduled Maintenance June 06, 2026 - 02:00 PT to June 06, 2026 - 02:20 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;02:20&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;02:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;08:51&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The TouchNet PROD site will be undergoing scheduled maintenance. During the update window the TouchNet PROD site will be offline for logging in by staff as a TouchNet user and for customers making new payments. During this time when the payor clicks "pay now" TouchNet will display a screen informing the payor that the system is off line for maintenance and to try again after the system is back online. &lt;br /&gt;For any questions please contact dpp.support@ubc.ca &lt;/p&gt;</content>
   </entry>
 </feed>
