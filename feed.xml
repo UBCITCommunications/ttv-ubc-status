@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-06-17T11:39:24-07:00</updated>
+  <updated>2026-06-17T19:14:34-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -15,6 +15,14 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/lw6ql0mr65v3"/>
     <title>UBCO NGFW Security Update, August 12, 2026. 20:00-21:00 PT</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; - &lt;var data-var='time'&gt;21:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;14:55&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The UBCO campus border firewall will be under maintenance for security upgrades.&lt;br /&gt;&lt;br /&gt;This maintenance will not impact UBCO network traffic and services. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/30600524</id>
+    <published>2026-07-08T06:30:00-07:00</published>
+    <updated>2026-06-17T14:46:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/2tcncql3gxck"/>
+    <title>Emergency Power System Load-Shedding Verification Test – Pharmacy Building and University Data Center</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;8&lt;/var&gt;, &lt;var data-var='time'&gt;06:30&lt;/var&gt; - &lt;var data-var='time'&gt;08:30&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;14:46&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - On Wednesday, July 8, 2026, between 6:30 a.m. and 8:30 a.m., a scheduled test of the Pharmacy Building's emergency power system will be conducted.  The purpose of this test is to verify the automatic load-shedding functionality of the standby electrical systems when one of the building's two emergency generators is taken out of service.&lt;br /&gt;&lt;br /&gt;During the test, brief interruptions may occur to systems served by the Standby power distribution.  Emergency and Data Center power systems are expected to remain operational throughout the test, with the Data Center UPS maintaining uninterrupted service.  Qualified Operations, Electrical, Controls, BMS, and IT Facilities personnel will be on-site to monitor system performance and respond to any issues. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30590052</id>
@@ -66,11 +74,11 @@
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30590058</id>
-    <published>2026-06-17T17:30:00-07:00</published>
-    <updated>2026-06-16T14:59:23-07:00</updated>
+    <published>2026-06-17T17:30:07-07:00</published>
+    <updated>2026-06-17T17:30:07-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/1l34n7g6gx7t"/>
     <title>UBC IT myDNS Maintenance June 17, 2026 17:30-22:30 PT</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;17:30&lt;/var&gt; - &lt;var data-var='time'&gt;22:30&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;14:59&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - UBC IT will be performimg maintenance on the myDNS Management Server. DNS/DHCP service will not be impacted but access to the myDNS management interface at https://mydns.ubc.ca may be intermittent while maintenance is being performed. &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;17:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;14:59&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - UBC IT will be performimg maintenance on the myDNS Management Server. DNS/DHCP service will not be impacted but access to the myDNS management interface at https://mydns.ubc.ca may be intermittent while maintenance is being performed. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30493931</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/c7kqvzgtyp5d"/>
     <title>Enterprise Automation &amp; Solution Delivery service maintenance for Graduation Management Application 08 Jun 2026 10:00 PT -   08 Jun 2026 16:00 PT</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;18:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;11:52&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The Enterprise Automation and Solution Delivery (EASD)  Graduation Management Application will undergo maintenance from 08 Jun 2026 from 10:00  and validation until 08 Jun 2026 16:00&lt;br /&gt;&lt;br /&gt;Apps/Services:&lt;br /&gt;&lt;br /&gt;Bug fixes for Graduation Management Application (CNVM-Appian)&lt;br /&gt;To fix a bug that prevent student from editing existing graduation application page due to duplicated programs&lt;br /&gt;To fix a bug that program completion status affect student's ability to create graduation application.&lt;br /&gt;Impacts:&lt;br /&gt;&lt;br /&gt;During this maintenance there may be a brief interruption (from 08 Jun 2026 from 12:00 - 12:30) to the apps and services listed above.&lt;br /&gt;Impacted Services:&lt;br /&gt;&lt;br /&gt;ubc-iec--appian-web-graduation-management-application--1 &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/30452465</id>
-    <published>2026-06-08T16:01:09-07:00</published>
-    <updated>2026-06-08T16:01:09-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/vv532spyd93k"/>
-    <title>Enterprise Automation &amp; Solution Delivery service maintenance for Graduation Management Application 08 Jun 2026 10:00 PT -   08 Jun 2026 16:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;16:01&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;09:56&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The Enterprise Automation and Solution Delivery (EASD)  Graduation Management Application will undergo maintenance from 08 Jun 2026 from 10:00  and validation until 08 Jun 2026 16:00&lt;br /&gt;&lt;br /&gt;Apps/Services:&lt;br /&gt;Bug fixes for Graduation Management Application (CNVM-Appian)&lt;br /&gt;•	To fix a bug that prevent student from editing existing graduation application page due to duplicated programs&lt;br /&gt;•	To fix a bug that program completion status affect student's ability to create graduation application.&lt;br /&gt;Impacts:&lt;br /&gt;During this maintenance there may be a brief interruption (from 08 Jun 2026 from 12:00 - 12:30) to the apps and services listed above. &lt;/p&gt;</content>
   </entry>
 </feed>
