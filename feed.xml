@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-06-18T12:49:08-07:00</updated>
+  <updated>2026-06-18T19:29:15-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -23,6 +23,22 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/2tcncql3gxck"/>
     <title>Emergency Power System Load-Shedding Verification Test – Pharmacy Building and University Data Center</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;8&lt;/var&gt;, &lt;var data-var='time'&gt;06:30&lt;/var&gt; - &lt;var data-var='time'&gt;08:30&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;14:46&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - On Wednesday, July 8, 2026, between 6:30 a.m. and 8:30 a.m., a scheduled test of the Pharmacy Building's emergency power system will be conducted.  The purpose of this test is to verify the automatic load-shedding functionality of the standby electrical systems when one of the building's two emergency generators is taken out of service.&lt;br /&gt;&lt;br /&gt;During the test, brief interruptions may occur to systems served by the Standby power distribution.  Emergency and Data Center power systems are expected to remain operational throughout the test, with the Data Center UPS maintaining uninterrupted service.  Qualified Operations, Electrical, Controls, BMS, and IT Facilities personnel will be on-site to monitor system performance and respond to any issues. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/30613172</id>
+    <published>2026-06-29T10:00:00-07:00</published>
+    <updated>2026-06-18T15:05:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/ns3bps7hsyfl"/>
+    <title>Scheduled Maintenance for Graduation Management Application (CNVM- Appian) from 29 Jun 2026 10:00 PT -  29 Jun 2026 16:00 PT</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; - &lt;var data-var='time'&gt;16:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;15:05&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The Enterprise Automation and Solution Delivery (EASD)  Graduation Management Application will undergo maintenance from 29 Jun 2026 from 10:00 to 29 Jun 2026 16:00. During this period, there may be a brief service interruption between 12:00 PM and 12:30 PM PT. Staff and students using the application are advised to plan accordingly. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/30612882</id>
+    <published>2026-06-27T00:00:00-07:00</published>
+    <updated>2026-06-18T14:12:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/mb7hd85qnfhl"/>
+    <title>University Computer Management System (UCMS) Maintenance June 27, 2026, 00:00-11:00 PT</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; - &lt;var data-var='time'&gt;11:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;14:12&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - University Computer Management System (UCMS) Maintenance for Apple devices (Jamf Pro) will be undergoing routine maintenance on June 27, 2026, 00:00-11:00 PT.  During this time Apple devices will not be able to contact the server for updates, however no disruption to the use of Apple devices is expected. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30590052</id>
@@ -191,21 +207,5 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/8j0x2rs3p3m6"/>
     <title>Admissions System Maintenance (ADM) Maintenance June 9, 2026, 15:00-18:00 PT</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;18:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;15:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;11:57&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - ADM applications, including Admissions Administrative Portal (AAP), Applicant Service Centre (ASC), Broad-Based Admission (BBA), and Application Server (AS), will be unavailable on June 9, 2026, from 15:00 to 18:00 PT due to a planned server migration.&lt;br /&gt;During this time, staff may not be able to access ADM applications, and students may not be able to log in to the Applicant Service Centre to accept offers, view application statuses, or complete related activities. Students, faculty, and staff are advised to plan accordingly. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/30453256</id>
-    <published>2026-06-09T16:00:09-07:00</published>
-    <updated>2026-06-09T16:00:09-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/9g7b1k3nxlkz"/>
-    <title>Enterprise Automation &amp; Solution Delivery APPIAN Cloud Platform Maintenance from June 9, 2026, 04:00 - 16:00 PST</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;04:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;11:54&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Enterprise Automation &amp; Solution Delivery (EASD)  APPIAN Business Process Management System (BPMS) Cloud Platform Maintenance is scheduled for 09 Jun 2026, 04:00 - 16:00 PST.&lt;br /&gt;&lt;br /&gt;During the maintenance window, the UBC Appian site will experience a service interruption of up to two hours  09 Jun 2026 between 04:00 and 06:00 PST.&lt;br /&gt;&lt;br /&gt;Validation activities will continue until 16:00 PST on the same day.&lt;br /&gt;&lt;br /&gt;All BPMS applications will automatically recover once maintenance is complete.&lt;br /&gt;&lt;br /&gt;Impacted applications:&lt;br /&gt;&lt;br /&gt;Scheduling Applications:&lt;br /&gt;Special Topics and Variable Credit (STVC)&lt;br /&gt;Standard Time Table (STTM)&lt;br /&gt;Scheduling Menu (SM)&lt;br /&gt;Final Grade Submission (AOC)&lt;br /&gt;Official Documents (ODMT)&lt;br /&gt;Student Direct Stream (SDS)&lt;br /&gt;Document Viewer (DOCV)&lt;br /&gt;Learner Financial Support (LFS)&lt;br /&gt;Role Based Access Control (RBAC)&lt;br /&gt;Student Communications Tool (ADHC)&lt;br /&gt;Course Management (CRSS)&lt;br /&gt;Academic Records (AARS)&lt;br /&gt;Affiliate Student Management Tool (ASMT)&lt;br /&gt;Scheduling Transfers (SCHT)&lt;br /&gt;Custom Organization Management System (COMS)&lt;br /&gt;Exam Management (EXMM)&lt;br /&gt;Integration Error Log (ERRL)&lt;br /&gt;Record Queue Manager (RQM)&lt;br /&gt;TeachEval (SET)&lt;br /&gt;Graduation Management (CNVM)&lt;br /&gt;Automation Services &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/30494066</id>
-    <published>2026-06-09T15:30:07-07:00</published>
-    <updated>2026-06-09T15:30:07-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/pkh3l67794zv"/>
-    <title>Red Hat Satellite Service Maintenance June 9, 2026, 07:30 PT to June 9, 2026 15:30 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;15:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;07:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;14:54&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The UBC Satellite service will not be available on June 9, 2026, 07:30 PT to June 9, 2026 15:30 PT due to service maintenance.&lt;br /&gt;&lt;br /&gt;The Red Hat Satellite service provides errata and software updates to all registered Red Hat Linux systems. The service will be unavailable during the maintenance window. Users will be unable to register systems with the service, install software, or patches hosted by the service.&lt;br /&gt;&lt;br /&gt;Satellite Organization administrators should review the release notes to ensure their organization is not adversely affected by API or other changes in functionality:&lt;br /&gt;&lt;br /&gt;https://docs.redhat.com/en/documentation/red_hat_satellite/6.17/html/release_notes/index &lt;/p&gt;</content>
   </entry>
 </feed>
