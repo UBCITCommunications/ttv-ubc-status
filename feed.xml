@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-06-19T11:20:34-07:00</updated>
+  <updated>2026-06-19T18:54:24-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -15,6 +15,14 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/lw6ql0mr65v3"/>
     <title>UBCO NGFW Security Update, August 12, 2026. 20:00-21:00 PT</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; - &lt;var data-var='time'&gt;21:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;14:55&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The UBCO campus border firewall will be under maintenance for security upgrades.&lt;br /&gt;&lt;br /&gt;This maintenance will not impact UBCO network traffic and services. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/30624658</id>
+    <published>2026-07-22T08:00:00-07:00</published>
+    <updated>2026-06-19T16:31:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/kdks1bpq1y64"/>
+    <title>UCMS Remote Support (Beyondtrust) Maintenance July 22, 2026 08:00 - 12:00 PT</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; - &lt;var data-var='time'&gt;12:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;16:31&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Maintenance will be performed on the UCMS Remote Support service (Beyondtrust) on Monday July 22, 2026 between 08:00 - 12:00 PT.  Remote Support Technicians will not be able to access the BeyondTrust Remote Support Rep Console during the temporary outage and thus will not be able to provide Remote Support to their clients during this time. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30600524</id>
@@ -82,11 +90,11 @@
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30622729</id>
-    <published>2026-06-19T10:25:20-07:00</published>
-    <updated>2026-06-19T10:25:20-07:00</updated>
+    <published>2026-06-19T13:50:08-07:00</published>
+    <updated>2026-06-19T13:50:08-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/c90k2nzf4ny6"/>
     <title>RESOLVED - UBC CMS Hosted Websites Unreachable for Off-Campus Access Jun 19, 2026 10:00 AM PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;10:25&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Monitoring&lt;/strong&gt; - We received reports of UBC CMS-hosted websites being unreachable for off-campus users starting at approximately 9:30 a.m. today. This issue has since been resolved as of 10:00 a.m Pacific. We will continue to monitor the situation and investigate the root cause.&lt;br /&gt;&lt;br /&gt;Please email LT.Hub@ubc.ca if you are still experiencing issues or have any questions or concerns. &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;13:50&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;10:25&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Monitoring&lt;/strong&gt; - We received reports of UBC CMS-hosted websites being unreachable for off-campus users starting at approximately 9:30 a.m. today. This issue has since been resolved as of 10:00 a.m Pacific. We will continue to monitor the situation and investigate the root cause.&lt;br /&gt;&lt;br /&gt;Please email LT.Hub@ubc.ca if you are still experiencing issues or have any questions or concerns. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30611186</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/4kp52x4gp3r5"/>
     <title>Exchange Student Residence Network Switch Replacement June 9, 2026 22:00 - June 10, 2026 05:00 PT</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;05:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;22:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;14:55&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Network maintenance is being performed at the Exchange Student Residence, involving replacement of aging network infrastructure. During this service window from June 9, 2026 22:00 - June 10, 2026 05:00 PT; network services will be interrupted briefly and intermittently while physical and logical changes are being performed on the network backbones and while the user ports are migrated to new switching infrastructure. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/30508301</id>
-    <published>2026-06-10T02:00:07-07:00</published>
-    <updated>2026-06-10T02:00:07-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/p1t6m2g64vs6"/>
-    <title>LTIC Service Maintenance June 9, 2026, 22:00 - June 10, 02:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;02:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;22:01&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;15:13&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Multiple LTIC services may experience brief, intermittent interruptions due to scheduled maintenance on June 9, 2026, 22:00 - June 10, 02:00 PT.&lt;br /&gt;&lt;br /&gt;Services affected:&lt;br /&gt;ComPAIR&lt;br /&gt;Hotcrp&lt;br /&gt;iPeer&lt;br /&gt;Moodle&lt;br /&gt;WeBWorK&lt;br /&gt;UBC Wiki &lt;/p&gt;</content>
   </entry>
 </feed>
