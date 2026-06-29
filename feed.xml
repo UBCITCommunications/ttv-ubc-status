@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-06-29T08:39:05-07:00</updated>
+  <updated>2026-06-29T11:22:56-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -57,28 +57,44 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;2&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; - &lt;var data-var='time'&gt;08:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;14:21&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Jupyter Open will be unavailable due to scheduled maintenance on July 2, 2026 07:00 - 08:00 PT &lt;/p&gt;</content>
   </entry>
   <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/30684407</id>
-    <published>2026-06-29T10:00:00-07:00</published>
-    <updated>2026-06-25T08:51:12-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/7c6z8tykm2jk"/>
-    <title>Enterprise Automation &amp; Solution Delivery service maintenance for Graduation Management Application 29 Jun 2026 10:00 PT -   29 Jun 2026 16:00 PT</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; - &lt;var data-var='time'&gt;16:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;08:51&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The Enterprise Automation and Solution Delivery (EASD)  Graduation Management Application will undergo maintenance from 29 Jun 2026 from 10:00  and validation until 29 Jun 2026 16:00&lt;br /&gt;&lt;br /&gt;Apps/Services:&lt;br /&gt;Bug fixes for Graduation Management Application (CNVM-Appian)&lt;br /&gt;To fix a bug that prevent student creating second graduation application when having an existing application&lt;br /&gt;To fix a bug that confirmation emails are missing&lt;br /&gt;&lt;br /&gt;Impacts:&lt;br /&gt;During this maintenance there may be a brief interruption (from 29 Jun 2026 from 12:00 - 12:30) to the apps and services listed above.&lt;br /&gt;&lt;br /&gt;Impacted Services:&lt;br /&gt;ubc-iec--appian-web-graduation-management-application--1 &lt;/p&gt;</content>
+    <id>tag:status.it.ubc.ca,2005:Incident/30698617</id>
+    <published>2026-06-29T10:58:50-07:00</published>
+    <updated>2026-06-29T10:58:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/8qh599n4b4xt"/>
+    <title>Okanagan campus voicemail issue - Friday June 26, 2026</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;10:58&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;11:42&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Identified&lt;/strong&gt; - We have received reports of issues leaving and retrieving voicemail messages at the Okanagan campus.  Technicians have investigated and found the cause of the issue.  To minimize disruption to phone services during the business day, emergency maintenance will be performed this evening to correct the issue. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/30727757</id>
+    <published>2026-06-29T11:04:27-07:00</published>
+    <updated>2026-06-29T11:04:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/cd0vf005jy0m"/>
+    <title>Okanagan campus contact centre issue, June 29, 2026 09:00 PT</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;11:04&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Identified&lt;/strong&gt; - We have also received reports of contact centre agents not being able to login.  Currently logged in agents appear to be unaffected.  Technicians have identified the potential cause and have engaged our vendor to assist with remediation.  No resolution ETA available at this time.  Next update at 12:00 PT. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;10:44&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - We have received reports of contact centres at the Okanagan campus not presenting the interactive voice menu prompts to inbound callers.  Calls are being delivered to agents.  Technicians are investigating the cause.  No ETA for resolution available at this time.  Next update at 11:00 PT. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30684392</id>
-    <published>2026-06-29T10:00:00-07:00</published>
-    <updated>2026-06-25T08:50:07-07:00</updated>
+    <published>2026-06-29T10:01:11-07:00</published>
+    <updated>2026-06-29T10:01:11-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/z224n5k4ccs5"/>
     <title>Enterprise Automation &amp; Solution Delivery service maintenance for SEI Review 29 Jun 2026 10:00 - 29 Jun 2026 16:00 PT</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; - &lt;var data-var='time'&gt;16:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;08:50&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The Enterprise Automation and Solution Delivery (EASD)  SEI Review will undergo maintenance from 29 Jun 2026 from 10:00 - 29 Jun 2026 16:00&lt;br /&gt;&lt;br /&gt;Apps/Services:&lt;br /&gt;&lt;br /&gt;Bug fixes for SEI Review (TeachEval Appian)&lt;br /&gt;Added Notification when a Approved Declared Section is deleted and when an Approved Declared Section's enrollment drops less than 5&lt;br /&gt;Added automatic discrepancy check between AARS and TeachEval records and notify staff.&lt;br /&gt;Impacts :&lt;br /&gt;&lt;br /&gt;During this maintenance there may be a brief interruption (from 29 Jun 2026 from 10:00 - 10:30) to the apps and services listed above. &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;10:01&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;08:50&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The Enterprise Automation and Solution Delivery (EASD)  SEI Review will undergo maintenance from 29 Jun 2026 from 10:00 - 29 Jun 2026 16:00&lt;br /&gt;&lt;br /&gt;Apps/Services:&lt;br /&gt;&lt;br /&gt;Bug fixes for SEI Review (TeachEval Appian)&lt;br /&gt;Added Notification when a Approved Declared Section is deleted and when an Approved Declared Section's enrollment drops less than 5&lt;br /&gt;Added automatic discrepancy check between AARS and TeachEval records and notify staff.&lt;br /&gt;Impacts :&lt;br /&gt;&lt;br /&gt;During this maintenance there may be a brief interruption (from 29 Jun 2026 from 10:00 - 10:30) to the apps and services listed above. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/30684407</id>
+    <published>2026-06-29T10:00:08-07:00</published>
+    <updated>2026-06-29T10:00:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/7c6z8tykm2jk"/>
+    <title>Enterprise Automation &amp; Solution Delivery service maintenance for Graduation Management Application 29 Jun 2026 10:00 PT -   29 Jun 2026 16:00 PT</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;08:51&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The Enterprise Automation and Solution Delivery (EASD)  Graduation Management Application will undergo maintenance from 29 Jun 2026 from 10:00  and validation until 29 Jun 2026 16:00&lt;br /&gt;&lt;br /&gt;Apps/Services:&lt;br /&gt;Bug fixes for Graduation Management Application (CNVM-Appian)&lt;br /&gt;To fix a bug that prevent student creating second graduation application when having an existing application&lt;br /&gt;To fix a bug that confirmation emails are missing&lt;br /&gt;&lt;br /&gt;Impacts:&lt;br /&gt;During this maintenance there may be a brief interruption (from 29 Jun 2026 from 12:00 - 12:30) to the apps and services listed above.&lt;br /&gt;&lt;br /&gt;Impacted Services:&lt;br /&gt;ubc-iec--appian-web-graduation-management-application--1 &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30613172</id>
-    <published>2026-06-29T10:00:00-07:00</published>
-    <updated>2026-06-18T15:05:23-07:00</updated>
+    <published>2026-06-29T10:00:07-07:00</published>
+    <updated>2026-06-29T10:00:07-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/ns3bps7hsyfl"/>
     <title>Scheduled Maintenance for Graduation Management Application (CNVM- Appian) from 29 Jun 2026 10:00 PT -  29 Jun 2026 16:00 PT</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; - &lt;var data-var='time'&gt;16:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;15:05&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The Enterprise Automation and Solution Delivery (EASD)  Graduation Management Application will undergo maintenance from 29 Jun 2026 from 10:00 to 29 Jun 2026 16:00. During this period, there may be a brief service interruption between 12:00 PM and 12:30 PM PT. Staff and students using the application are advised to plan accordingly. &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;15:05&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The Enterprise Automation and Solution Delivery (EASD)  Graduation Management Application will undergo maintenance from 29 Jun 2026 from 10:00 to 29 Jun 2026 16:00. During this period, there may be a brief service interruption between 12:00 PM and 12:30 PM PT. Staff and students using the application are advised to plan accordingly. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30662093</id>
@@ -169,14 +185,6 @@
     <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;13:53&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - We are currently experiencing an issue affecting ASDM authentication via Cisco ISE in order to manage some departmental ASA firewall contexts.&lt;br /&gt;We are working closely with the vendor to resolve this. Currently a fix or workaround has not been identified.  We will provide an update as soon as one is available.&lt;br /&gt;Thank you for your patience and cooperation. &lt;/p&gt;</content>
   </entry>
   <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/30698617</id>
-    <published>2026-06-26T11:42:40-07:00</published>
-    <updated>2026-06-26T11:42:40-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/8qh599n4b4xt"/>
-    <title>Okanagan campus voicemail issue - Friday June 26, 2026</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;11:42&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Identified&lt;/strong&gt; - We have received reports of issues leaving and retrieving voicemail messages at the Okanagan campus.  Technicians have investigated and found the cause of the issue.  To minimize disruption to phone services during the business day, emergency maintenance will be performed this evening to correct the issue. &lt;/p&gt;</content>
-  </entry>
-  <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30662043</id>
     <published>2026-06-26T09:00:14-07:00</published>
     <updated>2026-06-26T09:00:15-07:00</updated>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/16c1s1cywvbm"/>
     <title>Enterprise Automation &amp; Solution Delivery (EASD) – LFS/ODS Services Maintenance from June 25, 2026 14:00 - June 26, 2026 16:00</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;16:01&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;14:01&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;08:53&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Enterprise Automation &amp; Solution Delivery (EASD) – LFS/ODS Services Maintenance from June 25, 2026 14:00 - June 26, 2026 16:00 &lt;br /&gt;&lt;br /&gt;Release activities will be completed between June 25, 2026 from 14:00 - 16:00.&lt;br /&gt;Validation will continue until June 26, 2026 15:00.&lt;br /&gt;The LFS Team will be releasing software updates that may affect any of the following:&lt;br /&gt;&lt;br /&gt;Apps/Services:&lt;br /&gt;&lt;br /&gt;Learner Financial Support Management (LFSM) /ODS&lt;br /&gt;Deployment of SABC SIMS post go-live fixes / enhancements&lt;br /&gt;Fix to Donor Communication Letter Formatting&lt;br /&gt;Release Impact&lt;br /&gt;LFSM and ODMT will have a short interruption of services during this deployment.&lt;br /&gt;Reason for maintenance:&lt;br /&gt;&lt;br /&gt; Release of bug fixes and enhancements to LFS and Donor communication letter template &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/30684420</id>
-    <published>2026-06-25T16:00:10-07:00</published>
-    <updated>2026-06-25T16:00:10-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/lhf78m42k718"/>
-    <title>Enterprise Automation and Solution Delivery services maintenance for Exam Management from June 25, 2026 14:00 -16:00</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;14:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;08:52&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Enterprise Automation and Solution Delivery services maintenance for Exam Management from June 25, 2026 14:00 -16:00 &lt;br /&gt;&lt;br /&gt;The EASD Team will be releasing software updates that may affect Exam services&lt;br /&gt;&lt;br /&gt;During this maintenance window there may be a brief interruption to the apps and services for &lt;30 min&lt;br /&gt;Release activities will be completed between from June 25, 2026 14:00 - 16:00.&lt;br /&gt;Apps/Services:&lt;br /&gt;&lt;br /&gt;Bug fixes / Enhancement for Exam Application and Exam Requirement&lt;br /&gt;Fix mismatch between Appian and Scientia Exam Scheduler for the number of registered students&lt;br /&gt;Add more filters toi EXMM-A  to reduce admin workload&lt;br /&gt;Fix to remove the security threat of printing the upay proxy key on html during a payment process by parameterizing the key to be used&lt;br /&gt;Fix to automatically hide "Scheduled Exams" that have a corresponding application that has been Cancelled or Refunded after they are scheduled &lt;br /&gt;Impacts:&lt;br /&gt;&lt;br /&gt;No other impacts to end users.&lt;br /&gt;Reason for maintenance:&lt;br /&gt;&lt;br /&gt;IRP Student: Exams enhancements &amp; bug fixes &lt;/p&gt;</content>
   </entry>
 </feed>
