@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-06-30T06:19:23-07:00</updated>
+  <updated>2026-06-30T12:34:31-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -65,6 +65,22 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;2&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; - &lt;var data-var='time'&gt;08:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;14:21&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Jupyter Open will be unavailable due to scheduled maintenance on July 2, 2026 07:00 - 08:00 PT &lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/30740771</id>
+    <published>2026-06-30T21:00:00-07:00</published>
+    <updated>2026-06-30T11:04:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/z4mg9k15qy0v"/>
+    <title>JIRA maintenance June 30, 2026, 21:00 - 21:30 PT</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;21:00&lt;/var&gt; - &lt;var data-var='time'&gt;21:30&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;11:04&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - JIRA will be undergoing maintenance on June 30, 2026, 21:00 to 21:30 PT.&lt;br /&gt;During this period, JIRA will be unavailable.&lt;br /&gt;&lt;br /&gt;If you have any questions or concerns, please do not hesitate to contact sis.support@ubc.ca &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/30727757</id>
+    <published>2026-06-30T08:40:11-07:00</published>
+    <updated>2026-06-30T08:40:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/cd0vf005jy0m"/>
+    <title>Okanagan campus contact centre issue, June 29, 2026 09:00 PT</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;08:40&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - The contact center issue has been resolved as of 21:30 PT Monday evening. Contact centre is now fully operational. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;07:56&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - Our technicians will be applying emergency maintenance on our contact centre solution this evening to resolve the problem.  The activity will happen outside business hours to minimize disruption to units using contact centre services. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;16:03&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - Technicians continue to work with our vendor to resolve the issue. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;14:03&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - Technicians continue to work with our vendor to resolve the issue. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;11:04&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Identified&lt;/strong&gt; - We have also received reports of contact centre agents not being able to login.  Currently logged in agents appear to be unaffected.  Technicians have identified the potential cause and have engaged our vendor to assist with remediation.  No resolution ETA available at this time.  Next update at 12:00 PT. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;10:44&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - We have received reports of contact centres at the Okanagan campus not presenting the interactive voice menu prompts to inbound callers.  Calls are being delivered to agents.  Technicians are investigating the cause.  No ETA for resolution available at this time.  Next update at 11:00 PT. &lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30684407</id>
     <published>2026-06-29T16:01:07-07:00</published>
     <updated>2026-06-29T16:01:07-07:00</updated>
@@ -95,14 +111,6 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/8qh599n4b4xt"/>
     <title>Okanagan campus voicemail issue - Friday June 26, 2026</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;10:58&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;11:42&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Identified&lt;/strong&gt; - We have received reports of issues leaving and retrieving voicemail messages at the Okanagan campus.  Technicians have investigated and found the cause of the issue.  To minimize disruption to phone services during the business day, emergency maintenance will be performed this evening to correct the issue. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/30727757</id>
-    <published>2026-06-29T16:03:10-07:00</published>
-    <updated>2026-06-29T16:03:10-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/cd0vf005jy0m"/>
-    <title>Okanagan campus contact centre issue, June 29, 2026 09:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;16:03&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - Technicians continue to work with our vendor to resolve the issue. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;14:03&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - Technicians continue to work with our vendor to resolve the issue. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;11:04&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Identified&lt;/strong&gt; - We have also received reports of contact centre agents not being able to login.  Currently logged in agents appear to be unaffected.  Technicians have identified the potential cause and have engaged our vendor to assist with remediation.  No resolution ETA available at this time.  Next update at 12:00 PT. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;10:44&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - We have received reports of contact centres at the Okanagan campus not presenting the interactive voice menu prompts to inbound callers.  Calls are being delivered to agents.  Technicians are investigating the cause.  No ETA for resolution available at this time.  Next update at 11:00 PT. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30662093</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/r291dzyl1xr7"/>
     <title>Network Database Upgrade June 26,  2026  07:00 - 09:00 PT</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;14:29&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The following Network tools will be unavailable during the database upgrade:&lt;br /&gt;&lt;br /&gt; - Transmogrifier&lt;br /&gt; - IP Manager&lt;br /&gt; - IP Search&lt;br /&gt; - FileMaker Pro &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/30590017</id>
-    <published>2026-06-25T20:00:08-07:00</published>
-    <updated>2026-06-25T20:00:08-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/szcxsbs91mnq"/>
-    <title>EASD Planned Maintenance for Minor EASD RDS Upgrade on June 25th, 2026, 17:00 - 20:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;14:50&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Multiple enterprise services will undergo maintenance on June 25th, 2026,  from 17:00 to 20:00 PT.&lt;br /&gt;&lt;br /&gt;Maintenance will be performed after hours to minimize potential impacts.&lt;br /&gt;&lt;br /&gt;Release Notes&lt;br /&gt;&lt;br /&gt;The following maintenance activities will be completed:&lt;br /&gt;&lt;br /&gt;Upgrade EASD AWS Aurora PostgreSQL Database iecrds-prd-11 from v15.10 to v15.17&lt;br /&gt;Apply AWS OS patches&lt;br /&gt;Release Impact&lt;br /&gt;&lt;br /&gt;There may be interruptions to the applications below for up to 5 minutes while the database patches are performed.&lt;br /&gt;&lt;br /&gt;Services may be impacted during the upgrade.&lt;br /&gt;&lt;br /&gt;EASD RDS may experience an interruption of up to 5 minutes during the upgrade. The read-only instance will remain available, so the impact should be limited to applications or integrations connecting to the read-write instance.&lt;br /&gt;DAF data is expected to remain online throughout the maintenance window.&lt;br /&gt;Mule APIs, including services available through api.ubc.ca, may experience intermittent outages if they connect to the read-write instance or if their connection strings have not been updated to use the standby configuration.&lt;br /&gt;Scheduled Rundeck jobs may be delayed during the maintenance window and will be re-run after the outage, where applicable.&lt;br /&gt;All services are expected to recover automatically after the maintenance is completed. &lt;/p&gt;</content>
   </entry>
 </feed>
