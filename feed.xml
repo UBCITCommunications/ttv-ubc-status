@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-06-30T12:34:31-07:00</updated>
+  <updated>2026-06-30T20:04:10-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -31,6 +31,14 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/sq7bn8h2y7g7"/>
     <title>TouchNet PROD site - Scheduled Maintenance July 17, 2026 - 12:00 a.m. to July 17, 2026 - 04:00 a.m.</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; - &lt;var data-var='time'&gt;04:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;15:11&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The TouchNet PROD site will be undergoing scheduled maintenance. During the update window the TouchNet PROD site will be offline for logging in by staff as a TouchNet user and for customers making new payments. During this time when the payor clicks "pay now" TouchNet will display a screen informing the payor that the system is off line for maintenance and to try again after the system is back online. &lt;br /&gt;&lt;br /&gt;For any questions please contact dpp.support@ubc.ca &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/30742838</id>
+    <published>2026-07-14T20:00:00-07:00</published>
+    <updated>2026-06-30T15:52:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/4yjykwgzqzsx"/>
+    <title>UBC IT Network Maintenance  - UBC core at the Children and Women Hospital July 14, 2026 20:00PT - July 15, 2026 00:00PT</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; PDT &amp;nbsp;-&amp;nbsp; Jul &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;15:52&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - UBC IT will be performing CWH core network maintenance from July 14, 2026  20:00PT to July 15, 2026 00:00PT. UBC network services at CWH will be unavailable for the duration of this maintenance window. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30700212</id>
@@ -67,10 +75,34 @@
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30740771</id>
     <published>2026-06-30T21:00:00-07:00</published>
-    <updated>2026-06-30T11:04:11-07:00</updated>
+    <updated>2026-06-30T20:00:15-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/z4mg9k15qy0v"/>
     <title>JIRA maintenance June 30, 2026, 21:00 - 21:30 PT</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;21:00&lt;/var&gt; - &lt;var data-var='time'&gt;21:30&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;11:04&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - JIRA will be undergoing maintenance on June 30, 2026, 21:00 to 21:30 PT.&lt;br /&gt;During this period, JIRA will be unavailable.&lt;br /&gt;&lt;br /&gt;If you have any questions or concerns, please do not hesitate to contact sis.support@ubc.ca &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/30742824</id>
+    <published>2026-06-30T17:00:08-07:00</published>
+    <updated>2026-06-30T17:00:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/lff482cbd7qy"/>
+    <title>UBC Vancouver Contact Center VoIP Phone Recording Service Maintenance June 30, 2026, 17:00 PT - July 1, 2026, 06:00 PT</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;15:50&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - UBC Vancouver Contact Center VoIP phone recording service will be undergoing maintenance from June 30, 2026, 17:00 PT - July 1, 2026, 06:00 PT.  No impact is expected as a result of this change. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/30742372</id>
+    <published>2026-06-30T15:32:53-07:00</published>
+    <updated>2026-06-30T15:32:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/xkhp30vtmzkh"/>
+    <title>FASmail shared mailbox issue June 30, 2026</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;15:32&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;14:31&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - Users are encountering issues with sending and receiving emails from shared mailboxes.&lt;br /&gt;Technicians have been notified and are investigating. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/30700400</id>
+    <published>2026-06-30T14:53:56-07:00</published>
+    <updated>2026-06-30T14:53:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/mpqvqt7qm00v"/>
+    <title>UBC Hospital Switchboard Delay</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;14:53&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;15:39&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - Users calling in to the UBC Hospital switchboard at 604-822-7121 or Emergency Line 7111 are experiencing a 14 second delay with silence before they will be successfully connected to the switchboard operator. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30727757</id>
@@ -175,37 +207,5 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/g7v7p9p5x4qd"/>
     <title>TouchNet TEST site - Scheduled Maintenance June 26, 2026 - 05:00 a.m. to June 26, 2026 - 05:00 p.m.</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;05:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;12:12&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The TouchNet TEST site will be undergoing scheduled maintenance. During the update window the TouchNet TEST site will be offline for logging in by staff as a TouchNet user and for making TEST payments. &lt;br /&gt;For any questions please contact dpp.support@ubc.ca &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/30700400</id>
-    <published>2026-06-26T17:00:07-07:00</published>
-    <updated>2026-06-26T17:00:07-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/mpqvqt7qm00v"/>
-    <title>UBC Hospital Switchboard Delay</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;15:39&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - Users calling in to the UBC Hospital switchboard at 604-822-7121 or Emergency Line 7111 are experiencing a 14 second delay with silence before they will be successfully connected to the switchboard operator. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/30590052</id>
-    <published>2026-06-26T14:59:07-07:00</published>
-    <updated>2026-06-26T14:59:07-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/px9kg2w0vbm2"/>
-    <title>WeBWorK Infrastructure Migration Jun 26, 2026 14:00-14:59 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;14:59&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;14:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;14:58&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - WeBWorK (webwork.elearning.ubc.ca) will be unavailable on Jun 26, 2026 between 14:00 and 14:59 PT while the service is migrated to new infrastructure.  Users with an active session may need to log in again. We apologize for any inconvenience; questions can be directed to the LT Hub (lt.hub@ubc.ca). &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/30699724</id>
-    <published>2026-06-26T14:00:07-07:00</published>
-    <updated>2026-06-26T14:00:07-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/k5t47xkc13mn"/>
-    <title>Web/ASDM Firewall Login Issue via Cisco ISE</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;13:53&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - We are currently experiencing an issue affecting ASDM authentication via Cisco ISE in order to manage some departmental ASA firewall contexts.&lt;br /&gt;We are working closely with the vendor to resolve this. Currently a fix or workaround has not been identified.  We will provide an update as soon as one is available.&lt;br /&gt;Thank you for your patience and cooperation. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/30662043</id>
-    <published>2026-06-26T09:00:14-07:00</published>
-    <updated>2026-06-26T09:00:15-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/r291dzyl1xr7"/>
-    <title>Network Database Upgrade June 26,  2026  07:00 - 09:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;14:29&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The following Network tools will be unavailable during the database upgrade:&lt;br /&gt;&lt;br /&gt; - Transmogrifier&lt;br /&gt; - IP Manager&lt;br /&gt; - IP Search&lt;br /&gt; - FileMaker Pro &lt;/p&gt;</content>
   </entry>
 </feed>
