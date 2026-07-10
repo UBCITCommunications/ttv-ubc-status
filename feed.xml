@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-07-09T11:59:08-07:00</updated>
+  <updated>2026-07-09T19:09:25-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -82,19 +82,35 @@
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30834072</id>
-    <published>2026-07-09T17:00:00-07:00</published>
-    <updated>2026-07-08T12:16:42-07:00</updated>
+    <published>2026-07-09T19:00:14-07:00</published>
+    <updated>2026-07-09T19:00:14-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/kwm0z66q0zl9"/>
     <title>Cybersecurity Confidential Communications Website Upgrade July 9, 2025, 17:00-19:00 PT</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;9&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; - &lt;var data-var='time'&gt;19:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;12:16&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The Cybersecurity Confidential Communications website cc.cybersecurity.ubc.ca will be undergoing scheduled maintenance on July 9, 2025, 17:00-19:00 PT. During this time, users will not be able to access this site. &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;19:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;12:16&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The Cybersecurity Confidential Communications website cc.cybersecurity.ubc.ca will be undergoing scheduled maintenance on July 9, 2025, 17:00-19:00 PT. During this time, users will not be able to access this site. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30835204</id>
-    <published>2026-07-09T10:00:08-07:00</published>
-    <updated>2026-07-09T10:00:08-07:00</updated>
+    <published>2026-07-09T16:00:08-07:00</published>
+    <updated>2026-07-09T16:00:09-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/2kkthyyngd6c"/>
     <title>Enterprise Automation &amp; Solution Delivery – ubc-iec--appian-web-student-direct-stream--1 Decommissioning – July 09, 2026 10:00 -16:00</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;14:35&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Enterprise Automation &amp; Solution Delivery – ubc-iec--appian-web-student-direct-stream--1 Decommissioning – July 09, 2026 10:00 -16:00&lt;br /&gt;&lt;br /&gt;Apps/Services&lt;br /&gt;&lt;br /&gt;The services will no longer be available after decommissioning activities.&lt;br /&gt;&lt;br /&gt;Release Impact&lt;br /&gt;&lt;br /&gt;There will be no other impacts to end user &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;14:35&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Enterprise Automation &amp; Solution Delivery – ubc-iec--appian-web-student-direct-stream--1 Decommissioning – July 09, 2026 10:00 -16:00&lt;br /&gt;&lt;br /&gt;Apps/Services&lt;br /&gt;&lt;br /&gt;The services will no longer be available after decommissioning activities.&lt;br /&gt;&lt;br /&gt;Release Impact&lt;br /&gt;&lt;br /&gt;There will be no other impacts to end user &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/30846960</id>
+    <published>2026-07-09T15:50:32-07:00</published>
+    <updated>2026-07-09T15:50:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/mdb0jj4t3rkc"/>
+    <title>Final Grade Submission Tool (FGST) Unavailable July 9, 2026</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;15:50&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - The Final Grade Submission Tool (FGST) is unavailable at the moment. Faculty and staff are not able to access and use this tool. Please check back here for the latest status. We will provide updates as soon as possible. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/30845877</id>
+    <published>2026-07-09T14:00:07-07:00</published>
+    <updated>2026-07-09T14:00:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/bm2bj5vsl0vg"/>
+    <title>Final Grade Submission Tool Unavailable July 9, 2026 13:00-14:00 PT</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;14:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;13:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;12:57&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The Final Grade Submission Tool will be unavailable on July 9, 2026, from 1:00 PM to 2:00 PM. During this time, faculty and staff will not be able to access the tool. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30600524</id>
@@ -191,21 +207,5 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/8qh599n4b4xt"/>
     <title>Okanagan campus voicemail issue - Friday June 26, 2026</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;10:58&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;11:42&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Identified&lt;/strong&gt; - We have received reports of issues leaving and retrieving voicemail messages at the Okanagan campus.  Technicians have investigated and found the cause of the issue.  To minimize disruption to phone services during the business day, emergency maintenance will be performed this evening to correct the issue. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/30662093</id>
-    <published>2026-06-28T19:00:07-07:00</published>
-    <updated>2026-06-28T19:00:07-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/09gpfc2jq3kv"/>
-    <title>UBC Wireless Network Maintenance on June, 28, 2026 18:00 to 19:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;19:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;18:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;14:37&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - We will be performing wireless network maintenance on June, 28, 2026 18:00 PT to 19:00 PT. During this time, there will be a brief outage to the wireless network at the UBC Okanagan campus. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/30662007</id>
-    <published>2026-06-28T17:00:09-07:00</published>
-    <updated>2026-06-28T17:00:10-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/z49zbyf9vpv6"/>
-    <title>SITS/eVision (Tribal) Production Maintenance  from June 26, 2026 17:00 PT to June 28, 2026 17:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;14:25&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The SITS/eVision system will undergo maintenance from June 26, 2026 at 17:00 PT to June 28, 2026 at 17:00 PT&lt;br /&gt;&lt;br /&gt;During a longer period within this time, the SITS/e:Vision (including the Graduate Studies Admission System and Sauder Executive Education Registration &lt;br /&gt;System) will not be available. &lt;/p&gt;</content>
   </entry>
 </feed>
