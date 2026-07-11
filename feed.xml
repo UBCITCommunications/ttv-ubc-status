@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-07-10T11:55:47-07:00</updated>
+  <updated>2026-07-10T19:18:27-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -82,11 +82,19 @@
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30700212</id>
-    <published>2026-07-10T05:00:09-07:00</published>
-    <updated>2026-07-10T05:00:09-07:00</updated>
+    <published>2026-07-10T17:00:09-07:00</published>
+    <updated>2026-07-10T17:00:09-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/vp8fb1b08bpp"/>
     <title>TouchNet TEST site - Scheduled Maintenance July 10, 2026 - 05:00 a.m. to July 10, 2026 - 05:00 p.m.</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;05:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;15:10&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The TouchNet TEST site will be undergoing scheduled maintenance. During the update window the TouchNet TEST site will be offline for logging in by staff as a TouchNet user and for making TEST payments. &lt;br /&gt;&lt;br /&gt;For any questions please contact dpp.support@ubc.ca &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;05:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;15:10&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The TouchNet TEST site will be undergoing scheduled maintenance. During the update window the TouchNet TEST site will be offline for logging in by staff as a TouchNet user and for making TEST payments. &lt;br /&gt;&lt;br /&gt;For any questions please contact dpp.support@ubc.ca &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/30857132</id>
+    <published>2026-07-10T15:48:34-07:00</published>
+    <updated>2026-07-10T15:48:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/jv6z1f7f0gdz"/>
+    <title>Microsoft announces removal of Office support for older systems and software versions, July 13, 2026</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;15:48&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - Microsoft has announced that effective July 13th, 2026, Office applications will no longer be supported on older MacOS and iOS systems, and further, they are removing support for older versions of Office entirely. &lt;br /&gt; &lt;br /&gt;	• Clients which are running operating systems earlier than the following minimums will no longer be able to edit or save files after the change: &lt;br /&gt;		Mac OS – minimum version 12.0 (Monterey) &lt;br /&gt;		iOS – minimum version 17.0 &lt;br /&gt; &lt;br /&gt;	• Clients who are using Office 2019 for Mac, regardless of operating system, will be unable to edit or save files after the change. &lt;br /&gt;	• Clients who are using Office 2021 for Mac or MS 365 apps on iPhone and iPads will continue to function normally, provided the operating systems are supported (as listed above) and at the following minimum software versions: &lt;br /&gt;		Office 2021 for Mac – minimum version 16.83 &lt;br /&gt;		MS365 apps for iOS – minimum version 2.93 &lt;br /&gt; &lt;br /&gt;UBC IT strongly recommends that all clients running Office on a Mac, iPhone, or iPad  update their operating systems and Office software before July 13th to prevent any disruptions. &lt;br /&gt; &lt;br /&gt;For more information, see https://ubc.service-now.com/kb_view.do?sysparm_article=KB0020043 &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30834072</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/ns3bps7hsyfl"/>
     <title>Scheduled Maintenance for Graduation Management Application (CNVM- Appian) from 29 Jun 2026 10:00 PT -  29 Jun 2026 16:00 PT</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;16:01&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;15:05&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The Enterprise Automation and Solution Delivery (EASD)  Graduation Management Application will undergo maintenance from 29 Jun 2026 from 10:00 to 29 Jun 2026 16:00. During this period, there may be a brief service interruption between 12:00 PM and 12:30 PM PT. Staff and students using the application are advised to plan accordingly. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/30684392</id>
-    <published>2026-06-29T16:00:07-07:00</published>
-    <updated>2026-06-29T16:00:07-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/z224n5k4ccs5"/>
-    <title>Enterprise Automation &amp; Solution Delivery service maintenance for SEI Review 29 Jun 2026 10:00 - 29 Jun 2026 16:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;10:01&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;08:50&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The Enterprise Automation and Solution Delivery (EASD)  SEI Review will undergo maintenance from 29 Jun 2026 from 10:00 - 29 Jun 2026 16:00&lt;br /&gt;&lt;br /&gt;Apps/Services:&lt;br /&gt;&lt;br /&gt;Bug fixes for SEI Review (TeachEval Appian)&lt;br /&gt;Added Notification when a Approved Declared Section is deleted and when an Approved Declared Section's enrollment drops less than 5&lt;br /&gt;Added automatic discrepancy check between AARS and TeachEval records and notify staff.&lt;br /&gt;Impacts :&lt;br /&gt;&lt;br /&gt;During this maintenance there may be a brief interruption (from 29 Jun 2026 from 10:00 - 10:30) to the apps and services listed above. &lt;/p&gt;</content>
   </entry>
 </feed>
