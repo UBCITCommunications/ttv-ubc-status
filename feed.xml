@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-07-13T06:54:32-07:00</updated>
+  <updated>2026-07-13T12:19:07-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -41,6 +41,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; - &lt;var data-var='time'&gt;14:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;14:39&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - There will be a scheduled Turnitin and Gradescope maintenance outage on Saturday, July 18, 2026, from 8:00 a.m. to 2:00 p.m. Pacific. During this period, the https://turnitin.com/ standalone Turnitin tool, the Turnitin integration on Canvas, and Gradescope may have intermittent availability. &lt;br /&gt;&lt;br /&gt;Please email LT.Hub@ubc.ca if you have any questions or concerns. &lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/30879910</id>
+    <published>2026-07-17T21:00:00-07:00</published>
+    <updated>2026-07-13T11:46:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/6p5d3vjn4wq4"/>
+    <title>Workday Scheduled Quarterly Maintenance and Weekly Service Update July 17, 2026, 21:00 PT to July 18, 2026, 08:00 PT</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;21:00&lt;/var&gt; PDT &amp;nbsp;-&amp;nbsp; Jul &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;11:46&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Please be advised that on July 17, 2026, 21:00 PT to July 18, 2026, 08:00 PT, Workday will be undergoing scheduled maintenance as part of its quarterly service update. During the scheduled maintenance period, Workday will be unavailable for use. &lt;br /&gt;Learn about Workday Support at UBC and other available resources on isc.ubc.ca. &lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30700224</id>
     <published>2026-07-17T00:00:00-07:00</published>
     <updated>2026-06-26T15:11:24-07:00</updated>
@@ -74,11 +82,11 @@
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30835215</id>
-    <published>2026-07-13T10:00:00-07:00</published>
-    <updated>2026-07-08T14:36:58-07:00</updated>
+    <published>2026-07-13T10:00:08-07:00</published>
+    <updated>2026-07-13T10:00:08-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/nsrk5xl1t6s0"/>
     <title>Enterprise Automation &amp; Solution Delivery service maintenance for Affiliate Student Management Tool 13 Jul 2026 10:00 -  16:00 PT</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; - &lt;var data-var='time'&gt;16:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;14:36&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The Enterprise Automation and Solution Delivery (EASD)  Affiliate Student Management Tool (ASMT) will undergo maintenance from 13 Jul 2026 from 10:00 - 16:00&lt;br /&gt;&lt;br /&gt;Apps/Services:&lt;br /&gt;&lt;br /&gt;Bug fixes for Affiliate Student Management Tool (ASMT) &lt;br /&gt;Fix a bug where a student record is stuck in Pending status in ASMT Incomplete Operations.&lt;br /&gt;&lt;br /&gt;Fix a bug where shared ElastiCache usage in non-production environments causes performance issues due to inefficient queries and large data volume.&lt;br /&gt;&lt;br /&gt;Impacts:&lt;br /&gt;&lt;br /&gt;During this maintenance there may be a brief interruption (from 13 Jul 2026 from 12:00 - 12:30) to the apps and services listed above.&lt;br /&gt;Impacted Services:&lt;br /&gt;&lt;br /&gt;ubc-iec--asmt-api--1 &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;14:36&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The Enterprise Automation and Solution Delivery (EASD)  Affiliate Student Management Tool (ASMT) will undergo maintenance from 13 Jul 2026 from 10:00 - 16:00&lt;br /&gt;&lt;br /&gt;Apps/Services:&lt;br /&gt;&lt;br /&gt;Bug fixes for Affiliate Student Management Tool (ASMT) &lt;br /&gt;Fix a bug where a student record is stuck in Pending status in ASMT Incomplete Operations.&lt;br /&gt;&lt;br /&gt;Fix a bug where shared ElastiCache usage in non-production environments causes performance issues due to inefficient queries and large data volume.&lt;br /&gt;&lt;br /&gt;Impacts:&lt;br /&gt;&lt;br /&gt;During this maintenance there may be a brief interruption (from 13 Jul 2026 from 12:00 - 12:30) to the apps and services listed above.&lt;br /&gt;Impacted Services:&lt;br /&gt;&lt;br /&gt;ubc-iec--asmt-api--1 &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30700212</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/7c6z8tykm2jk"/>
     <title>Enterprise Automation &amp; Solution Delivery service maintenance for Graduation Management Application 29 Jun 2026 10:00 PT -   29 Jun 2026 16:00 PT</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;16:01&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;08:51&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The Enterprise Automation and Solution Delivery (EASD)  Graduation Management Application will undergo maintenance from 29 Jun 2026 from 10:00  and validation until 29 Jun 2026 16:00&lt;br /&gt;&lt;br /&gt;Apps/Services:&lt;br /&gt;Bug fixes for Graduation Management Application (CNVM-Appian)&lt;br /&gt;To fix a bug that prevent student creating second graduation application when having an existing application&lt;br /&gt;To fix a bug that confirmation emails are missing&lt;br /&gt;&lt;br /&gt;Impacts:&lt;br /&gt;During this maintenance there may be a brief interruption (from 29 Jun 2026 from 12:00 - 12:30) to the apps and services listed above.&lt;br /&gt;&lt;br /&gt;Impacted Services:&lt;br /&gt;ubc-iec--appian-web-graduation-management-application--1 &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/30613172</id>
-    <published>2026-06-29T16:01:07-07:00</published>
-    <updated>2026-06-29T16:01:07-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/ns3bps7hsyfl"/>
-    <title>Scheduled Maintenance for Graduation Management Application (CNVM- Appian) from 29 Jun 2026 10:00 PT -  29 Jun 2026 16:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;16:01&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;15:05&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The Enterprise Automation and Solution Delivery (EASD)  Graduation Management Application will undergo maintenance from 29 Jun 2026 from 10:00 to 29 Jun 2026 16:00. During this period, there may be a brief service interruption between 12:00 PM and 12:30 PM PT. Staff and students using the application are advised to plan accordingly. &lt;/p&gt;</content>
   </entry>
 </feed>
