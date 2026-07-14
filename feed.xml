@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-07-13T12:19:07-07:00</updated>
+  <updated>2026-07-13T18:44:13-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -82,11 +82,19 @@
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30835215</id>
-    <published>2026-07-13T10:00:08-07:00</published>
-    <updated>2026-07-13T10:00:08-07:00</updated>
+    <published>2026-07-13T16:00:07-07:00</published>
+    <updated>2026-07-13T16:00:07-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/nsrk5xl1t6s0"/>
     <title>Enterprise Automation &amp; Solution Delivery service maintenance for Affiliate Student Management Tool 13 Jul 2026 10:00 -  16:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;14:36&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The Enterprise Automation and Solution Delivery (EASD)  Affiliate Student Management Tool (ASMT) will undergo maintenance from 13 Jul 2026 from 10:00 - 16:00&lt;br /&gt;&lt;br /&gt;Apps/Services:&lt;br /&gt;&lt;br /&gt;Bug fixes for Affiliate Student Management Tool (ASMT) &lt;br /&gt;Fix a bug where a student record is stuck in Pending status in ASMT Incomplete Operations.&lt;br /&gt;&lt;br /&gt;Fix a bug where shared ElastiCache usage in non-production environments causes performance issues due to inefficient queries and large data volume.&lt;br /&gt;&lt;br /&gt;Impacts:&lt;br /&gt;&lt;br /&gt;During this maintenance there may be a brief interruption (from 13 Jul 2026 from 12:00 - 12:30) to the apps and services listed above.&lt;br /&gt;Impacted Services:&lt;br /&gt;&lt;br /&gt;ubc-iec--asmt-api--1 &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;14:36&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The Enterprise Automation and Solution Delivery (EASD)  Affiliate Student Management Tool (ASMT) will undergo maintenance from 13 Jul 2026 from 10:00 - 16:00&lt;br /&gt;&lt;br /&gt;Apps/Services:&lt;br /&gt;&lt;br /&gt;Bug fixes for Affiliate Student Management Tool (ASMT) &lt;br /&gt;Fix a bug where a student record is stuck in Pending status in ASMT Incomplete Operations.&lt;br /&gt;&lt;br /&gt;Fix a bug where shared ElastiCache usage in non-production environments causes performance issues due to inefficient queries and large data volume.&lt;br /&gt;&lt;br /&gt;Impacts:&lt;br /&gt;&lt;br /&gt;During this maintenance there may be a brief interruption (from 13 Jul 2026 from 12:00 - 12:30) to the apps and services listed above.&lt;br /&gt;Impacted Services:&lt;br /&gt;&lt;br /&gt;ubc-iec--asmt-api--1 &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/30846960</id>
+    <published>2026-07-13T15:39:40-07:00</published>
+    <updated>2026-07-13T15:39:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/mdb0jj4t3rkc"/>
+    <title>Final Grade Submission Tool (FGST) Unavailable July 9, 2026</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;15:39&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - Resolved: The issue has been resolved and Faculty and Staff access to the FGST tool has been restored. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;13:20&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Identified&lt;/strong&gt; - Update: A solution is currently being deployed and is targeted for completion before 3:00 PM. Please check back at 3:00 PM for updates. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;11:53&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - The Final Grade Submission Tool (FGST) will remain unavailable over the weekend. We will provide a status update on Monday, July 13, around noon if the issue remains unresolved. Thank you for your patience and understanding. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;15:50&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - The Final Grade Submission Tool (FGST) is unavailable at the moment. Faculty and staff are not able to access and use this tool. Please check back here for the latest status. We will provide updates as soon as possible. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30700212</id>
@@ -119,14 +127,6 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/2kkthyyngd6c"/>
     <title>Enterprise Automation &amp; Solution Delivery – ubc-iec--appian-web-student-direct-stream--1 Decommissioning – July 09, 2026 10:00 -16:00</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;14:35&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Enterprise Automation &amp; Solution Delivery – ubc-iec--appian-web-student-direct-stream--1 Decommissioning – July 09, 2026 10:00 -16:00&lt;br /&gt;&lt;br /&gt;Apps/Services&lt;br /&gt;&lt;br /&gt;The services will no longer be available after decommissioning activities.&lt;br /&gt;&lt;br /&gt;Release Impact&lt;br /&gt;&lt;br /&gt;There will be no other impacts to end user &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/30846960</id>
-    <published>2026-07-10T11:53:44-07:00</published>
-    <updated>2026-07-10T11:53:44-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/mdb0jj4t3rkc"/>
-    <title>Final Grade Submission Tool (FGST) Unavailable July 9, 2026</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;11:53&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - The Final Grade Submission Tool (FGST) will remain unavailable over the weekend. We will provide a status update on Monday, July 13, around noon if the issue remains unresolved. Thank you for your patience and understanding. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;15:50&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - The Final Grade Submission Tool (FGST) is unavailable at the moment. Faculty and staff are not able to access and use this tool. Please check back here for the latest status. We will provide updates as soon as possible. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30845877</id>
