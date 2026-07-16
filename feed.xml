@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-07-16T00:15:56-07:00</updated>
+  <updated>2026-07-16T06:00:35-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -123,7 +123,7 @@
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30890538</id>
     <published>2026-07-16T07:00:00-07:00</published>
-    <updated>2026-07-14T14:45:18-07:00</updated>
+    <updated>2026-07-16T06:00:34-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/ffkv12v77y8f"/>
     <title>UBC Identity Broker Upgrade July 16, 2026 07:00 PT-09:00 PT</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; - &lt;var data-var='time'&gt;09:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;14:45&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The UBC Identity Broker (IDBK) will be upgraded on July 16, 2026 from 07:00-09:00PT. &lt;br /&gt;&lt;br /&gt;Users will experience a service interruption of approximately 5 minutes starting at 07:00. &lt;/p&gt;</content>
