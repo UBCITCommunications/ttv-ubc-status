@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-07-16T11:16:32-07:00</updated>
+  <updated>2026-07-16T19:00:26-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -91,18 +91,34 @@
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30844915</id>
     <published>2026-07-16T20:00:00-07:00</published>
-    <updated>2026-07-09T10:33:09-07:00</updated>
+    <updated>2026-07-16T19:00:26-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/yl1d069h3qtl"/>
     <title>UBCIT eSAM Servers Maintenance July 16, 2026, 20:00-23:00 PT</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; - &lt;var data-var='time'&gt;23:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;10:33&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - UBCIT will be performing maintenance on the eSAM component and vault servers on July 16, 2026, 20:00-23:00 PT. This change will affect both UBC campuses.&lt;br /&gt;&lt;br /&gt;Users will intermittently not be able to login to any servers managed by eSAM, nor retrieve any credentials via the eSAM Web UI throughout the maintanance window. &lt;br /&gt;&lt;br /&gt;Any connections terminated while a component is being rebooted can be reconnected to the secondary node. All connections will be terminated and users won't be able to reconnect while we patch the vault servers (which typically lasts around 30 minutes) during this window. &lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/30890565</id>
+    <published>2026-07-16T17:00:07-07:00</published>
+    <updated>2026-07-16T17:00:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/csln9f2yf1ph"/>
+    <title>Allard Law Online Application Server Maintenance - July 16, 2026 08:00 PT-17:00 PT</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;14:48&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Maintenance will be performed on the Allard Law Online Application server from July 16, 2026 08:00 PT to July 16, 2026 17:00 PT.  During this period, the server will not be  available. &lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30890588</id>
-    <published>2026-07-16T10:00:10-07:00</published>
-    <updated>2026-07-16T10:00:10-07:00</updated>
+    <published>2026-07-16T16:00:07-07:00</published>
+    <updated>2026-07-16T16:00:07-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/djbkpmcfghmz"/>
     <title>EASD - Planned Maintenance to upgrade Elastic Kubernetes Service (AWS EKS) from July 16, 2026 10:00 PT-16:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;14:52&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - On July 16th, 2026, DevOps will perform a planned upgrade of our Elastic Kubernetes Service (AWS EKS) cluster.&lt;br /&gt;&lt;br /&gt;No downtime is expected.&lt;br /&gt;&lt;br /&gt;In the unlikely event that an issue occurs during the upgrade, the downtime windows are outlined below.&lt;br /&gt;&lt;br /&gt;Potential Downtime Windows (PT)&lt;br /&gt;&lt;br /&gt;11:05 – 11:35&lt;br /&gt;13:05 – 13:35&lt;br /&gt;Modified / Impacted Infrastructure&lt;br /&gt;&lt;br /&gt;EKS Cluster (1.32 --&gt; 1.34)&lt;br /&gt;Node Groups (1.32 --&gt; 1.34)&lt;br /&gt;EKS Add-ons  &lt;br /&gt;CoreDNS (v1.11.4‑eksbuild.28 → v1.13.2-eksbuild.7)&lt;br /&gt;VPC CNI (v1.21.1-eksbuild.3 → v1.21.2-eksbuild.2)&lt;br /&gt;kube-proxy (v1.32.11‑eksbuild.2 → v1.34.6-eksbuild.8)&lt;br /&gt;Services &lt;br /&gt;Rundeck&lt;br /&gt;Telegraf &lt;br /&gt;InfluxDB&lt;br /&gt;Chronograph&lt;br /&gt;Kapacitor &lt;br /&gt;Alerta&lt;br /&gt;BPMS redirect&lt;br /&gt;Rundeck Impact&lt;br /&gt;Multiple Rundeck projects and scheduled jobs may be affected during the potential downtime windows. &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;14:52&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - On July 16th, 2026, DevOps will perform a planned upgrade of our Elastic Kubernetes Service (AWS EKS) cluster.&lt;br /&gt;&lt;br /&gt;No downtime is expected.&lt;br /&gt;&lt;br /&gt;In the unlikely event that an issue occurs during the upgrade, the downtime windows are outlined below.&lt;br /&gt;&lt;br /&gt;Potential Downtime Windows (PT)&lt;br /&gt;&lt;br /&gt;11:05 – 11:35&lt;br /&gt;13:05 – 13:35&lt;br /&gt;Modified / Impacted Infrastructure&lt;br /&gt;&lt;br /&gt;EKS Cluster (1.32 --&gt; 1.34)&lt;br /&gt;Node Groups (1.32 --&gt; 1.34)&lt;br /&gt;EKS Add-ons  &lt;br /&gt;CoreDNS (v1.11.4‑eksbuild.28 → v1.13.2-eksbuild.7)&lt;br /&gt;VPC CNI (v1.21.1-eksbuild.3 → v1.21.2-eksbuild.2)&lt;br /&gt;kube-proxy (v1.32.11‑eksbuild.2 → v1.34.6-eksbuild.8)&lt;br /&gt;Services &lt;br /&gt;Rundeck&lt;br /&gt;Telegraf &lt;br /&gt;InfluxDB&lt;br /&gt;Chronograph&lt;br /&gt;Kapacitor &lt;br /&gt;Alerta&lt;br /&gt;BPMS redirect&lt;br /&gt;Rundeck Impact&lt;br /&gt;Multiple Rundeck projects and scheduled jobs may be affected during the potential downtime windows. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/30855014</id>
+    <published>2026-07-16T13:00:07-07:00</published>
+    <updated>2026-07-16T13:00:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/vlkq9ccc53nv"/>
+    <title>UBC SharePoint Maintenance Thursday, July 16, 2026 09:00 PT to 13:00 PT</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;13:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;10:06&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - On Thursday, July 16, 2026 from 09:00 PT to 13:00 PT, the UBC SharePoint Software as a Service (SaaS) service will be undergoing maintenance. During this maintenance window, SharePoint on-prem sites will be accessible as no interruptions to the service are expected. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30890538</id>
@@ -111,22 +127,6 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/ffkv12v77y8f"/>
     <title>UBC Identity Broker Upgrade July 16, 2026 07:00 PT-09:00 PT</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;09:01&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;14:45&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The UBC Identity Broker (IDBK) will be upgraded on July 16, 2026 from 07:00-09:00PT. &lt;br /&gt;&lt;br /&gt;Users will experience a service interruption of approximately 5 minutes starting at 07:00. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/30855014</id>
-    <published>2026-07-16T09:00:07-07:00</published>
-    <updated>2026-07-16T09:00:07-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/vlkq9ccc53nv"/>
-    <title>UBC SharePoint Maintenance Thursday, July 16, 2026 09:00 PT to 13:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;10:06&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - On Thursday, July 16, 2026 from 09:00 PT to 13:00 PT, the UBC SharePoint Software as a Service (SaaS) service will be undergoing maintenance. During this maintenance window, SharePoint on-prem sites will be accessible as no interruptions to the service are expected. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/30890565</id>
-    <published>2026-07-16T08:00:10-07:00</published>
-    <updated>2026-07-16T08:00:10-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/csln9f2yf1ph"/>
-    <title>Allard Law Online Application Server Maintenance - July 16, 2026 08:00 PT-17:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;14:48&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Maintenance will be performed on the Allard Law Online Application server from July 16, 2026 08:00 PT to July 16, 2026 17:00 PT.  During this period, the server will not be  available. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30742838</id>
