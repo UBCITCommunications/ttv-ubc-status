@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-07-18T11:08:59-07:00</updated>
+  <updated>2026-07-18T19:09:10-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -65,20 +65,20 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; PDT &amp;nbsp;-&amp;nbsp; Jul &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;18:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;16:02&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - UBC ARC Sockeye will be unavailable on Tuesday, July 21 from 09:00 until Wednesday July 22 18:00 PT for scheduled maintenance.&lt;br /&gt;&lt;br /&gt;User Impact:&lt;br /&gt;&lt;br /&gt;    1. During this time, you will be unable to log in or transfer data to/from Sockeye, OnDemand, and Chinook.&lt;br /&gt;&lt;br /&gt;    2. All jobs will be queued. The scheduler will not start any job if its requested walltime overlaps with the &lt;br /&gt;         maintenance window, even if resources are available. Only jobs expected to finish before downtime &lt;br /&gt;         begins will be scheduled, if resources allow.&lt;br /&gt;&lt;br /&gt;    3. In rare cases, running jobs may need to be resubmitted. Please checkpoint or complete your jobs before &lt;br /&gt;         the maintenance window to avoid lost progress, and check your job queue afterward. &lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/30662103</id>
+    <published>2026-07-18T14:00:07-07:00</published>
+    <updated>2026-07-18T14:00:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/s8scmvnn0sh3"/>
+    <title>Turnitin and Gradescope Scheduled Maintenance — July 18, 2026, 8:00 a.m. – 2:00 p.m. Pacific</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;14:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;14:39&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - There will be a scheduled Turnitin and Gradescope maintenance outage on Saturday, July 18, 2026, from 8:00 a.m. to 2:00 p.m. Pacific. During this period, the https://turnitin.com/ standalone Turnitin tool, the Turnitin integration on Canvas, and Gradescope may have intermittent availability. &lt;br /&gt;&lt;br /&gt;Please email LT.Hub@ubc.ca if you have any questions or concerns. &lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30879910</id>
     <published>2026-07-18T08:00:07-07:00</published>
     <updated>2026-07-18T08:00:07-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/6p5d3vjn4wq4"/>
     <title>Workday Scheduled Quarterly Maintenance and Weekly Service Update July 17, 2026, 21:00 PT to July 18, 2026, 08:00 PT</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;21:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;11:46&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Please be advised that on July 17, 2026, 21:00 PT to July 18, 2026, 08:00 PT, Workday will be undergoing scheduled maintenance as part of its quarterly service update. During the scheduled maintenance period, Workday will be unavailable for use. &lt;br /&gt;Learn about Workday Support at UBC and other available resources on isc.ubc.ca. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/30662103</id>
-    <published>2026-07-18T08:00:08-07:00</published>
-    <updated>2026-07-18T08:00:08-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/s8scmvnn0sh3"/>
-    <title>Turnitin and Gradescope Scheduled Maintenance — July 18, 2026, 8:00 a.m. – 2:00 p.m. Pacific</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;14:39&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - There will be a scheduled Turnitin and Gradescope maintenance outage on Saturday, July 18, 2026, from 8:00 a.m. to 2:00 p.m. Pacific. During this period, the https://turnitin.com/ standalone Turnitin tool, the Turnitin integration on Canvas, and Gradescope may have intermittent availability. &lt;br /&gt;&lt;br /&gt;Please email LT.Hub@ubc.ca if you have any questions or concerns. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30919439</id>
