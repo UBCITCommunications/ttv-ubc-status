@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-07-21T02:14:22-07:00</updated>
+  <updated>2026-07-21T09:49:25-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -66,11 +66,11 @@
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30822827</id>
-    <published>2026-07-21T09:00:00-07:00</published>
-    <updated>2026-07-07T16:02:47-07:00</updated>
+    <published>2026-07-21T09:00:08-07:00</published>
+    <updated>2026-07-21T09:00:08-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/rcztp8npfmhp"/>
     <title>Sockeye Extended Maintenance July 21, 2026 09:00  - July 22, 2026 18:00 PT</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; PDT &amp;nbsp;-&amp;nbsp; Jul &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;18:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;16:02&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - UBC ARC Sockeye will be unavailable on Tuesday, July 21 from 09:00 until Wednesday July 22 18:00 PT for scheduled maintenance.&lt;br /&gt;&lt;br /&gt;User Impact:&lt;br /&gt;&lt;br /&gt;    1. During this time, you will be unable to log in or transfer data to/from Sockeye, OnDemand, and Chinook.&lt;br /&gt;&lt;br /&gt;    2. All jobs will be queued. The scheduler will not start any job if its requested walltime overlaps with the &lt;br /&gt;         maintenance window, even if resources are available. Only jobs expected to finish before downtime &lt;br /&gt;         begins will be scheduled, if resources allow.&lt;br /&gt;&lt;br /&gt;    3. In rare cases, running jobs may need to be resubmitted. Please checkpoint or complete your jobs before &lt;br /&gt;         the maintenance window to avoid lost progress, and check your job queue afterward. &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;16:02&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - UBC ARC Sockeye will be unavailable on Tuesday, July 21 from 09:00 until Wednesday July 22 18:00 PT for scheduled maintenance.&lt;br /&gt;&lt;br /&gt;User Impact:&lt;br /&gt;&lt;br /&gt;    1. During this time, you will be unable to log in or transfer data to/from Sockeye, OnDemand, and Chinook.&lt;br /&gt;&lt;br /&gt;    2. All jobs will be queued. The scheduler will not start any job if its requested walltime overlaps with the &lt;br /&gt;         maintenance window, even if resources are available. Only jobs expected to finish before downtime &lt;br /&gt;         begins will be scheduled, if resources allow.&lt;br /&gt;&lt;br /&gt;    3. In rare cases, running jobs may need to be resubmitted. Please checkpoint or complete your jobs before &lt;br /&gt;         the maintenance window to avoid lost progress, and check your job queue afterward. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30662103</id>
