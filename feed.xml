@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-07-23T06:00:07-07:00</updated>
+  <updated>2026-07-23T11:29:07-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -82,19 +82,27 @@
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30965834</id>
-    <published>2026-07-23T10:00:00-07:00</published>
-    <updated>2026-07-22T14:26:27-07:00</updated>
+    <published>2026-07-23T10:00:09-07:00</published>
+    <updated>2026-07-23T10:00:09-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/ndyx5bjnrrhp"/>
     <title>Enterprise Automation and Solution Delivery services maintenance for Instructor Placement Logic Fix from Jul 23, 2026 10:00 -16:00</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; - &lt;var data-var='time'&gt;16:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;14:26&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Enterprise Automation and Solution Delivery services maintenance for Instructor Placement Logic Fix from Jul 23, 2026 10:00 -16:00 &lt;br /&gt;&lt;br /&gt;The EASD Team will be releasing software updates that may affect Scheduling services&lt;br /&gt;&lt;br /&gt;During this maintenance window there may be a potential interruption to the apps and services for &lt;30 min (between 14:00 to 14:30)&lt;br /&gt;Release activities will be completed between from Jul 23, 2026  10:00 - 16:00&lt;br /&gt;Apps/Services:&lt;br /&gt;&lt;br /&gt;Bug fixes / Enhancement for Instructor Placement Logic Fix&lt;br /&gt;Fix to have eligible instructor assigned (not skipped) and the placeholder is skipped due to not having any eligibility in WD.&lt;br /&gt;Impacts:&lt;br /&gt;&lt;br /&gt;No other impacts to end users.&lt;br /&gt;Reason for maintenance:&lt;br /&gt;&lt;br /&gt;IRP Student: Instructor Placement Logic Fix &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;14:26&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Enterprise Automation and Solution Delivery services maintenance for Instructor Placement Logic Fix from Jul 23, 2026 10:00 -16:00 &lt;br /&gt;&lt;br /&gt;The EASD Team will be releasing software updates that may affect Scheduling services&lt;br /&gt;&lt;br /&gt;During this maintenance window there may be a potential interruption to the apps and services for &lt;30 min (between 14:00 to 14:30)&lt;br /&gt;Release activities will be completed between from Jul 23, 2026  10:00 - 16:00&lt;br /&gt;Apps/Services:&lt;br /&gt;&lt;br /&gt;Bug fixes / Enhancement for Instructor Placement Logic Fix&lt;br /&gt;Fix to have eligible instructor assigned (not skipped) and the placeholder is skipped due to not having any eligibility in WD.&lt;br /&gt;Impacts:&lt;br /&gt;&lt;br /&gt;No other impacts to end users.&lt;br /&gt;Reason for maintenance:&lt;br /&gt;&lt;br /&gt;IRP Student: Instructor Placement Logic Fix &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/30974727</id>
+    <published>2026-07-23T09:13:18-07:00</published>
+    <updated>2026-07-23T09:13:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/vmxn89vw9n74"/>
+    <title>MS365 Services Issue - July 23, 2026, 9:00 PT</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;09:13&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - Users may experience issues related to MS365 Services. Microsoft is currently investigating. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30953252</id>
-    <published>2026-07-23T07:00:00-07:00</published>
-    <updated>2026-07-23T06:00:07-07:00</updated>
+    <published>2026-07-23T08:00:08-07:00</published>
+    <updated>2026-07-23T08:00:08-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/mg7jcv303ybl"/>
     <title>Jupyter Open Maintenance July 23, 2026 07:00 - 08:00 PT</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; - &lt;var data-var='time'&gt;08:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;14:01&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Jupyter Open will be unavailable due to scheduled maintenance on July 23, 2026 07:00 - 08:00 PT &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;14:01&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Jupyter Open will be unavailable due to scheduled maintenance on July 23, 2026 07:00 - 08:00 PT &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30953220</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/2by2yn72r8yt"/>
     <title>TouchNet PROD User Login Issue  July 14, 2026 12:50 PT</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;13:39&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - The issue has been resolved. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;12:51&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - The vendor TouchNet has advised that they are aware of an issue impacting some users and students logging in to TouchNet PROD this afternoon and is actively working to resolve. They anticipate providing another update by 2 p.m. PT, if not sooner and apologize for the inconvenience.  &lt;br /&gt;For any questions please contact dpp.support@ubc.ca &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/30835215</id>
-    <published>2026-07-13T16:00:07-07:00</published>
-    <updated>2026-07-13T16:00:07-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/nsrk5xl1t6s0"/>
-    <title>Enterprise Automation &amp; Solution Delivery service maintenance for Affiliate Student Management Tool 13 Jul 2026 10:00 -  16:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;14:36&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The Enterprise Automation and Solution Delivery (EASD)  Affiliate Student Management Tool (ASMT) will undergo maintenance from 13 Jul 2026 from 10:00 - 16:00&lt;br /&gt;&lt;br /&gt;Apps/Services:&lt;br /&gt;&lt;br /&gt;Bug fixes for Affiliate Student Management Tool (ASMT) &lt;br /&gt;Fix a bug where a student record is stuck in Pending status in ASMT Incomplete Operations.&lt;br /&gt;&lt;br /&gt;Fix a bug where shared ElastiCache usage in non-production environments causes performance issues due to inefficient queries and large data volume.&lt;br /&gt;&lt;br /&gt;Impacts:&lt;br /&gt;&lt;br /&gt;During this maintenance there may be a brief interruption (from 13 Jul 2026 from 12:00 - 12:30) to the apps and services listed above.&lt;br /&gt;Impacted Services:&lt;br /&gt;&lt;br /&gt;ubc-iec--asmt-api--1 &lt;/p&gt;</content>
   </entry>
 </feed>
