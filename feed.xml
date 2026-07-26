@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-07-25T11:59:31-07:00</updated>
+  <updated>2026-07-25T17:24:40-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -58,11 +58,11 @@
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30995174</id>
-    <published>2026-07-25T11:59:31-07:00</published>
-    <updated>2026-07-25T11:59:31-07:00</updated>
+    <published>2026-07-25T15:50:00-07:00</published>
+    <updated>2026-07-25T15:50:00-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/3g7rj7jssx7l"/>
-    <title>UBC Library's Open Collections currently unavailable, July 25, 2026, 11:40 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;11:43&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - The UBC Library's Open Collections site (open.library.ubc.ca) is currently unavailable.&lt;br /&gt;&lt;br /&gt;Technicians are investigating the issue.&lt;br /&gt;&lt;br /&gt;Next update will be at 14:00 PT. &lt;/p&gt;</content>
+    <title>UBC Library's Open Collections unavailable, July 25, 2026, 11:40 PT</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;15:49&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Monitoring&lt;/strong&gt; - Service has been restored.  &lt;br /&gt;Technicians will monitor over the weekend. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;11:43&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - The UBC Library's Open Collections site (open.library.ubc.ca) is currently unavailable.&lt;br /&gt;&lt;br /&gt;Technicians are investigating the issue.&lt;br /&gt;&lt;br /&gt;Next update will be at 14:00 PT. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30890992</id>
