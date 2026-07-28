@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-07-27T19:11:59-07:00</updated>
+  <updated>2026-07-28T01:09:36-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -74,11 +74,19 @@
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30953209</id>
-    <published>2026-07-27T21:00:00-07:00</published>
-    <updated>2026-07-21T13:56:53-07:00</updated>
+    <published>2026-07-27T21:00:07-07:00</published>
+    <updated>2026-07-27T21:00:07-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/h49mgx8mbksp"/>
     <title>Enterprise Services Load Balancer Maintenance July 27, 2026, 21:00 - July 28, 2026, 02:00 PT</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;21:00&lt;/var&gt; PDT &amp;nbsp;-&amp;nbsp; Jul &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;02:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;13:56&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Maintenance will be performed on the Point Grey Load Balancers on July 27, 2026, 21:00 - July 28, 2026, 02:00 PT&lt;br /&gt;No service impact is expected. &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;21:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;13:56&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Maintenance will be performed on the Point Grey Load Balancers on July 27, 2026, 21:00 - July 28, 2026, 02:00 PT&lt;br /&gt;No service impact is expected. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/30890604</id>
+    <published>2026-07-27T20:00:08-07:00</published>
+    <updated>2026-07-27T20:00:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/b8r37sgyz91k"/>
+    <title>Okanagan Campus Network Maintenance July 27, 2026  9:00 PT-20:00 PT</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;14:54&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Network maintenance will occur for the Okanagan campus on July 27, 2026, 9:00-20:00 PT.  Okanagan campus VPN service will see a brief disruption to service durring the maintenance window. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30995174</id>
@@ -87,14 +95,6 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/3g7rj7jssx7l"/>
     <title>UBC Library's Open Collections unavailable, July 25, 2026, 11:40 PT</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;09:25&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - The issue has been resolved. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;15:49&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Monitoring&lt;/strong&gt; - Service has been restored.  &lt;br /&gt;Technicians will monitor over the weekend. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;11:43&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - The UBC Library's Open Collections site (open.library.ubc.ca) is currently unavailable.&lt;br /&gt;&lt;br /&gt;Technicians are investigating the issue.&lt;br /&gt;&lt;br /&gt;Next update will be at 14:00 PT. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/30890604</id>
-    <published>2026-07-27T09:00:07-07:00</published>
-    <updated>2026-07-27T09:00:07-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/b8r37sgyz91k"/>
-    <title>Okanagan Campus Network Maintenance July 27, 2026  9:00 PT-20:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;14:54&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Network maintenance will occur for the Okanagan campus on July 27, 2026, 9:00-20:00 PT.  Okanagan campus VPN service will see a brief disruption to service durring the maintenance window. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30890992</id>
