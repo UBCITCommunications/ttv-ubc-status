@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-08-04T05:09:37-07:00</updated>
+  <updated>2026-08-04T11:22:30-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -33,6 +33,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var='date'&gt;8&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; - &lt;var data-var='time'&gt;21:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;13:47&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - UBC GitHub will be unavailable from August 8, 2026 09:00 PT to August 9 2026 21:00 PT for scheduled maintenance. UBC GitHub (github.ubc.ca.) and its affiliated services will be unavailable during the upgrade. &lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31090870</id>
+    <published>2026-08-07T21:00:00-07:00</published>
+    <updated>2026-08-04T11:16:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/5wsylv5l4r9q"/>
+    <title>Workday Scheduled Monthly Maintenance and Weekly Service Update August 07, 2026, 21:00 PT to August 08, 2026, 04:00 PT</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var='date'&gt;7&lt;/var&gt;, &lt;var data-var='time'&gt;21:00&lt;/var&gt; PDT &amp;nbsp;-&amp;nbsp; Aug &lt;var data-var='date'&gt;8&lt;/var&gt;, &lt;var data-var='time'&gt;04:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;11:16&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Please be advised that on August 07, 2026, 21:00 PT to August 08, 2026, 04:00 PT, Workday will be undergoing scheduled maintenance as part of its monthly service update. The system will remain accessible during the scheduled maintenance period but it is advised not to run critical processes and tasks&lt;br /&gt;Learn about Workday Support at UBC and other available resources on isc.ubc.ca. &lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31012570</id>
     <published>2026-08-07T05:00:00-07:00</published>
     <updated>2026-07-27T09:40:02-07:00</updated>
@@ -47,6 +55,14 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/w16hy479dn7y"/>
     <title>Official Document Management Tool (ODMT) Maintenance August 6, 2026, 16:00-18:00 PT</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var='date'&gt;6&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; - &lt;var data-var='time'&gt;18:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;13:02&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The UBC Official Document Management Tool (ODMT) will undergo scheduled maintenance on August 6, 2026, from 16:00 to 18:00 PM (PT). During this time, the tool will be unavailable and users will not be able to access the tool. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31089849</id>
+    <published>2026-08-05T20:00:00-07:00</published>
+    <updated>2026-08-04T08:42:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/d58fz6lvbbr5"/>
+    <title>Douglas T. Kenny Building Network Switch Replacement August 5, 2026 20:00 - August 6, 2026 04:30 PT</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var='date'&gt;5&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; PDT &amp;nbsp;-&amp;nbsp; Aug &lt;var data-var='date'&gt;6&lt;/var&gt;, &lt;var data-var='time'&gt;04:30&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;08:42&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Network maintenance is being performed at the Douglas T. Kenny Building, involving replacement of aging network infrastructure. During this service window from August 5, 2026 20:00 - August 6, 2026 04:30 PT; network services will be interrupted briefly and intermittently while physical and logical changes are being performed on the network backbones and while the user ports are migrated to new switching infrastructure. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30780330</id>
@@ -191,21 +207,5 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/g4jq71dbw16r"/>
     <title>University Computer Management System (UCMS) Maintenance July 25, 2026, 00:00-11:00 PT</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;11:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;16:17&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - University Computer Management System (UCMS) Maintenance for Apple devices (Jamf Pro) will be undergoing routine maintenance on July 25, 2026, 00:00-11:00 PT.  During this time Apple devices will not be able to contact the server for updates, however no disruption to the use of Apple devices is expected. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/30941324</id>
-    <published>2026-07-25T00:01:15-07:00</published>
-    <updated>2026-07-25T00:01:15-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/nj908t9262sp"/>
-    <title>Workday Scheduled Weekly Maintenance July 24, 2026, 21:00 PT to July 25, 2026, 00:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;00:01&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;21:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;14:17&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Please be advised that on July 24, 2026, 21:00 PT to July 25, 2026, 00:00 PT, Workday will be undergoing scheduled maintenance as part of its weekly service update. The system will remain accessible during the scheduled maintenance period but it is advised not to run critical processes and tasks. &lt;br /&gt;&lt;br /&gt;Learn about Workday Support at UBC and other available resources on isc.ubc.ca. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/30890037</id>
-    <published>2026-07-24T17:00:07-07:00</published>
-    <updated>2026-07-24T17:00:07-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/m0vyzw9j1wq1"/>
-    <title>TouchNet TEST site - Scheduled Maintenance July 24, 2026 05:00 PT-17:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;05:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;13:20&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The TouchNet TEST site will be undergoing scheduled maintenance. During the update window the TouchNet TEST site will be offline for logging in by staff as a TouchNet user and for making TEST payments. &lt;br /&gt;For any questions please contact dpp.support@ubc.ca &lt;/p&gt;</content>
   </entry>
 </feed>
