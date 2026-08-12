@@ -4,10 +4,34 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-08-11T11:14:09-07:00</updated>
+  <updated>2026-08-11T18:00:08-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31150081</id>
+    <published>2026-08-27T07:00:00-07:00</published>
+    <updated>2026-08-11T14:51:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/94lftymqg2xd"/>
+    <title>Learning Tools Maintenance - August 27 2026 07:00-09:00 PT</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; - &lt;var data-var='time'&gt;09:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;14:51&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Several Learning Technology tools will be undergoing maintenance on Thursday August 27, 2026 07:00-09:00 PT. The following applications will be offline during this window:&lt;br /&gt;&lt;br /&gt;- Learning Tools Provisioning Service &lt;br /&gt;- Moodle (Education and Medicine - CPD)&lt;br /&gt;- GitLab&lt;br /&gt;- GitHub&lt;br /&gt;- ComPAIR&lt;br /&gt;- iPeer&lt;br /&gt;- HotCRP&lt;br /&gt;- UBC Wiki &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31150002</id>
+    <published>2026-08-27T05:00:00-07:00</published>
+    <updated>2026-08-11T14:36:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/rlh4nf52gs0h"/>
+    <title>Two-Way Radio System Network Maintenance August 27, 2026 05:00-07:00 PT</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;05:00&lt;/var&gt; - &lt;var data-var='time'&gt;07:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;14:36&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Two-Way Radio System Network will undergo network maintenance on August 27, 2026  05:00-07:00 PT and will require reboot as part of the change. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31150090</id>
+    <published>2026-08-24T12:00:00-07:00</published>
+    <updated>2026-08-11T14:52:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/sy3wnd9xw8j3"/>
+    <title>WeBWorK Maintenance August 24, 2026 12:00-24:00 PT</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;12:00&lt;/var&gt; PDT &amp;nbsp;-&amp;nbsp; Aug &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;14:52&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - WeBWorK will be undergoing maintenance to upgrade from version 2.18 to 2.20. During the update window, WeBWorK may be periodically unavailable. &lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31012570</id>
     <published>2026-08-21T05:00:00-07:00</published>
@@ -15,6 +39,14 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/84ws5qrt5rcy"/>
     <title>TouchNet TEST site - Scheduled Maintenance Aug 21, 2026 - 05:00 a.m. to Aug 21, 2026 - 05:00 p.m.</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;05:00&lt;/var&gt; - &lt;var data-var='time'&gt;17:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;12:42&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - We will be undergoing scheduled maintenance during this time. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;09:40&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The TouchNet TEST site will be undergoing scheduled maintenance. During the update window the TouchNet TEST site will be offline for logging in by staff as a TouchNet user and for making TEST payments.&lt;br /&gt;For any questions please contact dpp.support@ubc.ca &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31150011</id>
+    <published>2026-08-15T04:00:00-07:00</published>
+    <updated>2026-08-11T14:40:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/23sw208jzd8r"/>
+    <title>UBC IT Network – Scheduled Network Maintenance August 15, 2026, 04:00–07:00 PT</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;04:00&lt;/var&gt; - &lt;var data-var='time'&gt;07:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;14:40&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - UBC IT Network will perform scheduled network maintenance at the LFSC Hub on August 15, 2026, from 04:00 to 07:00 PT. During this maintenance window, DMP-AV and VIHA network services will be temporarily unavailable. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31139229</id>
@@ -31,6 +63,14 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/wjfbh0mbjgmc"/>
     <title>TouchNet PROD site - Scheduled Maintenance Aug 14, 2026 - 12:00 a.m. to Aug 14, 2026 - 04:00 a.m.</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; - &lt;var data-var='time'&gt;04:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;09:41&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The TouchNet PROD site will be undergoing scheduled maintenance. During the update window the TouchNet PROD site will be offline for logging in by staff as a TouchNet user and for customers making new payments. During this time when the payor clicks "pay now" TouchNet will display a screen informing the payor that the system is off line for maintenance and to try again after the system is back online. &lt;br /&gt;&lt;br /&gt;For any questions please contact dpp.support@ubc.ca &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31150037</id>
+    <published>2026-08-13T07:00:00-07:00</published>
+    <updated>2026-08-11T14:42:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/g6860xrz37qn"/>
+    <title>UBC Identity Verification Maintenance August 13, 2026 07:00-09:00 PT</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; - &lt;var data-var='time'&gt;09:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;14:42&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The UBC Identity Verification service (https://verify.id.ubc.ca) will be undergoing maintenance on August 13, 2026 07:00-09:00 PT.&lt;br /&gt;&lt;br /&gt;There is anticipated a service interruption of ~5 seconds during the maintenance (user's browser will attempt to reconnect automatically on service return). &lt;br /&gt;&lt;br /&gt;The UBC Identity Verification service is an application for users to validate and merge duplicate identities. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30590044</id>
@@ -50,19 +90,19 @@
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31091993</id>
-    <published>2026-08-11T18:00:00-07:00</published>
-    <updated>2026-08-04T14:32:56-07:00</updated>
+    <published>2026-08-11T18:00:08-07:00</published>
+    <updated>2026-08-11T18:00:08-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/5h8pvkr06gft"/>
     <title>Okanagan Campus Network Maintenance August 11, 2026, 18:00-20:00 PT</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;18:00&lt;/var&gt; - &lt;var data-var='time'&gt;20:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;14:32&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Network maintenance will occur for the Okanagan campus on August 11, 2026, 18:00-20:00 PT.  Okanagan campus will see a brief disruption to service during the maintenance window. &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;18:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;14:32&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Network maintenance will occur for the Okanagan campus on August 11, 2026, 18:00-20:00 PT.  Okanagan campus will see a brief disruption to service during the maintenance window. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31148517</id>
-    <published>2026-08-11T10:49:31-07:00</published>
-    <updated>2026-08-11T10:49:31-07:00</updated>
+    <published>2026-08-11T17:01:25-07:00</published>
+    <updated>2026-08-11T17:01:25-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/60280j18bk07"/>
-    <title>Authentication Issues</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;10:49&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Monitoring&lt;/strong&gt; - The next update will be at 12:30pm &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;10:37&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - Authentication services have been restored. &lt;br /&gt;UBC IT technicians will continue to monitor services closely.&lt;br /&gt;The next update will be at 12:30pm &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;10:34&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - We are continuing to investigate this issue. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;10:15&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - Users are currently experiencing authentication issue when logging in to UBC Services.  The issue is being investigated. &lt;/p&gt;</content>
+    <title>CWL Authentication Intermittent Login Issues, August 11, 2026, 10:15 PT</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;17:01&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;14:09&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - The authentication issues have been resolved. UBC IT technicians are closely monitoring services. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;12:36&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - Further authentication issues have been identified and are impacting some services across campus. Users experiencing issues can clear their browser's cookies and cache, and try logging in again. &lt;br /&gt;&lt;br /&gt;UBC IT technicians are continuing to investigate the issue. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;12:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Monitoring&lt;/strong&gt; - . &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;10:37&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - Authentication services have been restored. &lt;br /&gt;UBC IT technicians will continue to monitor services closely.&lt;br /&gt;The next update will be at 12:30pm &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;10:34&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - We are continuing to investigate this issue. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;10:15&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - Users are currently experiencing authentication issue when logging in to UBC Services.  The issue is being investigated. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31092012</id>
@@ -167,45 +207,5 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/xnpmmbc8vs00"/>
     <title>Workday Scheduled Weekly Maintenance  July 31, 2026, 21:00 PT to August 01, 2026, 00:00 PT</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;21:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;09:53&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Please be advised that on July 31, 2026, 21:00 PT to August 01, 2026, 00:00 PT, Workday will be undergoing scheduled maintenance as part of its weekly service update. The system will remain accessible during the scheduled maintenance period but it is advised not to run critical processes and tasks. &lt;br /&gt;&lt;br /&gt;Learn about Workday Support at UBC and other available resources on isc.ubc.ca. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31043849</id>
-    <published>2026-07-31T15:00:07-07:00</published>
-    <updated>2026-07-31T15:00:08-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/hy1k0gy3rmxh"/>
-    <title>Enterprise Automation &amp; Solution Delivery (EASD) – LFS/ODS Services Maintenance from July 30, 2026 10:00 - July 31, 2026 15:00</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;15:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Enterprise Automation &amp; Solution Delivery (EASD) – LFS/ODS Services Maintenance from July 30, 2026 10:00 - July 31, 2026 15:00 &lt;br /&gt;&lt;br /&gt;Release activities will be completed between July 30, 2026 from 10:00 - 16:00.&lt;br /&gt;Validation will continue until 31 Jul 2026 15:00.&lt;br /&gt;The LFS Team will be releasing software updates that may affect any of the following:&lt;br /&gt;&lt;br /&gt;Apps/Services:&lt;br /&gt;&lt;br /&gt;Learner Financial Support Management (LFSM) /ODS&lt;br /&gt;Bug fixes on Bursary Working Snapshot report and an enhancement&lt;br /&gt;Bug fix on Bursary Financial Report&lt;br /&gt;SABC reassessment fix for multiple ELAR for the same loan application&lt;br /&gt;Performance issue fix when loading large SABC CON files&lt;br /&gt;Bug fix when making as version of a winter award to summer to make sure not to bring in terms&lt;br /&gt;Bug fix of syncing the delay of overrise and eligibility flags&lt;br /&gt;Bug fix to correct T4A eligible award total and missing installments&lt;br /&gt;ENHANCEMENT - Bursary Snapshot Report: UI export limit for report&lt;br /&gt;ENHANCEMENT] - Allow pickup of IER and CON integration files from CrushFTP to be case-insensitive for file extension&lt;br /&gt;[ENHANCEMENT] - Reposition Reassessment Indicator field in reports and list views&lt;br /&gt;Release Impact&lt;br /&gt;LFSM will have a short interruption of services during this deployment.&lt;br /&gt;Reason for maintenance:&lt;br /&gt;&lt;br /&gt;Release of bug fixes and enhancements to LFS and Donor communication letter template &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31013621</id>
-    <published>2026-07-31T02:00:07-07:00</published>
-    <updated>2026-07-31T02:00:07-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/z2r1ql3fxr4c"/>
-    <title>Leon and Thea Koerner University Centre Network Switch Replacement June 30, 2026 20:00 PT - June 31, 2026 02:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;02:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;12:08&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Network maintenance is being performed at the Leon and Thea Koerner University Centre, involving replacement of aging network infrastructure. During this service window from June 30, 2026 20:00 -  June 31, 2026 02:00 PT; network services will be interrupted briefly and intermittently while physical and logical changes are being performed on the network backbones and while the user ports are migrated to new switching infrastructure. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31024110</id>
-    <published>2026-07-30T21:00:11-07:00</published>
-    <updated>2026-07-30T21:00:11-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/n50cj2zw3tqv"/>
-    <title>ServiceNow Upgrade July 30, 2026, 17:00 to 21:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;21:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;13:43&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - ServiceNow will be undergoing a major version upgrade on July 30, 2026, 17:00  to 21:00 PT.&lt;br /&gt;There is no expected downtime or impact associated with this change. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31043827</id>
-    <published>2026-07-30T16:00:08-07:00</published>
-    <updated>2026-07-30T16:00:08-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/pfjkst167qxn"/>
-    <title>Enterprise Automation &amp; Solution Delivery service maintenance for Graduation Management Application 30 Jul 2026 10:00 PT - 30 Jul 2026 16:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;10:01&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;08:57&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The Enterprise Automation and Solution Delivery (EASD)  Graduation Management Application will undergo maintenance from 30 Jul 2026 from 10:00  and validation until 30 Jul 2026 16:00&lt;br /&gt;&lt;br /&gt;Apps/Services:&lt;br /&gt;&lt;br /&gt;Bug fixes for Graduation Management Application (CNVM-Appian)&lt;br /&gt;To fix a bug that specials situation applications can no longer be submitted for conferred students&lt;br /&gt;Remove client access to the UPay key generation logic&lt;br /&gt;Impacts:&lt;br /&gt;&lt;br /&gt;During this maintenance there may be a brief interruption (from 30 Jul 2026 from 12:00 - 12:30) to the apps and services listed above.&lt;br /&gt;Impacted Services:&lt;br /&gt;&lt;br /&gt;ubc-iec--appian-web-graduation-management-application--1 &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/30890425</id>
-    <published>2026-07-30T12:30:07-07:00</published>
-    <updated>2026-07-30T12:30:07-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/6kfq55jxsc7s"/>
-    <title>Scheduled Maintenance for the Convocation Management application (CNVM- Appian) July 30, 2026 12:00 PT-12:30 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;12:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;12:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;14:25&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The Convocation Management application (CNVM – Appian) will undergo maintenance from July 30, 2026 12:00 PT-12:30 PT. During this period, there may be a brief service disruption. Please plan accordingly. &lt;/p&gt;</content>
   </entry>
 </feed>
