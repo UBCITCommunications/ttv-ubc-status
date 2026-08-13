@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-08-12T18:00:09-07:00</updated>
+  <updated>2026-08-12T21:00:07-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -82,19 +82,19 @@
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30590044</id>
-    <published>2026-08-12T20:00:00-07:00</published>
-    <updated>2026-06-16T14:55:43-07:00</updated>
+    <published>2026-08-12T21:00:07-07:00</published>
+    <updated>2026-08-12T21:00:07-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/lw6ql0mr65v3"/>
     <title>UBCO NGFW Security Update, August 12, 2026. 20:00-21:00 PT</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; - &lt;var data-var='time'&gt;21:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;14:55&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The UBCO campus border firewall will be under maintenance for security upgrades.&lt;br /&gt;&lt;br /&gt;This maintenance will not impact UBCO network traffic and services. &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;21:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;14:55&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The UBCO campus border firewall will be under maintenance for security upgrades.&lt;br /&gt;&lt;br /&gt;This maintenance will not impact UBCO network traffic and services. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31091953</id>
-    <published>2026-08-12T18:00:09-07:00</published>
-    <updated>2026-08-12T18:00:09-07:00</updated>
+    <published>2026-08-12T20:00:09-07:00</published>
+    <updated>2026-08-12T20:00:10-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/vpdxqz0bc9jq"/>
     <title>UBC Faculty and Staff Email (FASmail) Service Maintenance August 12, 2026, 18:00 - 20:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;18:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;14:23&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - On August 12, 2026, 18:00 - 20:00 PT, UBC IT will perform system maintenance on the UBC Faculty and Staff Email (FASmail) Service.  No user impact is anticipated during the maintenance window. &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;18:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;14:23&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - On August 12, 2026, 18:00 - 20:00 PT, UBC IT will perform system maintenance on the UBC Faculty and Staff Email (FASmail) Service.  No user impact is anticipated during the maintenance window. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31091993</id>
