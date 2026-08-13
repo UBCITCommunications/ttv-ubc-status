@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-08-12T23:54:26-07:00</updated>
+  <updated>2026-08-13T06:00:28-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -75,7 +75,7 @@
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31150037</id>
     <published>2026-08-13T07:00:00-07:00</published>
-    <updated>2026-08-11T14:42:39-07:00</updated>
+    <updated>2026-08-13T06:00:28-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/g6860xrz37qn"/>
     <title>UBC Identity Verification Maintenance August 13, 2026 07:00-09:00 PT</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; - &lt;var data-var='time'&gt;09:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;14:42&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The UBC Identity Verification service (https://verify.id.ubc.ca) will be undergoing maintenance on August 13, 2026 07:00-09:00 PT.&lt;br /&gt;&lt;br /&gt;There is anticipated a service interruption of ~5 seconds during the maintenance (user's browser will attempt to reconnect automatically on service return). &lt;br /&gt;&lt;br /&gt;The UBC Identity Verification service is an application for users to validate and merge duplicate identities. &lt;/p&gt;</content>
