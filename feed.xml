@@ -4,10 +4,18 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-08-13T11:21:11-07:00</updated>
+  <updated>2026-08-13T18:39:21-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31166759</id>
+    <published>2026-09-08T00:00:00-07:00</published>
+    <updated>2026-08-13T12:31:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/zgmrq47zz1y9"/>
+    <title>EducationPlannerBC (EPBC) Authentication Maintenance September 8, 2026 00:00 PT to September 9, 2026 23:59 PT</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;8&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; PDT &amp;nbsp;-&amp;nbsp; Sep &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;12:31&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - During this maintenance window, users will be unable to use their EPBC accounts to authenticate to the following UBC services:&lt;br /&gt;&lt;br /&gt;* Applicant Service Centre (ASC)&lt;br /&gt;* UBC's UNI CRM&lt;br /&gt;* CWL Account Upgrader (CWLU): for CWL account creation&lt;br /&gt;* Science One&lt;br /&gt;* UBC Student Housing and Community Services myAccount (including UBC Card) - includes Faculty/Staff&lt;br /&gt;* UBC Vancouver StarRez&lt;br /&gt;* UBC Okanagan StarRez&lt;br /&gt;&lt;br /&gt;Impact:&lt;br /&gt;Users relying on EPBC credentials to sign in to these services will be unable to authenticate for the duration of the maintenance window. No action is required from users; access will resume automatically once maintenance is complete. &lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31150081</id>
     <published>2026-08-27T07:00:00-07:00</published>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/356kwv4z1zyt"/>
     <title>Canvas off-cycle maintenance window August 5, 2026 02:00-03:00 PT</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;03:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;02:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;08:44&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - Canvas and Canvas Catalog will be unavailable on Wednesday August 5, 2026 from 2:00 a.m. to 3:00 a.m. Pacific for a scheduled off-cycle maintenance window.&lt;br /&gt;&lt;br /&gt;Please contact the LT Hub at LT.Hub@ubc.ca if you have any questions or concerns. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;14:19&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Canvas and Canvas Catalog will be unavailable on Wednesday August 5, 2026 from 2:00 a.m. to 3:00 a.m. Pacific for a scheduled off-cycle maintenance window.&lt;br /&gt;&lt;br /&gt;Please contact the LT Hub at LT.Hub@ubc.ca if you have any questions or concerns. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31024124</id>
-    <published>2026-08-01T14:00:07-07:00</published>
-    <updated>2026-08-01T14:00:07-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/kpy6c3zbhxzy"/>
-    <title>Enterprise Services Load Balancer Maintenance August 1, 2026, 10:00-14:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;14:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;13:46&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Maintenance will be performed on the Point Grey Campus Load Balancers on August 1, 2026, 10:00-14:00 PT.&lt;br /&gt;No service impact is expected. &lt;/p&gt;</content>
   </entry>
 </feed>
