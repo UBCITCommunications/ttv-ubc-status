@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-08-23T04:59:10-07:00</updated>
+  <updated>2026-08-23T10:54:21-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -113,6 +113,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; PDT &amp;nbsp;-&amp;nbsp; Aug &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;14:21&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The Enterprise Automation and Solution Delivery (EASD)  Learner Management (ODMT) and Affiliate Student Management Tool (ASMT) will undergo maintenance from 24 Aug 2026 from 10:00  and validation until 26 Aug 2026 16:00&lt;br /&gt;&lt;br /&gt;Apps/Services:&lt;br /&gt;&lt;br /&gt;Update for Learner Management (ODMT) and Affiliate Student Management Tool (ASMT)&lt;br /&gt;As part of an ongoing effort to optimize EASD APIs, a technical update is required for the ODMT and ASMT APIs.&lt;br /&gt;&lt;br /&gt;Impacts:&lt;br /&gt;&lt;br /&gt;During this maintenance there may be a brief interruption (from 25 Aug 2026 from 16:00 - 17:00) to the apps and services listed above. &lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31257615</id>
+    <published>2026-08-23T10:13:06-07:00</published>
+    <updated>2026-08-23T10:13:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/bqql5ql2ny18"/>
+    <title>Issue accessing Wordpress CMS sites, Sunday, August 23, 2026, 10:00 PT</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;10:13&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Monitoring&lt;/strong&gt; - There was a disruption in Wordpress CMS sites earlier this morning impacting websites hosted on that service. &lt;br /&gt;Technicians have restored service and websites are accessible.  We will continue monitor the service. &lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31204891</id>
     <published>2026-08-22T15:00:07-07:00</published>
     <updated>2026-08-22T15:00:08-07:00</updated>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/hbvf35tmr2s0"/>
     <title>Zoom Update Issue on UBC Owned Windows Devices</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;15:21&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Identified&lt;/strong&gt; - A newer version of the "Zoom and Zoom plug-in for Outlook" program has been added to the Software Center which will remediate this issue.&lt;br /&gt; &lt;br /&gt;Users who are still experiencing the issue of Zoom prompting for administrator credentials should restart their computer. Once restarted, the new version of Zoom should be installed automatically when the computer is next asleep or locked but still connected to the internet.&lt;br /&gt; &lt;br /&gt;The latest Zoom client could also be installed manually by first uninstalling "Zoom and Zoom plug-in for Outlook" through Software Center then re-installing it. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;16:47&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - Some Zoom users on Windows clients may have experienced a problem where Zoom requests to perform an update, but is unable to complete.  This would prevent users from using the Zoom application to attend or schedule Zoom meetings until the update is completed.  &lt;br /&gt;&lt;br /&gt;The cause of this issue has been identified and a remediation is in progress of being deployed.  The update will happen automatically and no action should be required of the user. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31166124</id>
-    <published>2026-08-17T10:42:40-07:00</published>
-    <updated>2026-08-17T10:42:40-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/bd0rjfd9q0j7"/>
-    <title>UBC Directory performance issue August 13, 2026 10:15 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;10:42&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - Resolved - This incident has been resolved. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;09:53&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Monitoring&lt;/strong&gt; - Performance has stabilized. Support teams are continuing to monitor. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;10:37&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - We are currently experiencing slowness/performance issues accessing the UBC Directory. Support teams are investigating, and will provide an update as soon as one is available. &lt;/p&gt;</content>
   </entry>
 </feed>
