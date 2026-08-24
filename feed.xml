@@ -4,10 +4,26 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-08-24T04:04:06-07:00</updated>
+  <updated>2026-08-24T11:00:08-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31265845</id>
+    <published>2026-09-18T00:00:00-07:00</published>
+    <updated>2026-08-24T10:12:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/fp3yfvr6z7z7"/>
+    <title>TouchNet PROD site - Scheduled Maintenance Sept 18, 2026 - 12:00 a.m. to Sept 18, 2026 - 04:00 a.m</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; - &lt;var data-var='time'&gt;04:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;10:12&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The TouchNet PROD site will be undergoing scheduled maintenance. During the update window the TouchNet PROD site will be offline for logging in by staff as a TouchNet user and for customers making new payments. During this time when the payor clicks "pay now" TouchNet will display a screen informing the payor that the system is off line for maintenance and to try again after the system is back online. &lt;br /&gt;For any questions please contact dpp.support@ubc.ca &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31265835</id>
+    <published>2026-09-11T05:00:00-07:00</published>
+    <updated>2026-08-24T10:11:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/84mkwmg9p3s0"/>
+    <title>TouchNet TEST site - Scheduled Maintenance Sept 11, 2026 - 05:00 a.m. to Sept 11, 2026 - 05:00 p.m</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;05:00&lt;/var&gt; - &lt;var data-var='time'&gt;17:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;10:11&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The TouchNet TEST site will be undergoing scheduled maintenance. During the update window the TouchNet TEST site will be offline for logging in by staff as a TouchNet user and for making TEST payments. &lt;br /&gt;For any questions please contact dpp.support@ubc.ca &lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31166759</id>
     <published>2026-09-08T00:00:00-07:00</published>
@@ -99,18 +115,18 @@
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31150090</id>
     <published>2026-08-24T12:00:00-07:00</published>
-    <updated>2026-08-11T14:52:56-07:00</updated>
+    <updated>2026-08-24T11:00:08-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/sy3wnd9xw8j3"/>
     <title>WeBWorK Maintenance August 24, 2026 12:00-24:00 PT</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;12:00&lt;/var&gt; PDT &amp;nbsp;-&amp;nbsp; Aug &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;14:52&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - WeBWorK will be undergoing maintenance to upgrade from version 2.18 to 2.20. During the update window, WeBWorK may be periodically unavailable. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31221718</id>
-    <published>2026-08-24T10:00:00-07:00</published>
-    <updated>2026-08-19T14:21:46-07:00</updated>
+    <published>2026-08-24T10:00:07-07:00</published>
+    <updated>2026-08-24T10:00:07-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/k2m59fjhttvb"/>
     <title>EASD service maintenance for Learner Management (ODMT) and Affiliate Student Management Tool (ASMT) - Thursday, 24 Aug 2026 10:00 PT - 26 Aug 2026 16:00 PT</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; PDT &amp;nbsp;-&amp;nbsp; Aug &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;14:21&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The Enterprise Automation and Solution Delivery (EASD)  Learner Management (ODMT) and Affiliate Student Management Tool (ASMT) will undergo maintenance from 24 Aug 2026 from 10:00  and validation until 26 Aug 2026 16:00&lt;br /&gt;&lt;br /&gt;Apps/Services:&lt;br /&gt;&lt;br /&gt;Update for Learner Management (ODMT) and Affiliate Student Management Tool (ASMT)&lt;br /&gt;As part of an ongoing effort to optimize EASD APIs, a technical update is required for the ODMT and ASMT APIs.&lt;br /&gt;&lt;br /&gt;Impacts:&lt;br /&gt;&lt;br /&gt;During this maintenance there may be a brief interruption (from 25 Aug 2026 from 16:00 - 17:00) to the apps and services listed above. &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;14:21&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The Enterprise Automation and Solution Delivery (EASD)  Learner Management (ODMT) and Affiliate Student Management Tool (ASMT) will undergo maintenance from 24 Aug 2026 from 10:00  and validation until 26 Aug 2026 16:00&lt;br /&gt;&lt;br /&gt;Apps/Services:&lt;br /&gt;&lt;br /&gt;Update for Learner Management (ODMT) and Affiliate Student Management Tool (ASMT)&lt;br /&gt;As part of an ongoing effort to optimize EASD APIs, a technical update is required for the ODMT and ASMT APIs.&lt;br /&gt;&lt;br /&gt;Impacts:&lt;br /&gt;&lt;br /&gt;During this maintenance there may be a brief interruption (from 25 Aug 2026 from 16:00 - 17:00) to the apps and services listed above. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31257615</id>
@@ -191,21 +207,5 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/cd4gqtgzdkxg"/>
     <title>UBC ELDAP Service System Maintenance August 19, 2026 08:00-09:00 PT</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;15:03&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The UBC ELDAP Service will be undergoing system maintenance on August 19, 2026 between 08:00 - 0900 PT.  No service outage is expected. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31204349</id>
-    <published>2026-08-18T23:00:08-07:00</published>
-    <updated>2026-08-18T23:00:08-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/6cx0pznn53k7"/>
-    <title>Wireless Network Maintenance August 18, 2025, 21:00–23:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;23:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;21:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;13:23&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - UBC IT will perform scheduled maintenance on the wireless network on  August 18, 2025, 21:00–23:00 PT.  No impact to end users is expected during this maintenance window, as network redundancy is in place. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31197352</id>
-    <published>2026-08-19T15:21:04-07:00</published>
-    <updated>2026-08-19T15:21:04-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/hbvf35tmr2s0"/>
-    <title>Zoom Update Issue on UBC Owned Windows Devices</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;15:21&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Identified&lt;/strong&gt; - A newer version of the "Zoom and Zoom plug-in for Outlook" program has been added to the Software Center which will remediate this issue.&lt;br /&gt; &lt;br /&gt;Users who are still experiencing the issue of Zoom prompting for administrator credentials should restart their computer. Once restarted, the new version of Zoom should be installed automatically when the computer is next asleep or locked but still connected to the internet.&lt;br /&gt; &lt;br /&gt;The latest Zoom client could also be installed manually by first uninstalling "Zoom and Zoom plug-in for Outlook" through Software Center then re-installing it. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;16:47&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - Some Zoom users on Windows clients may have experienced a problem where Zoom requests to perform an update, but is unable to complete.  This would prevent users from using the Zoom application to attend or schedule Zoom meetings until the update is completed.  &lt;br /&gt;&lt;br /&gt;The cause of this issue has been identified and a remediation is in progress of being deployed.  The update will happen automatically and no action should be required of the user. &lt;/p&gt;</content>
   </entry>
 </feed>
