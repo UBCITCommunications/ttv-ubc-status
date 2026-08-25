@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-08-24T11:00:08-07:00</updated>
+  <updated>2026-08-24T18:04:01-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -31,6 +31,14 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/zgmrq47zz1y9"/>
     <title>EducationPlannerBC (EPBC) Authentication Maintenance September 8, 2026 00:00 PT to September 9, 2026 23:59 PT</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;8&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; PDT &amp;nbsp;-&amp;nbsp; Sep &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;12:31&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - During this maintenance window, users will be unable to use their EPBC accounts to authenticate to the following UBC services:&lt;br /&gt;&lt;br /&gt;* Applicant Service Centre (ASC)&lt;br /&gt;* UBC's UNI CRM&lt;br /&gt;* CWL Account Upgrader (CWLU): for CWL account creation&lt;br /&gt;* Science One&lt;br /&gt;* UBC Student Housing and Community Services myAccount (including UBC Card) - includes Faculty/Staff&lt;br /&gt;* UBC Vancouver StarRez&lt;br /&gt;* UBC Okanagan StarRez&lt;br /&gt;&lt;br /&gt;Impact:&lt;br /&gt;Users relying on EPBC credentials to sign in to these services will be unable to authenticate for the duration of the maintenance window. No action is required from users; access will resume automatically once maintenance is complete. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31268216</id>
+    <published>2026-09-06T10:00:00-07:00</published>
+    <updated>2026-08-24T15:20:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/r9hjzhmgxd45"/>
+    <title>Enterprise Services Load Balancer Maintenance September 6, 2026, 10:00 - 16:00 PT</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;6&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; - &lt;var data-var='time'&gt;18:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;15:20&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Maintenance will be performed on the Point Grey Campus Load Balancers on September 6, 2026, 10:00-16:00 PT.&lt;br /&gt;&lt;br /&gt;No service impact is expected. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31195327</id>
@@ -114,11 +122,11 @@
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31150090</id>
-    <published>2026-08-24T12:00:00-07:00</published>
-    <updated>2026-08-24T11:00:08-07:00</updated>
+    <published>2026-08-24T12:00:07-07:00</published>
+    <updated>2026-08-24T12:00:07-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/sy3wnd9xw8j3"/>
     <title>WeBWorK Maintenance August 24, 2026 12:00-24:00 PT</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;12:00&lt;/var&gt; PDT &amp;nbsp;-&amp;nbsp; Aug &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;14:52&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - WeBWorK will be undergoing maintenance to upgrade from version 2.18 to 2.20. During the update window, WeBWorK may be periodically unavailable. &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;12:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;14:52&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - WeBWorK will be undergoing maintenance to upgrade from version 2.18 to 2.20. During the update window, WeBWorK may be periodically unavailable. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31221718</id>
@@ -130,8 +138,8 @@
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31257615</id>
-    <published>2026-08-23T10:13:06-07:00</published>
-    <updated>2026-08-23T10:13:06-07:00</updated>
+    <published>2026-08-24T12:00:07-07:00</published>
+    <updated>2026-08-24T12:00:07-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/bqql5ql2ny18"/>
     <title>Issue accessing Wordpress CMS sites, Sunday, August 23, 2026, 10:00 PT</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;10:13&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Monitoring&lt;/strong&gt; - There was a disruption in Wordpress CMS sites earlier this morning impacting websites hosted on that service. &lt;br /&gt;Technicians have restored service and websites are accessible.  We will continue monitor the service. &lt;/p&gt;</content>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/smswl7p98nkc"/>
     <title>Hybrid Cloud Service AWS Network - Maintenance August 19, 2026 07:30-9:30 PT</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;09:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;07:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;14:57&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - We will be performing maintenance on some UBC Hybrid Cloud AWS accounts.  Network services will be interrupted briefly and intermittently during the change window for these AWS accounts. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31204864</id>
-    <published>2026-08-19T09:00:11-07:00</published>
-    <updated>2026-08-19T09:00:11-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/cd4gqtgzdkxg"/>
-    <title>UBC ELDAP Service System Maintenance August 19, 2026 08:00-09:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;15:03&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The UBC ELDAP Service will be undergoing system maintenance on August 19, 2026 between 08:00 - 0900 PT.  No service outage is expected. &lt;/p&gt;</content>
   </entry>
 </feed>
