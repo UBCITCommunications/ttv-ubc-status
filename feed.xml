@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-08-25T11:17:22-07:00</updated>
+  <updated>2026-08-25T18:00:49-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -35,10 +35,18 @@
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31268216</id>
     <published>2026-09-06T10:00:00-07:00</published>
-    <updated>2026-08-24T15:20:37-07:00</updated>
+    <updated>2026-08-25T13:58:10-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/r9hjzhmgxd45"/>
     <title>Enterprise Services Load Balancer Maintenance September 6, 2026, 10:00 - 16:00 PT</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;6&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; - &lt;var data-var='time'&gt;18:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;15:20&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Maintenance will be performed on the Point Grey Campus Load Balancers on September 6, 2026, 10:00-16:00 PT.&lt;br /&gt;&lt;br /&gt;No service impact is expected. &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;6&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; - &lt;var data-var='time'&gt;16:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;15:20&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Maintenance will be performed on the Point Grey Campus Load Balancers on September 6, 2026, 10:00-16:00 PT.&lt;br /&gt;&lt;br /&gt;No service impact is expected. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31276648</id>
+    <published>2026-09-04T12:00:00-07:00</published>
+    <updated>2026-08-25T14:00:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/325xvxy94k1n"/>
+    <title>Enterprise Services Load Balancer Maintenance September 4, 2026, 12:00-17:00 PT</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;4&lt;/var&gt;, &lt;var data-var='time'&gt;12:00&lt;/var&gt; - &lt;var data-var='time'&gt;17:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;13:47&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Maintenance will be performed on the Point Grey Campus Load Balancers on September 4, 2026, 12:00-17:00 PT.&lt;br /&gt;No service impact is expected. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31274592</id>
@@ -55,6 +63,14 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/lwklqxt83yz2"/>
     <title>UBCIT eSAM Servers Maintenance August 27, 2026, 20:00-23:00 PT</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; - &lt;var data-var='time'&gt;23:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;10:53&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - UBCIT will be performing maintenance on the eSAM component and vault servers on August 27, 2026, 20:00-23:00 PT. This change will affect both UBC campuses.&lt;br /&gt;&lt;br /&gt;Users will intermittently not be able to login to any servers managed by eSAM, nor retrieve any credentials via the eSAM Web UI throughout the maintanance window. &lt;br /&gt;&lt;br /&gt;Any connections terminated while a component is being rebooted can be reconnected to the secondary node. All connections will be terminated and users won't be able to reconnect while we patch the vault servers (which typically lasts around 30 minutes) during this window. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31276615</id>
+    <published>2026-08-27T18:00:00-07:00</published>
+    <updated>2026-08-25T13:41:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/wy3fb3sv8w9m"/>
+    <title>Shared Web Hosting Service Maintenance August 27, 2026 18:00-20:00 PT</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;18:00&lt;/var&gt; - &lt;var data-var='time'&gt;20:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;13:41&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The UBCIT Shared Web Hosting Service will be undergoing maintenance on August 27, 2026 from 18:00 - 20:00 PT. All hosted sites will be inaccessible for about 15 minutes during this window &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31221648</id>
@@ -99,34 +115,34 @@
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31204779</id>
     <published>2026-08-25T19:00:00-07:00</published>
-    <updated>2026-08-18T14:47:14-07:00</updated>
+    <updated>2026-08-25T18:00:49-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/22xmqszjq3l4"/>
     <title>Pay For Print (Vancouver) upgrade Tuesday August 25, 2026 19:00-22:00 PT</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;19:00&lt;/var&gt; - &lt;var data-var='time'&gt;22:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;14:47&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The Pay For Print System in UBC Vancouver is scheduled for an application and operation system upgrade August 25, 2026, from 19:00 - 22:00 PT. During this outage window, the payforprint.ubc.ca website will be offline, and public printing/copying services will not be available for libraries and student residences. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31204767</id>
-    <published>2026-08-25T16:00:00-07:00</published>
-    <updated>2026-08-18T14:43:22-07:00</updated>
+    <published>2026-08-25T18:00:09-07:00</published>
+    <updated>2026-08-25T18:00:09-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/vvhz787zdg8l"/>
     <title>Official Document Management Tool (ODMT) Maintenance August 25, 2026, 16:00-18:00 PT</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; - &lt;var data-var='time'&gt;18:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;14:43&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The UBC Official Document Management Tool (ODMT) will undergo scheduled maintenance on August 25, 2026, from 16:00 to 18:00 PM (PT). During this time, the tool will be unavailable and users will not be able to access the tool. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31204902</id>
-    <published>2026-08-25T14:00:00-07:00</published>
-    <updated>2026-08-18T15:11:23-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/lcdm5jgj64cz"/>
-    <title>SITS/eVision:  Scheduled maintenance August 25, 2026 , 14:00-22:00 PT</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Aug &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;14:00&lt;/var&gt; - &lt;var data-var='time'&gt;22:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;15:11&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - There will be an annual maintenance scheduled for SITS/e:Vision on  August 25, 2026 from 14:00 to 22:00 PT. &lt;br /&gt;During this time, the SITS/e:Vision (including the Graduate Studies Admission System and Sauder Executive Education Registration System) may NOT be available. &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;18:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;14:43&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The UBC Official Document Management Tool (ODMT) will undergo scheduled maintenance on August 25, 2026, from 16:00 to 18:00 PM (PT). During this time, the tool will be unavailable and users will not be able to access the tool. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31159027</id>
-    <published>2026-08-25T10:00:07-07:00</published>
-    <updated>2026-08-25T10:00:07-07:00</updated>
+    <published>2026-08-25T16:01:07-07:00</published>
+    <updated>2026-08-25T16:01:07-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/pr96s4dr219q"/>
     <title>Enterprise Automation and Solution Delivery services maintenance for Scientia to WD Instructor Updates (CRSS) Logic Fix from Aug 25, 2026 10:00 -16:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;14:52&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Enterprise Automation and Solution Delivery services maintenance for Scientia to WD Instructor Updates (CRSS) Logic Fix from Aug 25 2026 10:00 -16:00 &lt;br /&gt;&lt;br /&gt;The EASD Team will be releasing software updates that may affect Scheduling services&lt;br /&gt;&lt;br /&gt;During this maintenance window there may be a potential interruption to the apps and services for &lt;30 min (between 14:00 to 14:30)&lt;br /&gt;Release activities will be completed between from Aug 25, 2026  10:00 - 16:00&lt;br /&gt;Apps/Services:&lt;br /&gt;&lt;br /&gt;Bug fixes / Enhancement for Instructor Placement Logic Fix&lt;br /&gt;Fix to sync Instructor updates between Scientia and Workday&lt;br /&gt;Impacts:&lt;br /&gt;&lt;br /&gt;No other impacts to end users.&lt;br /&gt;Reason for maintenance:&lt;br /&gt;&lt;br /&gt;IRP Student: Instructor Placement Logic Fix &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;16:01&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;14:52&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Enterprise Automation and Solution Delivery services maintenance for Scientia to WD Instructor Updates (CRSS) Logic Fix from Aug 25 2026 10:00 -16:00 &lt;br /&gt;&lt;br /&gt;The EASD Team will be releasing software updates that may affect Scheduling services&lt;br /&gt;&lt;br /&gt;During this maintenance window there may be a potential interruption to the apps and services for &lt;30 min (between 14:00 to 14:30)&lt;br /&gt;Release activities will be completed between from Aug 25, 2026  10:00 - 16:00&lt;br /&gt;Apps/Services:&lt;br /&gt;&lt;br /&gt;Bug fixes / Enhancement for Instructor Placement Logic Fix&lt;br /&gt;Fix to sync Instructor updates between Scientia and Workday&lt;br /&gt;Impacts:&lt;br /&gt;&lt;br /&gt;No other impacts to end users.&lt;br /&gt;Reason for maintenance:&lt;br /&gt;&lt;br /&gt;IRP Student: Instructor Placement Logic Fix &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31204902</id>
+    <published>2026-08-25T14:00:07-07:00</published>
+    <updated>2026-08-25T14:00:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/lcdm5jgj64cz"/>
+    <title>SITS/eVision:  Scheduled maintenance August 25, 2026 , 14:00-22:00 PT</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;14:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;15:11&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - There will be an annual maintenance scheduled for SITS/e:Vision on  August 25, 2026 from 14:00 to 22:00 PT. &lt;br /&gt;During this time, the SITS/e:Vision (including the Graduate Studies Admission System and Sauder Executive Education Registration System) may NOT be available. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31150090</id>
@@ -191,21 +207,5 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/q7x8fcbpb00g"/>
     <title>Hybrid Cloud Service AWS Network - Maintenance August 21, 2026 07:30-09:30 PT</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;09:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;07:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;15:05&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - We will be performing maintenance on some UBC Hybrid Cloud AWS accounts.  Network services will be interrupted briefly and intermittently during the change window for these AWS accounts. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31204841</id>
-    <published>2026-08-20T05:00:09-07:00</published>
-    <updated>2026-08-20T05:00:09-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/7ycq7vct654p"/>
-    <title>LFSC Data Center Devices Re-Racking - Thursday Aug 20th 2026 00:00:00 - 05:00:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;05:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;15:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - UBC Network Team will move network devices into new racks at LFSC DC on Aug 20th 2026 from 00:00 to 05:00 PT. During the change window, there will be no interruption to the UBC Campus internet. The affected services will be notified to the stakeholder. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31204813</id>
-    <published>2026-08-19T13:00:08-07:00</published>
-    <updated>2026-08-19T13:00:08-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/x79s3q50xwk1"/>
-    <title>Wireless Network Maintenance August 19, 2026, 05:00 PT to 13:00 PT.</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;13:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;05:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;14:54&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The wireless team will be performing network maintenance on August 19, 2026, 05:00 PT to 13:00 PT. During this time, there will be a brief outage to all WiFi services at the following sites:&lt;br /&gt;&lt;br /&gt;- UBC Vancouver&lt;br /&gt;- UBC Okanagan&lt;br /&gt;- Robson Square&lt;br /&gt;- Smaller remote sites where UBC IT managed wireless networks are available. &lt;/p&gt;</content>
   </entry>
 </feed>
