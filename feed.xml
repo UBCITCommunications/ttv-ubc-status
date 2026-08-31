@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-08-31T04:34:22-07:00</updated>
+  <updated>2026-08-31T14:19:16-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -41,6 +41,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;6&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; - &lt;var data-var='time'&gt;16:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;15:20&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Maintenance will be performed on the Point Grey Campus Load Balancers on September 6, 2026, 10:00-16:00 PT.&lt;br /&gt;&lt;br /&gt;No service impact is expected. &lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31318568</id>
+    <published>2026-09-04T21:00:00-07:00</published>
+    <updated>2026-08-31T08:49:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/gvp5lv0r36p7"/>
+    <title>Workday Scheduled Weekly Maintenance  September 04, 2026, 21:00 PT to September 05, 2026, 00:00 PT</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;4&lt;/var&gt;, &lt;var data-var='time'&gt;21:00&lt;/var&gt; PDT &amp;nbsp;-&amp;nbsp; Sep &lt;var data-var='date'&gt;5&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;08:49&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Please be advised that on September 04, 2026, 21:00 PT to September 05, 2026, 00:00 PT, Workday will be undergoing scheduled maintenance as part of its weekly service update. The system will remain accessible during the scheduled maintenance period but it is advised not to run critical processes and tasks. &lt;br /&gt;&lt;br /&gt;Learn about Workday Support at UBC and other available resources on isc.ubc.ca. &lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31276648</id>
     <published>2026-09-04T12:00:00-07:00</published>
     <updated>2026-08-25T14:00:22-07:00</updated>
@@ -55,6 +63,22 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/fqdj9vjv5mp7"/>
     <title>Indigenous Community Legal Clinic Downtown Network Switch Replacement September 2, 2026 18:00 - September 2, 2026 19:30 PT</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;2&lt;/var&gt;, &lt;var data-var='time'&gt;18:00&lt;/var&gt; - &lt;var data-var='time'&gt;19:30&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;13:27&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Network maintenance is being performed at the Indigenous Community Legal Clinic Downtown to replace an aging network switch. During the service window from September 2, 2026 18:00 - September 2, 2026 19:30 PT, network connectivity for the Indigenous Community Legal Clinic Downtown may be interrupted briefly while the existing UBC-managed network switch is replaced and connections are migrated to the new switching infrastructure. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31197352</id>
+    <published>2026-08-31T10:00:28-07:00</published>
+    <updated>2026-08-31T10:00:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/hbvf35tmr2s0"/>
+    <title>Zoom Update Issue on UBC Owned Windows Devices</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - The Zoom Update issue has been resolved. Users who are still experiencing issues should re-install manually by first uninstalling "Zoom and Zoom plug-in for Outlook" through Software Center then re-installing it. A restart may be required before attempting re-install. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;15:21&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Identified&lt;/strong&gt; - A newer version of the "Zoom and Zoom plug-in for Outlook" program has been added to the Software Center which will remediate this issue.&lt;br /&gt; &lt;br /&gt;Users who are still experiencing the issue of Zoom prompting for administrator credentials should restart their computer. Once restarted, the new version of Zoom should be installed automatically when the computer is next asleep or locked but still connected to the internet.&lt;br /&gt; &lt;br /&gt;The latest Zoom client could also be installed manually by first uninstalling "Zoom and Zoom plug-in for Outlook" through Software Center then re-installing it. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;16:47&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - Some Zoom users on Windows clients may have experienced a problem where Zoom requests to perform an update, but is unable to complete.  This would prevent users from using the Zoom application to attend or schedule Zoom meetings until the update is completed.  &lt;br /&gt;&lt;br /&gt;The cause of this issue has been identified and a remediation is in progress of being deployed.  The update will happen automatically and no action should be required of the user. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31318925</id>
+    <published>2026-08-31T13:56:41-07:00</published>
+    <updated>2026-08-31T13:56:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/1h7hf52nc7kw"/>
+    <title>Adobe subscription Issue - Aug 31, 2026 - 9:00 PT</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;13:56&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - Adobe continues work to resolve the issue.  Estimated time of resolution is not yet available.  The expiry warning does not impact access to the Adobe software products at this time. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;12:08&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - As of 12:00 PM, we are still waiting for an update from Adobe regarding the resolution of the issue. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;10:21&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Identified&lt;/strong&gt; - Whilst Adobe users may receive a license expired notice, adobe software will continue to operate despite the notice.  We continue to work with Adobe to resolve the issue. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;09:44&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - We are aware of issues with Adobe licensing this morning, affecting access to Acrobat and Creative Cloud applications. We are currently working with Adobe to resolve the issue. Another update will be provided at 10:30 PT. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;09:32&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - Users may experience issues with their Adobe subscriptions.&lt;br /&gt;&lt;br /&gt;Some users may experience not being able to login into Adobe.&lt;br /&gt;&lt;br /&gt;UBC IT technicians are currently investigating the issue. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31274592</id>
@@ -183,29 +207,5 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/bqql5ql2ny18"/>
     <title>Issue accessing Wordpress CMS sites, Sunday, August 23, 2026, 10:00 PT</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;10:13&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Monitoring&lt;/strong&gt; - There was a disruption in Wordpress CMS sites earlier this morning impacting websites hosted on that service. &lt;br /&gt;Technicians have restored service and websites are accessible.  We will continue monitor the service. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31204891</id>
-    <published>2026-08-22T15:00:07-07:00</published>
-    <updated>2026-08-22T15:00:08-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/5l71nfp9d94v"/>
-    <title>UBC Remote Office Router Upgrades - August 22, 2026, 7:00-15:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;15:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;15:09&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The UBC remote office network will undergo maintenance to upgrade the router software on August 22, 2026 07:00-15:00 PT.  The remote offices may experience a brief 15-minute interruption to Internet and UBC campus access during this window. No other services will be affected. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31195335</id>
-    <published>2026-08-22T11:00:07-07:00</published>
-    <updated>2026-08-22T11:00:07-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/6d5w9pyxfgmz"/>
-    <title>University Computer Management System (UCMS) Maintenance August 22, 2026, 00:00-11:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;11:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;10:55&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - University Computer Management System (UCMS) Maintenance for Apple devices (Jamf Pro) will be undergoing routine maintenance on August 22, 2026, 00:00-11:00 PT.  During this time Apple devices will not be able to contact the server for updates, however no disruption to the use of Apple devices is expected. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31195088</id>
-    <published>2026-08-22T00:00:07-07:00</published>
-    <updated>2026-08-22T00:00:07-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/k4v9y181ww91"/>
-    <title>Workday Scheduled Weekly Maintenance  August 21, 2026, 21:00 PT to August 22, 2026, 00:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;21:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;10:02&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Please be advised that on August 21, 2026, 21:00 PT to August 22, 2026, 00:00 PT, Workday will be undergoing scheduled maintenance as part of its weekly service update. The system will remain accessible during the scheduled maintenance period but it is advised not to run critical processes and tasks. &lt;br /&gt;&lt;br /&gt;Learn about Workday Support at UBC and other available resources on isc.ubc.ca. &lt;/p&gt;</content>
   </entry>
 </feed>
