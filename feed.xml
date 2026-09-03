@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-09-02T19:30:14-07:00</updated>
+  <updated>2026-09-03T02:04:29-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -82,27 +82,27 @@
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31328995</id>
-    <published>2026-09-02T22:30:00-07:00</published>
-    <updated>2026-09-01T10:56:50-07:00</updated>
+    <published>2026-09-03T00:00:07-07:00</published>
+    <updated>2026-09-03T00:00:07-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/ckgbrrzc64v3"/>
     <title>Dorothy Somerset &amp; B.C. Binning Studios Network Switch Replacement September 2, 2026 22:30 - September 2, 2026 24:00 PT</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;2&lt;/var&gt;, &lt;var data-var='time'&gt;22:30&lt;/var&gt; PDT &amp;nbsp;-&amp;nbsp; Sep &lt;var data-var='date'&gt;3&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;10:56&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Network maintenance is being performed at the Dorothy Somerset &amp; B.C. Binning Studios, involving replacement of aging network infrastructure. During this service window from September 2, 2026 22:30 - September 2, 2026 24:00 PT; network services will be interrupted briefly and intermittently while physical and logical changes are being performed on the network backbones and while the user ports are migrated to new switching infrastructure. &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;22:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;10:56&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Network maintenance is being performed at the Dorothy Somerset &amp; B.C. Binning Studios, involving replacement of aging network infrastructure. During this service window from September 2, 2026 22:30 - September 2, 2026 24:00 PT; network services will be interrupted briefly and intermittently while physical and logical changes are being performed on the network backbones and while the user ports are migrated to new switching infrastructure. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31329000</id>
-    <published>2026-09-02T21:30:00-07:00</published>
-    <updated>2026-09-01T10:57:44-07:00</updated>
+    <published>2026-09-02T22:30:07-07:00</published>
+    <updated>2026-09-02T22:30:07-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/25qdj4ksf3n5"/>
     <title>Theatre-Film Production Building Network Switch Replacement September 2, 2026 21:30 - September 2, 2026 22:30 PT</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;2&lt;/var&gt;, &lt;var data-var='time'&gt;21:30&lt;/var&gt; - &lt;var data-var='time'&gt;22:30&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;10:57&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Network maintenance is being performed at the Theatre-Film Production Building, involving replacement of aging network infrastructure. During this service window from September 2, 2026 21:30 - September 2, 2026 22:30 PT; network services will be interrupted briefly and intermittently while physical and logical changes are being performed on the network backbones and while the user ports are migrated to new switching infrastructure. &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;22:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;21:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;10:57&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Network maintenance is being performed at the Theatre-Film Production Building, involving replacement of aging network infrastructure. During this service window from September 2, 2026 21:30 - September 2, 2026 22:30 PT; network services will be interrupted briefly and intermittently while physical and logical changes are being performed on the network backbones and while the user ports are migrated to new switching infrastructure. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31329006</id>
-    <published>2026-09-02T20:00:00-07:00</published>
-    <updated>2026-09-02T19:00:34-07:00</updated>
+    <published>2026-09-02T21:00:11-07:00</published>
+    <updated>2026-09-02T21:00:12-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/30cpsw6pms45"/>
     <title>Horticulture &amp; Stores Road Annex Network Switch Replacement September 2, 2026 20:00 - September 2, 2026 21:00 PT</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;2&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; - &lt;var data-var='time'&gt;21:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;10:58&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Network maintenance is being performed at the Horticulture &amp; Stores Road Annex Buildings, involving replacement of aging network infrastructure. During this service window from September 2, 2026 20:00 - September 2, 2026 21:00 PT; network services will be interrupted briefly and intermittently while physical and logical changes are being performed on the network backbones and while the user ports are migrated to new switching infrastructure. &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;21:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;10:58&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Network maintenance is being performed at the Horticulture &amp; Stores Road Annex Buildings, involving replacement of aging network infrastructure. During this service window from September 2, 2026 20:00 - September 2, 2026 21:00 PT; network services will be interrupted briefly and intermittently while physical and logical changes are being performed on the network backbones and while the user ports are migrated to new switching infrastructure. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31284605</id>
