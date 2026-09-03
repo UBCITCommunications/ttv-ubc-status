@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-09-02T12:55:45-07:00</updated>
+  <updated>2026-09-02T19:30:14-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -99,18 +99,26 @@
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31329006</id>
     <published>2026-09-02T20:00:00-07:00</published>
-    <updated>2026-09-01T10:58:41-07:00</updated>
+    <updated>2026-09-02T19:00:34-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/30cpsw6pms45"/>
     <title>Horticulture &amp; Stores Road Annex Network Switch Replacement September 2, 2026 20:00 - September 2, 2026 21:00 PT</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;2&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; - &lt;var data-var='time'&gt;21:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;10:58&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Network maintenance is being performed at the Horticulture &amp; Stores Road Annex Buildings, involving replacement of aging network infrastructure. During this service window from September 2, 2026 20:00 - September 2, 2026 21:00 PT; network services will be interrupted briefly and intermittently while physical and logical changes are being performed on the network backbones and while the user ports are migrated to new switching infrastructure. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31284605</id>
-    <published>2026-09-02T18:00:00-07:00</published>
-    <updated>2026-08-26T13:27:17-07:00</updated>
+    <published>2026-09-02T19:30:13-07:00</published>
+    <updated>2026-09-02T19:30:14-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/fqdj9vjv5mp7"/>
     <title>Indigenous Community Legal Clinic Downtown Network Switch Replacement September 2, 2026 18:00 - September 2, 2026 19:30 PT</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;2&lt;/var&gt;, &lt;var data-var='time'&gt;18:00&lt;/var&gt; - &lt;var data-var='time'&gt;19:30&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;13:27&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Network maintenance is being performed at the Indigenous Community Legal Clinic Downtown to replace an aging network switch. During the service window from September 2, 2026 18:00 - September 2, 2026 19:30 PT, network connectivity for the Indigenous Community Legal Clinic Downtown may be interrupted briefly while the existing UBC-managed network switch is replaced and connections are migrated to the new switching infrastructure. &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;19:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;18:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;13:27&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Network maintenance is being performed at the Indigenous Community Legal Clinic Downtown to replace an aging network switch. During the service window from September 2, 2026 18:00 - September 2, 2026 19:30 PT, network connectivity for the Indigenous Community Legal Clinic Downtown may be interrupted briefly while the existing UBC-managed network switch is replaced and connections are migrated to the new switching infrastructure. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31338861</id>
+    <published>2026-09-02T15:35:08-07:00</published>
+    <updated>2026-09-02T15:35:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/scxcvp1t9872"/>
+    <title>Upcoming Outage – Learner Management (ODMT) - Tuesday, 02 Sep 2026 15:00 - 03 Sep 2026 16:00 PT</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;15:35&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;15:32&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Upcoming Outage – Learner Management (ODMT)&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Date &amp; Time:&lt;br /&gt;&lt;br /&gt;Deployment Activities:  Tuesday, 02 Sep 2026 15:00 – 16:00 PT&lt;br /&gt;Validation activities:  will continue until Wednesday, 03 Sep 2026 16:00&lt;br /&gt;&lt;br /&gt;What is being deployed and why?&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;What is being deployed and why? We are deploying updates to the Official Document Management Tool (ODMT) to reflect a recent leadership change in the College of Graduate Studies and to resolve a data transmission issue affecting XML transcripts. These changes ensure Program Completion Letters reflect current signatory and contact information, and that receiving institutions get complete transcript data.&lt;br /&gt;&lt;br /&gt;Key Improvements&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;ODMT&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Update Confirmation Enrollment Letters templates according to new signatures.&lt;br /&gt;Restored 3 missing transmission data attributes on XML transcripts.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Who's impacted?&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Primary Users:&lt;br /&gt;&lt;br /&gt;Enrolment Services Records staff processing transcript requests, parchments, and courier shipments.&lt;br /&gt;Graduate Studies staff managing document orders and FedEx shipping.&lt;br /&gt;Secondary Impact:&lt;br /&gt;ODMT users (students and staff) will experience temporary inability to access ODMT during the 60-minute maintenance window&lt;br /&gt;Students with financial holds will now be correctly identified in the system&lt;br /&gt;Students receiving official transcripts will receive properly formatted documents&lt;br /&gt;System Impact &amp; Availability&lt;br /&gt;During Maintenance (60 minutes):&lt;br /&gt;ODMT will display a maintenance page to all users&lt;br /&gt;Students cannot access ODMT to place new orders or check order status&lt;br /&gt;Staff cannot process orders or update tracking information&lt;br /&gt;SCT will remain available&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;After Maintenance:&lt;br /&gt;&lt;br /&gt;Updated Program Completion Letter template and corrected XML transcript output will be immediately available.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Detailed Feature Information&lt;br /&gt;What is the new way of doing things?&lt;br /&gt;For Enrolment Services Records Staff / Students (ODMT):&lt;br /&gt;Before:&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Outdated Confirmation Enrollment Letters&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;After:&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Updated Confirmation Enrollment Letter according to new templates. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31330368</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/rlh4nf52gs0h"/>
     <title>Two-Way Radio System Network Maintenance August 27, 2026 05:00-07:00 PT</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;05:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;14:36&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Two-Way Radio System Network will undergo network maintenance on August 27, 2026  05:00-07:00 PT and will require reboot as part of the change. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31204944</id>
-    <published>2026-08-26T23:59:07-07:00</published>
-    <updated>2026-08-26T23:59:07-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/46chlvh5yn1t"/>
-    <title>UBC IT Domain Name System (DNS) Maintenance August 26, 2026, 17:00-23:59 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;23:59&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;15:19&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - UBC IT will be conducting maintenance on its DNS servers on August 26, 2026, between 17:00-23:59 PT. Access to myDNS user interface may be intermittent during this maintenance window. &lt;/p&gt;</content>
   </entry>
 </feed>
