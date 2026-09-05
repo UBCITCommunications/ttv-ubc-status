@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-09-04T12:10:27-07:00</updated>
+  <updated>2026-09-04T18:05:58-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -57,20 +57,28 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;4&lt;/var&gt;, &lt;var data-var='time'&gt;21:00&lt;/var&gt; PDT &amp;nbsp;-&amp;nbsp; Sep &lt;var data-var='date'&gt;5&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;08:49&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Please be advised that on September 04, 2026, 21:00 PT to September 05, 2026, 00:00 PT, Workday will be undergoing scheduled maintenance as part of its weekly service update. The system will remain accessible during the scheduled maintenance period but it is advised not to run critical processes and tasks. &lt;br /&gt;&lt;br /&gt;Learn about Workday Support at UBC and other available resources on isc.ubc.ca. &lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31276648</id>
+    <published>2026-09-04T17:00:07-07:00</published>
+    <updated>2026-09-04T17:00:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/325xvxy94k1n"/>
+    <title>Enterprise Services Load Balancer Maintenance September 4, 2026, 12:00-17:00 PT</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;12:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;13:47&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Maintenance will be performed on the Point Grey Campus Load Balancers on September 4, 2026, 12:00-17:00 PT.&lt;br /&gt;No service impact is expected. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31355988</id>
+    <published>2026-09-04T15:52:05-07:00</published>
+    <updated>2026-09-04T15:52:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/k9hglsx9kqmn"/>
+    <title>EduCloud Server (Vancouver) Service Interruption – September 4, 2026 01:50</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;15:52&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - At approximately 1:50 am on September 4, EduCloud Server in Vancouver experienced an underlying infrastructure issue that affected the availability of a subset of virtual servers.&lt;br /&gt;&lt;br /&gt;Websites hosted on UBC CMS were offline between 01:50 and 06:00 on Friday September 4th, 2026&lt;br /&gt;&lt;br /&gt;Affected virtual servers were restarted, with recovery completed by 6:30 am. &lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/30699724</id>
     <published>2026-09-04T12:10:27-07:00</published>
     <updated>2026-09-04T12:10:27-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/k5t47xkc13mn"/>
     <title>Web/ASDM Firewall Login Issue via Cisco ISE</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;12:10&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - Web/ASDM Firewall Login Issue via Cisco ISE issue has been resolved. Cisco has released a software fix to address this issue, which has now been applied to our firewall. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;13:53&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - We are currently experiencing an issue affecting ASDM authentication via Cisco ISE in order to manage some departmental ASA firewall contexts.&lt;br /&gt;We are working closely with the vendor to resolve this. Currently a fix or workaround has not been identified.  We will provide an update as soon as one is available.&lt;br /&gt;Thank you for your patience and cooperation. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31276648</id>
-    <published>2026-09-04T12:00:07-07:00</published>
-    <updated>2026-09-04T12:00:07-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/325xvxy94k1n"/>
-    <title>Enterprise Services Load Balancer Maintenance September 4, 2026, 12:00-17:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;12:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;13:47&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Maintenance will be performed on the Point Grey Campus Load Balancers on September 4, 2026, 12:00-17:00 PT.&lt;br /&gt;No service impact is expected. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31257615</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/wy3fb3sv8w9m"/>
     <title>Shared Web Hosting Service Maintenance August 27, 2026 18:00-20:00 PT</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;18:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;13:41&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The UBCIT Shared Web Hosting Service will be undergoing maintenance on August 27, 2026 from 18:00 - 20:00 PT. All hosted sites will be inaccessible for about 15 minutes during this window &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31221648</id>
-    <published>2026-08-27T16:00:09-07:00</published>
-    <updated>2026-08-27T16:00:09-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/qb99z6ncz1f8"/>
-    <title>Enterprise Automation and Solution Delivery services maintenance for Exam Management  August 27, 2026 14:00-16:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;14:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;14:15&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Enterprise Automation and Solution Delivery services maintenance for Exam Management from August 27, 2026 14:00 -16:00 &lt;br /&gt;&lt;br /&gt;The EASD Team will be releasing software updates that may affect Exam services&lt;br /&gt;&lt;br /&gt;During this maintenance window there may be a brief interruption to the apps and services for &lt;30 min from 14:00 - 14:30 during deployment&lt;br /&gt;Release activities will be completed between from August 27 2026 14:00 - 16:00.&lt;br /&gt;Apps/Services:&lt;br /&gt;&lt;br /&gt;Bug fixes / Enhancement for Exam Application and Exam Requirement&lt;br /&gt;Fix to show help text will better inform students.&lt;br /&gt;Fix to add filters to effectively bulk cancel and edit exam applications. &lt;br /&gt;Fix to add 'Payment Cancelled' option for status on Exam Application Tab&lt;br /&gt;Fix to show the Exam Location Type that the student had chosen to write their exam at.&lt;br /&gt;Fix to show missing course sections after export to Scientia Exam Scheduler&lt;br /&gt;Impacts:&lt;br /&gt;&lt;br /&gt;No other impacts to end users.&lt;br /&gt;Reason for maintenance:&lt;br /&gt;&lt;br /&gt;IRP Student: Exams enhancements &amp; bug fixes &lt;/p&gt;</content>
   </entry>
 </feed>
