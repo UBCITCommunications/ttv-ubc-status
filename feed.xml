@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-09-08T13:31:52-07:00</updated>
+  <updated>2026-09-08T17:28:53-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -41,20 +41,28 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; - &lt;var data-var='time'&gt;17:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;12:54&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - On Thursday, September 10, 2026 from 09:00 PT to 17:00 PT, the UBC SharePoint Software as a Service (SaaS) service will be undergoing maintenance. During this maintenance window, SharePoint on-prem sites will be accessible as no interruptions to the service are expected. &lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31384051</id>
+    <published>2026-09-08T16:46:50-07:00</published>
+    <updated>2026-09-08T16:46:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/4bpkb72dzpzx"/>
+    <title>Pay For Print: Intermittent Login Issues</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;16:46&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Monitoring&lt;/strong&gt; - Some users may experience intermittent issues connecting to the Pay for Print site. Please retry logging in at payforprint.ubc.ca (without the www. prefix). If you still experience issues, clear your browser's cache. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31382522</id>
+    <published>2026-09-08T14:20:50-07:00</published>
+    <updated>2026-09-08T14:20:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/tp88rjnkr5q4"/>
+    <title>UBC Vancouver Voice Services Outbound Long Distance Issue September 8, 2026 08:30 PT</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;14:20&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;12:01&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - Please be advised that outbound international long distance calling is currently not available.  Technicians are working with vendors to identify the issue. &lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31383112</id>
     <published>2026-09-08T13:31:52-07:00</published>
     <updated>2026-09-08T13:31:52-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/w3zgj4095fd3"/>
     <title>UBC Websites: slow load speeds</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;13:31&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Monitoring&lt;/strong&gt; - Users may be experiencing slower page loads on some UBC websites.&lt;br /&gt; &lt;br /&gt;Users accessing these sites from outside Canada will be required to complete a one-time verification to confirm that the request is legitimate. Users accessing the sites from within Canada will not be affected and should not notice any change to their normal experience. This additional verification is a temporary security measure.&lt;br /&gt; &lt;br /&gt;We are investigating intermittent performance issues affecting the UBC CMS. Technical teams are actively monitoring the situation and implementing mitigation measures to improve service stability. &lt;br /&gt; &lt;br /&gt;We will continue to provide updates as more information becomes available. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31382522</id>
-    <published>2026-09-08T12:01:48-07:00</published>
-    <updated>2026-09-08T12:01:48-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/tp88rjnkr5q4"/>
-    <title>UBC Vancouver Voice Services Outbound Long Distance Issue September 8, 2026 08:30 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;12:01&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - Please be advised that outbound international long distance calling is currently not available.  Technicians are working with vendors to identify the issue. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31166759</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/hbvf35tmr2s0"/>
     <title>Zoom Update Issue on UBC Owned Windows Devices</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - The Zoom Update issue has been resolved. Users who are still experiencing issues should re-install manually by first uninstalling "Zoom and Zoom plug-in for Outlook" through Software Center then re-installing it. A restart may be required before attempting re-install. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;15:21&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Identified&lt;/strong&gt; - A newer version of the "Zoom and Zoom plug-in for Outlook" program has been added to the Software Center which will remediate this issue.&lt;br /&gt; &lt;br /&gt;Users who are still experiencing the issue of Zoom prompting for administrator credentials should restart their computer. Once restarted, the new version of Zoom should be installed automatically when the computer is next asleep or locked but still connected to the internet.&lt;br /&gt; &lt;br /&gt;The latest Zoom client could also be installed manually by first uninstalling "Zoom and Zoom plug-in for Outlook" through Software Center then re-installing it. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;16:47&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - Some Zoom users on Windows clients may have experienced a problem where Zoom requests to perform an update, but is unable to complete.  This would prevent users from using the Zoom application to attend or schedule Zoom meetings until the update is completed.  &lt;br /&gt;&lt;br /&gt;The cause of this issue has been identified and a remediation is in progress of being deployed.  The update will happen automatically and no action should be required of the user. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31274592</id>
-    <published>2026-08-29T00:00:07-07:00</published>
-    <updated>2026-08-29T00:00:07-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/186h7v7j9zg9"/>
-    <title>Workday Scheduled Weekly Maintenance August 28, 2026, 21:00 PT to August 29, 2026, 00:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;21:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;08:55&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Please be advised that on August 28, 2026, 21:00 PT to August 29, 2026, 00:00 PT, Workday will be undergoing scheduled maintenance as part of its weekly service update. The system will remain accessible during the scheduled maintenance period but it is advised not to run critical processes and tasks. &lt;br /&gt;&lt;br /&gt;Learn about Workday Support at UBC and other available resources on isc.ubc.ca. &lt;/p&gt;</content>
   </entry>
 </feed>
