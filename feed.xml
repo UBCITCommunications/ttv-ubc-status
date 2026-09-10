@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-09-09T12:49:13-07:00</updated>
+  <updated>2026-09-09T17:36:41-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -41,12 +41,36 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;05:00&lt;/var&gt; - &lt;var data-var='time'&gt;17:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;10:11&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The TouchNet TEST site will be undergoing scheduled maintenance. During the update window the TouchNet TEST site will be offline for logging in by staff as a TouchNet user and for making TEST payments. &lt;br /&gt;For any questions please contact dpp.support@ubc.ca &lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31393570</id>
+    <published>2026-09-10T21:00:00-07:00</published>
+    <updated>2026-09-09T14:17:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/zpxxxqty1qj5"/>
+    <title>Swing Space Building Network Switch Replacement September 10, 2026 21:00 - September 11, 2026 03:00 PT</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;21:00&lt;/var&gt; PDT &amp;nbsp;-&amp;nbsp; Sep &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;03:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;14:17&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Network maintenance is being performed at the Swing Space Building, involving replacement of aging network infrastructure. During this service window from September 10, 2026 21:00 - September 11, 2026 03:00 PT; network services will be interrupted briefly and intermittently while physical and logical changes are being performed on the network backbones and while the user ports are migrated to new switching infrastructure. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31393635</id>
+    <published>2026-09-10T10:00:00-07:00</published>
+    <updated>2026-09-09T14:26:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/dx2l0w6ryr4w"/>
+    <title>Enterprise Automation &amp; Solution Delivery (EASD) – LFS Services Maintenance from September, 10, 2026, 10:00 PT - September 10, 2026, 16:00 PT</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; - &lt;var data-var='time'&gt;18:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;14:26&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Release activities will be completed between September 10, 2026 from 10:00 - 16:00.&lt;br /&gt;Validation will continue until 11 Sept 2026 15:00.&lt;br /&gt;&lt;br /&gt;The LFS Team will be releasing software updates that may affect any of the following:&lt;br /&gt;&lt;br /&gt;Apps/Services:&lt;br /&gt;&lt;br /&gt;Learner Financial Support Management (LFSM)&lt;br /&gt;Fix Bursary Working Snapshot Report&lt;br /&gt;Data Quality - "Undisbursed Amount" showing incorrect values&lt;br /&gt;Data Quality - "Disbursed Amount" showing incorrect values&lt;br /&gt;Release Impact&lt;br /&gt;LFSM will have a short interruption of services during this deployment from 14:00 ~ 14:30 (30 minutes) on Sept 10th&lt;br /&gt;Reason for maintenance:&lt;br /&gt;&lt;br /&gt;Release of bug fixes and enhancements to LFS &lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31337870</id>
     <published>2026-09-10T09:00:00-07:00</published>
     <updated>2026-09-02T12:54:43-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/0x55kyxl8w5v"/>
     <title>UBC SharePoint Maintenance Thursday, September 10, 2026 09:00 PT to 17:00 PT</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; - &lt;var data-var='time'&gt;17:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;12:54&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - On Thursday, September 10, 2026 from 09:00 PT to 17:00 PT, the UBC SharePoint Software as a Service (SaaS) service will be undergoing maintenance. During this maintenance window, SharePoint on-prem sites will be accessible as no interruptions to the service are expected. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31383112</id>
+    <published>2026-09-09T15:00:38-07:00</published>
+    <updated>2026-09-09T15:00:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/w3zgj4095fd3"/>
+    <title>UBC Websites: slow load speeds</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;15:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;13:31&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Monitoring&lt;/strong&gt; - Users may be experiencing slower page loads on some UBC websites.&lt;br /&gt; &lt;br /&gt;Users accessing these sites from outside Canada will be required to complete a one-time verification to confirm that the request is legitimate. Users accessing the sites from within Canada will not be affected and should not notice any change to their normal experience. This additional verification is a temporary security measure.&lt;br /&gt; &lt;br /&gt;We are investigating intermittent performance issues affecting the UBC CMS. Technical teams are actively monitoring the situation and implementing mitigation measures to improve service stability. &lt;br /&gt; &lt;br /&gt;We will continue to provide updates as more information becomes available. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31384051</id>
@@ -63,14 +87,6 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/tp88rjnkr5q4"/>
     <title>UBC Vancouver Voice Services Outbound Long Distance Issue September 8, 2026 08:30 PT</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;14:20&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;12:01&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - Please be advised that outbound international long distance calling is currently not available.  Technicians are working with vendors to identify the issue. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31383112</id>
-    <published>2026-09-08T13:31:52-07:00</published>
-    <updated>2026-09-08T13:31:52-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/w3zgj4095fd3"/>
-    <title>UBC Websites: slow load speeds</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;13:31&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Monitoring&lt;/strong&gt; - Users may be experiencing slower page loads on some UBC websites.&lt;br /&gt; &lt;br /&gt;Users accessing these sites from outside Canada will be required to complete a one-time verification to confirm that the request is legitimate. Users accessing the sites from within Canada will not be affected and should not notice any change to their normal experience. This additional verification is a temporary security measure.&lt;br /&gt; &lt;br /&gt;We are investigating intermittent performance issues affecting the UBC CMS. Technical teams are actively monitoring the situation and implementing mitigation measures to improve service stability. &lt;br /&gt; &lt;br /&gt;We will continue to provide updates as more information becomes available. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31166759</id>
@@ -191,21 +207,5 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/lq8xwqwdwgbr"/>
     <title>Wireless Network Maintenance September 1, 2026, 21:00–23:00 PT</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;23:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;21:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;13:59&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - UBC IT will perform scheduled maintenance on the wireless network on September 1, 2026, 21:00–23:00 PT. No impact to end users is expected during this maintenance window, as network redundancy is in place. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31330375</id>
-    <published>2026-09-01T20:30:07-07:00</published>
-    <updated>2026-09-01T20:30:08-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/6wpfxdn3w5nt"/>
-    <title>Okanagan campus network maintenance September 1, 2026 20:00-20:30 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;20:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;14:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Network maintenance will occur at the Okanagan campus on September 1, 2026 from 20:00 to 20:30 PT.  No interruption to service is expected during this time. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31318925</id>
-    <published>2026-09-01T09:12:46-07:00</published>
-    <updated>2026-09-01T09:12:46-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/1h7hf52nc7kw"/>
-    <title>Adobe subscription Issue - Aug 31, 2026 - 9:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;09:12&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - We have resolved the license expiration message issue with Adobe.  We thank you for your patience. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;16:32&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - Adobe continues to work on resolving the problem.  An update will be provided at 09:00 PT Tuesday morning. The expiry warning does not impact access to the Adobe software products at this time. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;13:56&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - Adobe continues work to resolve the issue.  Estimated time of resolution is not yet available.  The expiry warning does not impact access to the Adobe software products at this time. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;12:08&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - As of 12:00 PM, we are still waiting for an update from Adobe regarding the resolution of the issue. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;10:21&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Identified&lt;/strong&gt; - Whilst Adobe users may receive a license expired notice, adobe software will continue to operate despite the notice.  We continue to work with Adobe to resolve the issue. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;09:44&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - We are aware of issues with Adobe licensing this morning, affecting access to Acrobat and Creative Cloud applications. We are currently working with Adobe to resolve the issue. Another update will be provided at 10:30 PT. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;09:32&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - Users may experience issues with their Adobe subscriptions.&lt;br /&gt;&lt;br /&gt;Some users may experience not being able to login into Adobe.&lt;br /&gt;&lt;br /&gt;UBC IT technicians are currently investigating the issue. &lt;/p&gt;</content>
   </entry>
 </feed>
