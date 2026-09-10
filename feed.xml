@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-09-10T02:49:17-07:00</updated>
+  <updated>2026-09-10T08:30:05-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -59,10 +59,18 @@
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31337870</id>
     <published>2026-09-10T09:00:00-07:00</published>
-    <updated>2026-09-02T12:54:43-07:00</updated>
+    <updated>2026-09-10T08:00:12-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/0x55kyxl8w5v"/>
     <title>UBC SharePoint Maintenance Thursday, September 10, 2026 09:00 PT to 17:00 PT</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; - &lt;var data-var='time'&gt;17:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;12:54&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - On Thursday, September 10, 2026 from 09:00 PT to 17:00 PT, the UBC SharePoint Software as a Service (SaaS) service will be undergoing maintenance. During this maintenance window, SharePoint on-prem sites will be accessible as no interruptions to the service are expected. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31384051</id>
+    <published>2026-09-10T08:02:34-07:00</published>
+    <updated>2026-09-10T08:02:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/4bpkb72dzpzx"/>
+    <title>Pay For Print: Intermittent Login Issues</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;08:02&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;16:46&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Monitoring&lt;/strong&gt; - Some users may experience intermittent issues connecting to the Pay for Print site. Please retry logging in at payforprint.ubc.ca (without the www. prefix). If you still experience issues, clear your browser's cache. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31166759</id>
@@ -79,14 +87,6 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/w3zgj4095fd3"/>
     <title>UBC Websites: slow load speeds</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;15:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;13:31&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Monitoring&lt;/strong&gt; - Users may be experiencing slower page loads on some UBC websites.&lt;br /&gt; &lt;br /&gt;Users accessing these sites from outside Canada will be required to complete a one-time verification to confirm that the request is legitimate. Users accessing the sites from within Canada will not be affected and should not notice any change to their normal experience. This additional verification is a temporary security measure.&lt;br /&gt; &lt;br /&gt;We are investigating intermittent performance issues affecting the UBC CMS. Technical teams are actively monitoring the situation and implementing mitigation measures to improve service stability. &lt;br /&gt; &lt;br /&gt;We will continue to provide updates as more information becomes available. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31384051</id>
-    <published>2026-09-08T16:46:50-07:00</published>
-    <updated>2026-09-08T16:46:50-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/4bpkb72dzpzx"/>
-    <title>Pay For Print: Intermittent Login Issues</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;16:46&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Monitoring&lt;/strong&gt; - Some users may experience intermittent issues connecting to the Pay for Print site. Please retry logging in at payforprint.ubc.ca (without the www. prefix). If you still experience issues, clear your browser's cache. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31382522</id>
