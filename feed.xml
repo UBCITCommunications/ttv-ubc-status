@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-09-16T07:59:35-07:00</updated>
+  <updated>2026-09-16T13:24:18-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -73,20 +73,28 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; - &lt;var data-var='time'&gt;04:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;10:12&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The TouchNet PROD site will be undergoing scheduled maintenance. During the update window the TouchNet PROD site will be offline for logging in by staff as a TouchNet user and for customers making new payments. During this time when the payor clicks "pay now" TouchNet will display a screen informing the payor that the system is off line for maintenance and to try again after the system is back online. &lt;br /&gt;For any questions please contact dpp.support@ubc.ca &lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31451143</id>
+    <published>2026-09-16T12:06:27-07:00</published>
+    <updated>2026-09-16T12:06:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/btq7134b4f1k"/>
+    <title>Student Registration: Unable to Swap Course Sections in Workday</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;12:06&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - Students are currently unable to swap courses or course sections in Workday. The issue is being investigated.&lt;br /&gt;&lt;br /&gt;In the meantime, students who require a course or section change are advised to contact their academic advisor, who are able to make the change on their behalf.&lt;br /&gt;&lt;br /&gt;Further updates will be provided as more information becomes available. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31442914</id>
+    <published>2026-09-16T11:07:08-07:00</published>
+    <updated>2026-09-16T11:07:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/3b0g348cs36n"/>
+    <title>Staples punchout currently unavailable</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;11:07&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - The Staples punchout issue has been resolved. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;15:43&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - The Staples punchout catalogues are currently unavailable and cannot be used to purchase items through Workday. Staples is working to resolve the issue. Faculty and staff are advised to create a purchase requisition using the Non-Catalogue option to purchase from Staples, or try again later. &lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31443041</id>
     <published>2026-09-15T16:07:33-07:00</published>
     <updated>2026-09-15T16:07:33-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/1xchtq6fktky"/>
     <title>Final Grade Submission Tool (FGST) – Missing Student Photos in Course Rosters</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;16:07&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Identified&lt;/strong&gt; - Some student photos are currently missing from course rosters generated through the Final Grade Submission Tool (FGST) due to a synchronization issue.&lt;br /&gt;&lt;br /&gt;The root cause has been identified, and teams are working to confirm the timeline for implementing a fix. Further updates will be provided as they become available. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31442914</id>
-    <published>2026-09-15T15:43:29-07:00</published>
-    <updated>2026-09-15T15:43:29-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/3b0g348cs36n"/>
-    <title>Staples punchout currently unavailable</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;15:43&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - The Staples punchout catalogues are currently unavailable and cannot be used to purchase items through Workday. Staples is working to resolve the issue. Faculty and staff are advised to create a purchase requisition using the Non-Catalogue option to purchase from Staples, or try again later. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31382175</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/325xvxy94k1n"/>
     <title>Enterprise Services Load Balancer Maintenance September 4, 2026, 12:00-17:00 PT</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;12:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;13:47&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Maintenance will be performed on the Point Grey Campus Load Balancers on September 4, 2026, 12:00-17:00 PT.&lt;br /&gt;No service impact is expected. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31355988</id>
-    <published>2026-09-04T15:52:05-07:00</published>
-    <updated>2026-09-04T15:52:05-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/k9hglsx9kqmn"/>
-    <title>EduCloud Server (Vancouver) Service Interruption – September 4, 2026 01:50</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;15:52&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - At approximately 1:50 am on September 4, EduCloud Server in Vancouver experienced an underlying infrastructure issue that affected the availability of a subset of virtual servers.&lt;br /&gt;&lt;br /&gt;Websites hosted on UBC CMS were offline between 01:50 and 06:00 on Friday September 4th, 2026&lt;br /&gt;&lt;br /&gt;Affected virtual servers were restarted, with recovery completed by 6:30 am. &lt;/p&gt;</content>
   </entry>
 </feed>
