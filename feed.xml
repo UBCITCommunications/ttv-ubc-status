@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-09-21T14:09:19-07:00</updated>
+  <updated>2026-09-21T19:25:30-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -66,11 +66,19 @@
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31442486</id>
-    <published>2026-09-21T16:00:00-07:00</published>
-    <updated>2026-09-15T14:17:03-07:00</updated>
+    <published>2026-09-21T19:00:09-07:00</published>
+    <updated>2026-09-21T19:00:09-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/61s748rh3rrq"/>
     <title>EASD - Enabling Omni Gateway on September 21, 2026, from 16:00 to 19:00 PT</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; - &lt;var data-var='time'&gt;19:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;14:17&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - EASD will enable a new Omni Gateway in the Anypoint Platform on September 21, 2026, from 16:00 to 19:00 PT&lt;br /&gt;&lt;br /&gt;The release will configure proxy.api.ubc.ca, apply the required TLS certificates, and enable the Archibus proxy API.&lt;br /&gt;&lt;br /&gt;No impact to end users.&lt;br /&gt;&lt;br /&gt;All services should remain available throughout the change. &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;19:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;14:17&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - EASD will enable a new Omni Gateway in the Anypoint Platform on September 21, 2026, from 16:00 to 19:00 PT&lt;br /&gt;&lt;br /&gt;The release will configure proxy.api.ubc.ca, apply the required TLS certificates, and enable the Archibus proxy API.&lt;br /&gt;&lt;br /&gt;No impact to end users.&lt;br /&gt;&lt;br /&gt;All services should remain available throughout the change. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31492664</id>
+    <published>2026-09-21T16:17:46-07:00</published>
+    <updated>2026-09-21T16:17:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/2434b8lwv8j6"/>
+    <title>View My Teaching Schedule report in Workday not showing teaching assignments</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;16:17&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - Faculty are unable to view their current or upcoming teaching assignments when using the View My Teaching Schedule report in Workday. The issue is being investigated. &lt;br /&gt;&lt;br /&gt;In the meantime, when running the View My Teaching Schedule report in Workday to view teaching assignments, search for the specific academic period in the 'Academic Period' field. For example, for 2026 Winter Term 1, type in "2026 Winter" and press 'Enter'. Select from the academic period options. Select 'OK'.&lt;br /&gt;&lt;br /&gt;Please reach out to the &lt;a href="https://isc.ubc.ca/contact"&gt;Integrated Service Centre&lt;/a&gt; for questions and support. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31442478</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/9wbsr32z76pp"/>
     <title>Workday Scheduled Weekly Maintenance  September 11, 2026, 21:00 PT to September 12, 2026, 00:00 PT</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;21:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;11:13&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Please be advised that on September 11, 2026, 21:00 PT to September 12, 2026, 00:00 PT, Workday will be undergoing scheduled maintenance as part of its weekly service update. The system will remain accessible during the scheduled maintenance period but it is advised not to run critical processes and tasks. &lt;br /&gt;&lt;br /&gt;Learn about Workday Support at UBC and other available resources on isc.ubc.ca. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31265835</id>
-    <published>2026-09-11T17:00:09-07:00</published>
-    <updated>2026-09-11T17:00:10-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/84mkwmg9p3s0"/>
-    <title>TouchNet TEST site - Scheduled Maintenance Sept 11, 2026 - 05:00 a.m. to Sept 11, 2026 - 05:00 p.m</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;05:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;10:11&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The TouchNet TEST site will be undergoing scheduled maintenance. During the update window the TouchNet TEST site will be offline for logging in by staff as a TouchNet user and for making TEST payments. &lt;br /&gt;For any questions please contact dpp.support@ubc.ca &lt;/p&gt;</content>
   </entry>
 </feed>
