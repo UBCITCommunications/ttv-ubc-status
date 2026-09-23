@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-09-22T12:22:48-07:00</updated>
+  <updated>2026-09-22T19:39:28-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -25,6 +25,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; - &lt;var data-var='time'&gt;04:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;11:47&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The TouchNet PROD site will be undergoing scheduled maintenance. During the update window the TouchNet PROD site will be offline for logging in by staff as a TouchNet user and for customers making new payments. During this time when the payor clicks "pay now" TouchNet will display a screen informing the payor that the system is off line for maintenance and to try again after the system is back online. &lt;br /&gt;For any questions please contact dpp.support@ubc.ca &lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31502344</id>
+    <published>2026-09-26T08:00:00-07:00</published>
+    <updated>2026-09-22T14:28:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/w5zxks91n6r3"/>
+    <title>UBC IT Network - Network maintenance for UBC Vancouver campus, September 26 2026 08:00 -15:00 PT</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; - &lt;var data-var='time'&gt;15:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;14:28&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The UBC Vancouver campus network will undergo maintenance on September 26, 2026 from 08:00 to 15:00 PT.  No user impact is expected during the maintenance window. &lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31500550</id>
     <published>2026-09-25T21:00:00-07:00</published>
     <updated>2026-09-22T10:43:54-07:00</updated>
@@ -41,6 +49,38 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; - &lt;var data-var='time'&gt;23:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;10:44&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - UBCIT will be performing maintenance on the eSAM component and vault servers on September 24, 2026, 20:00-23:00 PT. This change will affect both UBC campuses.&lt;br /&gt;&lt;br /&gt;Users will intermittently not be able to login to any servers managed by eSAM, nor retrieve any credentials via the eSAM Web UI throughout the maintenance window. &lt;br /&gt;&lt;br /&gt;Any connections terminated while a component is being rebooted can be reconnected to the secondary node. All connections will be terminated and users won't be able to reconnect while we patch the vault servers (which typically lasts around 30 minutes) during this window. &lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31502309</id>
+    <published>2026-09-24T19:00:00-07:00</published>
+    <updated>2026-09-22T14:23:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/jgrkypjt1jl8"/>
+    <title>CWL MyAccount Maintenance on September 24, 2026 19:00 - 19:30 PT</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;19:00&lt;/var&gt; - &lt;var data-var='time'&gt;19:30&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;14:23&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The UBC myAccount service will be undergoing maintenance on September 24, 2026 19:00 - 19:30 PT&lt;br /&gt;There is an anticipated service interruption of 5 - 10 minutes during the maintenance window.&lt;br /&gt;We will be updating the Active Student Email webpage and update the O365 mail portal link as well as improving the password validation process for the CWL accounts. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31502283</id>
+    <published>2026-09-24T19:00:00-07:00</published>
+    <updated>2026-09-22T14:18:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/1yl621p7cfd3"/>
+    <title>Online Advising Management System (OAMS) System Maintenance September 24, 2026, 19:00 - 20:30 PT</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;19:00&lt;/var&gt; - &lt;var data-var='time'&gt;20:30&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;14:18&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The Online Advising Management System (OAMS) will undergo system maintenance on September 24, 2026, from 19:00 PT to 20:30 PT.&lt;br /&gt;&lt;br /&gt;During this time, the service may be unavailable.&lt;br /&gt;&lt;br /&gt;Please contact SIS.Support@ubc.ca for any questions or concerns. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31502321</id>
+    <published>2026-09-24T17:00:00-07:00</published>
+    <updated>2026-09-22T14:25:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/98v9kk4vbdq9"/>
+    <title>UBC IT Domain Name System (DNS) Maintenance September 24, 2026, 17:00-23:00 PT</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; - &lt;var data-var='time'&gt;23:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;14:25&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - UBC IT Network Management Centre (NMC) will be conducting maintenance on its DNS servers on September 24, 2026, between 17:00-23:00 PT.&lt;br /&gt;Access to myDNS user interface may be intermittent during this time. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31502383</id>
+    <published>2026-09-23T20:00:00-07:00</published>
+    <updated>2026-09-22T14:34:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/qdwb37gjkdcy"/>
+    <title>Okanagan campus network maintenance September 23, 2026 20:00 - 20:30 PT</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; - &lt;var data-var='time'&gt;20:30&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;14:34&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Network maintenance will occur at the Okanagan campus on September 23, 2026 from 20:00 to 20:30 PT. No interruption to service is expected during this time. &lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31452112</id>
     <published>2026-09-23T10:00:00-07:00</published>
     <updated>2026-09-16T14:29:57-07:00</updated>
@@ -49,12 +89,28 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; - &lt;var data-var='time'&gt;15:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;14:29&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Enterprise Automation &amp; Solution Delivery (EASD) – LFS Services Maintenance from September 22, 2026 10:00 - September 23 2026 15:00 PT&lt;br /&gt;&lt;br /&gt;Release activities will be completed between September 22 2026 from 10:00 - 16:00.&lt;br /&gt;Validation will continue until 23 Sept 2026 15:00.&lt;br /&gt;The LFS Team will be releasing software updates that may affect any of the following:&lt;br /&gt;&lt;br /&gt;Apps/Services:&lt;br /&gt;&lt;br /&gt;Learner Financial Support Management (LFSM)&lt;br /&gt;NEW: Introduce a Detection Flag to Compare Workday and LFSM data after processing to detect any discrepancies.&lt;br /&gt;Fix Award Cycle Budget Summary where "Undisbursed Amount" showing incorrect values&lt;br /&gt;Fix to add Special Handling Notes to Donor Communication - Ready For Communication &amp; Preview Listview &lt;br /&gt;Release Impact&lt;br /&gt;LFSM will have a short interruption of services during this deployment from 14:00 ~ 14:30 (30 minutes) on Sept 22nd&lt;br /&gt;Reason for maintenance:&lt;br /&gt;&lt;br /&gt;Release of bug fixes and enhancements to LFS &lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31502352</id>
+    <published>2026-09-23T09:00:00-07:00</published>
+    <updated>2026-09-22T14:30:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/zhn7pg8z5g2h"/>
+    <title>CHIME network maintenance September 23, 2026 09:00 - 11:00 PT</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; - &lt;var data-var='time'&gt;11:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;14:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The CHIME network will undergo maintenance on September 23, 2026 from 09:00 - 11:00 PT. There will be a short disruption to network connectivity during this maintenance window. &lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31442405</id>
     <published>2026-09-23T07:00:00-07:00</published>
     <updated>2026-09-15T14:06:31-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/f2bp9bfnl789"/>
     <title>Hybrid Cloud Service Network Maintenance -  September 23, 2026, 07:00 - 08:00 PT</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; - &lt;var data-var='time'&gt;08:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;14:06&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - UBC Network team will perform AWS maintenance to improve network performance on September 23rd, 2026 between 07:00 and 08:00 PT. No user impact is expected as all changes are transparent. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31502366</id>
+    <published>2026-09-23T06:00:00-07:00</published>
+    <updated>2026-09-22T14:32:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/04p2s8n7chc9"/>
+    <title>Okanagan campus network maintenance September 23, 2026 06:00 - 07:00 PT</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;06:00&lt;/var&gt; - &lt;var data-var='time'&gt;07:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;14:32&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Okanagan campus network will undergo maintenance on September 23, 2026 from 06:00 - 07:00 PT.  There is no expected disruption to network connectivity during this maintenance window. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31452119</id>
@@ -66,11 +122,11 @@
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31500996</id>
-    <published>2026-09-22T17:00:00-07:00</published>
-    <updated>2026-09-22T11:44:01-07:00</updated>
+    <published>2026-09-22T17:00:12-07:00</published>
+    <updated>2026-09-22T17:00:12-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/9w0cz0qcmdr5"/>
     <title>UBC Network Maintenance September 22, 2026, 17:00-23:00 PT</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; - &lt;var data-var='time'&gt;23:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;11:44&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - UBC IT will be performing network maintenance on September 22, 2026, 17:00-23:00 PT.  Possible brief disruption to service during the maintenance window. &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;11:44&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - UBC IT will be performing network maintenance on September 22, 2026, 17:00-23:00 PT.  Possible brief disruption to service during the maintenance window. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31442418</id>
@@ -151,61 +207,5 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/l6cjrnv6dlv2"/>
     <title>UBC IT Network - MyVPN software upgrade and Network maintenance for VGH, September 18, 2026 17:00 - 23:59 PT</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;23:59&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;13:20&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - UBC IT Network team will perform network maintenance for VGH and MyVPN software upgrade for Vancouver campus on September 18, 2026 from 17:00 to 23:59 PT. There is no outage expected during the maintenance window. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31459964</id>
-    <published>2026-09-18T23:30:12-07:00</published>
-    <updated>2026-09-18T23:30:13-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/k6k2xnzwflm1"/>
-    <title>Okanagan Campus Network Maintenance September 18, 2026, 20:30-23:30 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;23:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;20:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;11:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Network maintenance will occur for the Okanagan campus on September 18, 2026, 20:30-23:30 PT. Okanagan campus will see a brief disruption to service during the maintenance window. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31460702</id>
-    <published>2026-09-18T17:00:15-07:00</published>
-    <updated>2026-09-18T17:00:15-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/c57zkxjgh06g"/>
-    <title>Okanagan campus network maintenance September 18, 2026 6:00 - 7:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;14:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Network maintenance will occur at the Okanagan campus on September 18, 2026, from 06:00 to 07:00 PT.  No service interruption is expected during this time. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31443041</id>
-    <published>2026-09-18T08:13:16-07:00</published>
-    <updated>2026-09-18T08:13:16-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/1xchtq6fktky"/>
-    <title>Final Grade Submission Tool (FGST) – Missing Student Photos in Course Rosters</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;08:13&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - This issue has been resolved. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;16:07&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Identified&lt;/strong&gt; - Some student photos are currently missing from course rosters generated through the Final Grade Submission Tool (FGST) due to a synchronization issue.&lt;br /&gt;&lt;br /&gt;The root cause has been identified, and teams are working to confirm the timeline for implementing a fix. Further updates will be provided as they become available. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31265845</id>
-    <published>2026-09-18T04:00:07-07:00</published>
-    <updated>2026-09-18T04:00:07-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/fp3yfvr6z7z7"/>
-    <title>TouchNet PROD site - Scheduled Maintenance Sept 18, 2026 - 12:00 a.m. to Sept 18, 2026 - 04:00 a.m</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;04:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;10:12&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The TouchNet PROD site will be undergoing scheduled maintenance. During the update window the TouchNet PROD site will be offline for logging in by staff as a TouchNet user and for customers making new payments. During this time when the payor clicks "pay now" TouchNet will display a screen informing the payor that the system is off line for maintenance and to try again after the system is back online. &lt;br /&gt;For any questions please contact dpp.support@ubc.ca &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31459651</id>
-    <published>2026-09-17T13:44:22-07:00</published>
-    <updated>2026-09-17T13:44:22-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/jsnvz845w0rv"/>
-    <title>UBC Websites slow load speeds, September 17, 2026, 10:33 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;13:44&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;13:44&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - Resolved - This incident has been resolved &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;10:33&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Identified&lt;/strong&gt; - We are aware of an issue affecting some UBC websites. Users may experience slow performance, intermittent errors, or difficulty accessing site content and administrative functions.&lt;br /&gt;&lt;br /&gt;Our technical teams are currently investigating the cause and working to restore normal service as quickly as possible. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31460233</id>
-    <published>2026-09-17T13:29:05-07:00</published>
-    <updated>2026-09-17T13:29:05-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/15j0b8q33ywz"/>
-    <title>UBC Mailing List - slow to load lists.ubc.ca - Sept 17 12:19 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;13:29&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - Resolved - This incident has been resolved. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;12:20&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - The UBC Mailing List service is currently experiencing an issue where the website lists.ubc.ca is very slow to load.  Delivery of messages sent via UBC Mailing Lists is performing normally without delays.  &lt;br /&gt;&lt;br /&gt;Our technical team is currently investigating the cause and working to restore normal service as quickly as possible. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31451143</id>
-    <published>2026-09-16T14:03:17-07:00</published>
-    <updated>2026-09-16T14:03:17-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/btq7134b4f1k"/>
-    <title>Student Registration: Unable to Swap Course Sections in Workday</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;14:03&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - This issue has been resolved. Students should now be able to swap courses and course sections in Workday as expected.&lt;br /&gt;&lt;br /&gt;Teams will continue to monitor the service for any further issues. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;12:06&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - Students are currently unable to swap courses or course sections in Workday. The issue is being investigated.&lt;br /&gt;&lt;br /&gt;In the meantime, students who require a course or section change are advised to contact their academic advisor, who are able to make the change on their behalf.&lt;br /&gt;&lt;br /&gt;Further updates will be provided as more information becomes available. &lt;/p&gt;</content>
   </entry>
 </feed>
