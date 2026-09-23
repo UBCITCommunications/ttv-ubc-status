@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-09-23T03:24:26-07:00</updated>
+  <updated>2026-09-23T09:00:29-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -83,42 +83,42 @@
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31452112</id>
     <published>2026-09-23T10:00:00-07:00</published>
-    <updated>2026-09-16T14:29:57-07:00</updated>
+    <updated>2026-09-23T09:00:29-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/w2ggnrsqlz8b"/>
     <title>Enterprise Automation &amp; Solution Delivery (EASD) – LFS Services Maintenance from September 22, 2026 10:00 - September 23 2026 15:00 PT</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; - &lt;var data-var='time'&gt;15:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;14:29&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Enterprise Automation &amp; Solution Delivery (EASD) – LFS Services Maintenance from September 22, 2026 10:00 - September 23 2026 15:00 PT&lt;br /&gt;&lt;br /&gt;Release activities will be completed between September 22 2026 from 10:00 - 16:00.&lt;br /&gt;Validation will continue until 23 Sept 2026 15:00.&lt;br /&gt;The LFS Team will be releasing software updates that may affect any of the following:&lt;br /&gt;&lt;br /&gt;Apps/Services:&lt;br /&gt;&lt;br /&gt;Learner Financial Support Management (LFSM)&lt;br /&gt;NEW: Introduce a Detection Flag to Compare Workday and LFSM data after processing to detect any discrepancies.&lt;br /&gt;Fix Award Cycle Budget Summary where "Undisbursed Amount" showing incorrect values&lt;br /&gt;Fix to add Special Handling Notes to Donor Communication - Ready For Communication &amp; Preview Listview &lt;br /&gt;Release Impact&lt;br /&gt;LFSM will have a short interruption of services during this deployment from 14:00 ~ 14:30 (30 minutes) on Sept 22nd&lt;br /&gt;Reason for maintenance:&lt;br /&gt;&lt;br /&gt;Release of bug fixes and enhancements to LFS &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31502352</id>
-    <published>2026-09-23T09:00:00-07:00</published>
-    <updated>2026-09-22T14:30:21-07:00</updated>
+    <published>2026-09-23T09:00:09-07:00</published>
+    <updated>2026-09-23T09:00:09-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/zhn7pg8z5g2h"/>
     <title>CHIME network maintenance September 23, 2026 09:00 - 11:00 PT</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; - &lt;var data-var='time'&gt;11:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;14:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The CHIME network will undergo maintenance on September 23, 2026 from 09:00 - 11:00 PT. There will be a short disruption to network connectivity during this maintenance window. &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;14:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The CHIME network will undergo maintenance on September 23, 2026 from 09:00 - 11:00 PT. There will be a short disruption to network connectivity during this maintenance window. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31442405</id>
-    <published>2026-09-23T07:00:00-07:00</published>
-    <updated>2026-09-15T14:06:31-07:00</updated>
+    <published>2026-09-23T08:00:07-07:00</published>
+    <updated>2026-09-23T08:00:08-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/f2bp9bfnl789"/>
     <title>Hybrid Cloud Service Network Maintenance -  September 23, 2026, 07:00 - 08:00 PT</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; - &lt;var data-var='time'&gt;08:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;14:06&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - UBC Network team will perform AWS maintenance to improve network performance on September 23rd, 2026 between 07:00 and 08:00 PT. No user impact is expected as all changes are transparent. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31502366</id>
-    <published>2026-09-23T06:00:00-07:00</published>
-    <updated>2026-09-22T14:32:27-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/04p2s8n7chc9"/>
-    <title>Okanagan campus network maintenance September 23, 2026 06:00 - 07:00 PT</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;06:00&lt;/var&gt; - &lt;var data-var='time'&gt;07:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;14:32&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Okanagan campus network will undergo maintenance on September 23, 2026 from 06:00 - 07:00 PT.  There is no expected disruption to network connectivity during this maintenance window. &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;14:06&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - UBC Network team will perform AWS maintenance to improve network performance on September 23rd, 2026 between 07:00 and 08:00 PT. No user impact is expected as all changes are transparent. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31452119</id>
-    <published>2026-09-23T05:00:00-07:00</published>
-    <updated>2026-09-16T14:30:45-07:00</updated>
+    <published>2026-09-23T07:00:13-07:00</published>
+    <updated>2026-09-23T07:00:13-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/shy3vv6qpznm"/>
     <title>Enterprise Automation &amp; Solution Delivery APPIAN Cloud Platform Maintenance, 23 Sept 2026, 05:00 - 07:00 PT</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;05:00&lt;/var&gt; - &lt;var data-var='time'&gt;07:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;14:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - APPIAN Business Process Management System (BPMS) Cloud Platform Maintenance to deploy critical security patches is scheduled for 23 Sept 2026,  05:00 - 07:00 PST&lt;br /&gt;&lt;br /&gt;During the maintenance window, the UBC Appian site will experience a service interruption of up to two hours between 05:00 and 07:00 PST&lt;br /&gt;&lt;br /&gt;Validation activities will continue until 16:00 PST on the same day - 23 Sept 2026 &lt;br /&gt;&lt;br /&gt;All BPMS applications will automatically recover once maintenance is complete.&lt;br /&gt;&lt;br /&gt;Impacted applications:&lt;br /&gt;&lt;br /&gt;Scheduling Applications:&lt;br /&gt;Special Topics and Variable Credit (STVC)&lt;br /&gt;Standard Time Table (STTM)&lt;br /&gt;Scheduling Menu (SM)&lt;br /&gt;Final Grade Submission (AOC)&lt;br /&gt;Official Documents (ODMT)&lt;br /&gt;Student Direct Stream (SDS)&lt;br /&gt;Document Viewer (DOCV)&lt;br /&gt;Learner Financial Support (LFS)&lt;br /&gt;Role Based Access Control (RBAC)&lt;br /&gt;Student Communications Tool (ADHC)&lt;br /&gt;Course Management (CRSS)&lt;br /&gt;Academic Records (AARS)&lt;br /&gt;Affiliate Student Management Tool (ASMT)&lt;br /&gt;Scheduling Transfers (SCHT)&lt;br /&gt;Custom Organization Management System (COMS)&lt;br /&gt;Exam Management (EXMM)&lt;br /&gt;Integration Error Log (ERRL)&lt;br /&gt;Record Queue Manager (RQM)&lt;br /&gt;TeachEval (SET)&lt;br /&gt;Graduation Management (CNVM)&lt;br /&gt;The automation team will be impacted.&lt;br /&gt;No other impacts to end users. &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;05:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;14:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - APPIAN Business Process Management System (BPMS) Cloud Platform Maintenance to deploy critical security patches is scheduled for 23 Sept 2026,  05:00 - 07:00 PST&lt;br /&gt;&lt;br /&gt;During the maintenance window, the UBC Appian site will experience a service interruption of up to two hours between 05:00 and 07:00 PST&lt;br /&gt;&lt;br /&gt;Validation activities will continue until 16:00 PST on the same day - 23 Sept 2026 &lt;br /&gt;&lt;br /&gt;All BPMS applications will automatically recover once maintenance is complete.&lt;br /&gt;&lt;br /&gt;Impacted applications:&lt;br /&gt;&lt;br /&gt;Scheduling Applications:&lt;br /&gt;Special Topics and Variable Credit (STVC)&lt;br /&gt;Standard Time Table (STTM)&lt;br /&gt;Scheduling Menu (SM)&lt;br /&gt;Final Grade Submission (AOC)&lt;br /&gt;Official Documents (ODMT)&lt;br /&gt;Student Direct Stream (SDS)&lt;br /&gt;Document Viewer (DOCV)&lt;br /&gt;Learner Financial Support (LFS)&lt;br /&gt;Role Based Access Control (RBAC)&lt;br /&gt;Student Communications Tool (ADHC)&lt;br /&gt;Course Management (CRSS)&lt;br /&gt;Academic Records (AARS)&lt;br /&gt;Affiliate Student Management Tool (ASMT)&lt;br /&gt;Scheduling Transfers (SCHT)&lt;br /&gt;Custom Organization Management System (COMS)&lt;br /&gt;Exam Management (EXMM)&lt;br /&gt;Integration Error Log (ERRL)&lt;br /&gt;Record Queue Manager (RQM)&lt;br /&gt;TeachEval (SET)&lt;br /&gt;Graduation Management (CNVM)&lt;br /&gt;The automation team will be impacted.&lt;br /&gt;No other impacts to end users. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31502366</id>
+    <published>2026-09-23T07:00:07-07:00</published>
+    <updated>2026-09-23T07:00:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/04p2s8n7chc9"/>
+    <title>Okanagan campus network maintenance September 23, 2026 06:00 - 07:00 PT</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;06:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;14:32&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Okanagan campus network will undergo maintenance on September 23, 2026 from 06:00 - 07:00 PT.  There is no expected disruption to network connectivity during this maintenance window. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31500996</id>
