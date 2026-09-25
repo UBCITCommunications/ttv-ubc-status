@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-09-24T12:40:56-07:00</updated>
+  <updated>2026-09-24T20:00:08-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -50,43 +50,43 @@
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31391569</id>
-    <published>2026-09-24T20:00:00-07:00</published>
-    <updated>2026-09-09T10:44:34-07:00</updated>
+    <published>2026-09-24T20:00:08-07:00</published>
+    <updated>2026-09-24T20:00:08-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/bxzvqlh8ztn9"/>
     <title>UBCIT eSAM Servers Maintenance September 24, 2026, 20:00-23:00 PT</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; - &lt;var data-var='time'&gt;23:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;10:44&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - UBCIT will be performing maintenance on the eSAM component and vault servers on September 24, 2026, 20:00-23:00 PT. This change will affect both UBC campuses.&lt;br /&gt;&lt;br /&gt;Users will intermittently not be able to login to any servers managed by eSAM, nor retrieve any credentials via the eSAM Web UI throughout the maintenance window. &lt;br /&gt;&lt;br /&gt;Any connections terminated while a component is being rebooted can be reconnected to the secondary node. All connections will be terminated and users won't be able to reconnect while we patch the vault servers (which typically lasts around 30 minutes) during this window. &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;10:44&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - UBCIT will be performing maintenance on the eSAM component and vault servers on September 24, 2026, 20:00-23:00 PT. This change will affect both UBC campuses.&lt;br /&gt;&lt;br /&gt;Users will intermittently not be able to login to any servers managed by eSAM, nor retrieve any credentials via the eSAM Web UI throughout the maintenance window. &lt;br /&gt;&lt;br /&gt;Any connections terminated while a component is being rebooted can be reconnected to the secondary node. All connections will be terminated and users won't be able to reconnect while we patch the vault servers (which typically lasts around 30 minutes) during this window. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31502309</id>
-    <published>2026-09-24T19:00:00-07:00</published>
-    <updated>2026-09-22T14:23:25-07:00</updated>
+    <published>2026-09-24T19:30:07-07:00</published>
+    <updated>2026-09-24T19:30:07-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/jgrkypjt1jl8"/>
     <title>CWL MyAccount Maintenance on September 24, 2026 19:00 - 19:30 PT</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;19:00&lt;/var&gt; - &lt;var data-var='time'&gt;19:30&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;14:23&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The UBC myAccount service will be undergoing maintenance on September 24, 2026 19:00 - 19:30 PT&lt;br /&gt;There is an anticipated service interruption of 5 - 10 minutes during the maintenance window.&lt;br /&gt;We will be updating the Active Student Email webpage and update the O365 mail portal link as well as improving the password validation process for the CWL accounts. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31502283</id>
-    <published>2026-09-24T19:00:00-07:00</published>
-    <updated>2026-09-22T14:18:54-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/1yl621p7cfd3"/>
-    <title>Online Advising Management System (OAMS) System Maintenance September 24, 2026, 19:00 - 20:30 PT</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;19:00&lt;/var&gt; - &lt;var data-var='time'&gt;20:30&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;14:18&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The Online Advising Management System (OAMS) will undergo system maintenance on September 24, 2026, from 19:00 PT to 20:30 PT.&lt;br /&gt;&lt;br /&gt;During this time, the service may be unavailable.&lt;br /&gt;&lt;br /&gt;Please contact SIS.Support@ubc.ca for any questions or concerns. &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;19:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;19:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;14:23&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The UBC myAccount service will be undergoing maintenance on September 24, 2026 19:00 - 19:30 PT&lt;br /&gt;There is an anticipated service interruption of 5 - 10 minutes during the maintenance window.&lt;br /&gt;We will be updating the Active Student Email webpage and update the O365 mail portal link as well as improving the password validation process for the CWL accounts. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31511479</id>
-    <published>2026-09-24T17:00:00-07:00</published>
-    <updated>2026-09-23T14:16:08-07:00</updated>
+    <published>2026-09-24T19:01:07-07:00</published>
+    <updated>2026-09-24T19:01:07-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/vsfmq8wnm8pm"/>
     <title>Cybersecurity Confidential Communications Website Upgrade September 24, 2026, 17:00-19:00 PT</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; - &lt;var data-var='time'&gt;19:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;14:16&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The Cybersecurity Confidential Communications website cc.cybersecurity.ubc.ca will be undergoing scheduled maintenance on September 24, 2026, 17:00-19:00 PT. During this time, users will not be able to access this site. &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;19:01&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;17:01&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;14:16&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The Cybersecurity Confidential Communications website cc.cybersecurity.ubc.ca will be undergoing scheduled maintenance on September 24, 2026, 17:00-19:00 PT. During this time, users will not be able to access this site. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31502283</id>
+    <published>2026-09-24T19:00:07-07:00</published>
+    <updated>2026-09-24T19:00:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/1yl621p7cfd3"/>
+    <title>Online Advising Management System (OAMS) System Maintenance September 24, 2026, 19:00 - 20:30 PT</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;19:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;14:18&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The Online Advising Management System (OAMS) will undergo system maintenance on September 24, 2026, from 19:00 PT to 20:30 PT.&lt;br /&gt;&lt;br /&gt;During this time, the service may be unavailable.&lt;br /&gt;&lt;br /&gt;Please contact SIS.Support@ubc.ca for any questions or concerns. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31502321</id>
-    <published>2026-09-24T17:00:00-07:00</published>
-    <updated>2026-09-22T14:25:28-07:00</updated>
+    <published>2026-09-24T17:00:07-07:00</published>
+    <updated>2026-09-24T17:00:07-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/98v9kk4vbdq9"/>
     <title>UBC IT Domain Name System (DNS) Maintenance September 24, 2026, 17:00-23:00 PT</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Sep &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; - &lt;var data-var='time'&gt;23:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;14:25&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - UBC IT Network Management Centre (NMC) will be conducting maintenance on its DNS servers on September 24, 2026, between 17:00-23:00 PT.&lt;br /&gt;Access to myDNS user interface may be intermittent during this time. &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;14:25&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - UBC IT Network Management Centre (NMC) will be conducting maintenance on its DNS servers on September 24, 2026, between 17:00-23:00 PT.&lt;br /&gt;Access to myDNS user interface may be intermittent during this time. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31509887</id>
