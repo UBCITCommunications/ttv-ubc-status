@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-10-05T05:24:06-07:00</updated>
+  <updated>2026-10-05T16:05:20-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -74,11 +74,11 @@
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31584085</id>
-    <published>2026-10-05T13:00:00-07:00</published>
-    <updated>2026-10-02T14:09:06-07:00</updated>
+    <published>2026-10-05T14:00:07-07:00</published>
+    <updated>2026-10-05T14:00:07-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/rv14kkjz7jr4"/>
     <title>UPASS BC Websites Maintenance October 5, 2026 13:00 to October 5, 2026 14:00 PT</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var='date'&gt;5&lt;/var&gt;, &lt;var data-var='time'&gt;13:00&lt;/var&gt; - &lt;var data-var='time'&gt;14:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;14:09&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Translink will be undergoing a scheduled maintenance for upassbc.translink.ca and upassbcadmin.translink.ca. The webpages will be briefly unavailable from October 5, 2026 13:00 to October 5, 2026 14:00 PT.&lt;br /&gt; &lt;br /&gt;Active users may be logged out during this time and will need to sign in again once the update has been completed. &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;14:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt; 5&lt;/var&gt;, &lt;var data-var='time'&gt;13:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;14:09&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Translink will be undergoing a scheduled maintenance for upassbc.translink.ca and upassbcadmin.translink.ca. The webpages will be briefly unavailable from October 5, 2026 13:00 to October 5, 2026 14:00 PT.&lt;br /&gt; &lt;br /&gt;Active users may be logged out during this time and will need to sign in again once the update has been completed. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31557932</id>
