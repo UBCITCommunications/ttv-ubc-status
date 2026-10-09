@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-10-08T13:27:58-07:00</updated>
+  <updated>2026-10-08T21:09:31-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -130,16 +130,16 @@
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31623710</id>
-    <published>2026-10-08T17:00:00-07:00</published>
-    <updated>2026-10-08T08:13:11-07:00</updated>
+    <published>2026-10-08T19:00:20-07:00</published>
+    <updated>2026-10-08T19:00:23-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/nfbpw9ddhr5y"/>
     <title>Cybersecurity Confidential Communications Website Upgrade October 8, 2026, 17:00-19:00 PT</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var='date'&gt;8&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; - &lt;var data-var='time'&gt;19:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;08:13&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The Cybersecurity Confidential Communications website cc.cybersecurity.ubc.ca will be undergoing scheduled maintenance on October 8, 2026, 17:00-19:00 PT. During this time, users will not be able to access this site. &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;19:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;08:13&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The Cybersecurity Confidential Communications website cc.cybersecurity.ubc.ca will be undergoing scheduled maintenance on October 8, 2026, 17:00-19:00 PT. During this time, users will not be able to access this site. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31624130</id>
-    <published>2026-10-08T09:19:04-07:00</published>
-    <updated>2026-10-08T09:19:04-07:00</updated>
+    <published>2026-10-08T17:00:09-07:00</published>
+    <updated>2026-10-08T17:00:09-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/2txlg4gpcx4q"/>
     <title>UBC CMS – Website Disruptions – Oct 8, 2026 8:40 a.m. Pacific</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;09:19&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - We are currently seeing intermittent disruptions in UBC CMS. Users may see longer than usual page load times or see a captcha request when accessing UBC CMS websites from non-UBC networks. We are currently investigating the issue and will provide an update when we have more information or when the issue is resolved. &lt;/p&gt;</content>
