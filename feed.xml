@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-10-15T03:19:22-07:00</updated>
+  <updated>2026-10-15T09:14:33-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -47,6 +47,14 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/vp5wfp4h7hbw"/>
     <title>UBCIT eSAM Servers Maintenance October 22, 2026, 20:00-23:00 PT</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; - &lt;var data-var='time'&gt;23:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;08:14&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - UBCIT will be performing maintenance on the eSAM component and vault servers on October 22, 2026, 20:00-23:00 PT. This change will affect both UBC campuses.&lt;br /&gt;&lt;br /&gt;Users will intermittently not be able to login to any servers managed by eSAM, nor retrieve any credentials via the eSAM Web UI throughout the maintanance window. &lt;br /&gt;&lt;br /&gt;Any connections terminated while a component is being rebooted can be reconnected to the secondary node. All connections will be terminated and users won't be able to reconnect while we patch the vault servers (which typically lasts around 30 minutes) during this window. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31676938</id>
+    <published>2026-10-22T09:00:00-07:00</published>
+    <updated>2026-10-15T08:29:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/11sx992lw3sv"/>
+    <title>Appian Applications Maintenance October 22, 2026, 09:00 PDT to October 23, 2026, 10:00 PDT</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; PDT &amp;nbsp;-&amp;nbsp; Oct &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;08:29&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - All Appian applications will undergo a planned system maintenance from October 22, 2026, 09:00 PDT to October 23, 2026, 10:00 PDT. During this time, users may experience brief interruptions or be unable to log in to individual applications. &lt;br /&gt;&lt;br /&gt;Impacted applications are:&lt;br /&gt;&lt;br /&gt;•	Student Communication Tool (SCT)&lt;br /&gt;•	Final Grade Submission (FGST)&lt;br /&gt;•	Official Document Management Tool (ODMT)&lt;br /&gt;•	Learner Financial support application (LFSM)&lt;br /&gt;•	Teach Eval (SEC)&lt;br /&gt;•	Exam management application (EXMM/EXMMA)&lt;br /&gt;•	Activity Transfer application (CRSS)&lt;br /&gt;•	Standard Time Table Management application (STTM)&lt;br /&gt;•	Academic Records (AARS)&lt;br /&gt;•	Role Based Access Control (RBAC)&lt;br /&gt;•	Web Comm (COMM)&lt;br /&gt;&lt;br /&gt;Disruptions may occur throughout the day as updates are deployed. Please plan accordingly. We apologize for any inconvenience. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31614701</id>
@@ -154,19 +162,19 @@
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31557839</id>
-    <published>2026-10-15T06:30:00-07:00</published>
-    <updated>2026-09-29T14:49:45-07:00</updated>
+    <published>2026-10-15T07:00:17-07:00</published>
+    <updated>2026-10-15T07:00:20-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/f9j1jfly1p4f"/>
     <title>UBCIT eSAM Enhancement Oct 15, 2026, 06:30 - 07:00 PT</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;06:30&lt;/var&gt; - &lt;var data-var='time'&gt;07:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;14:49&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - UBCIT eSAM will be undergoing maintenance on October 15, 2026, 06:30 - 07:00 PT. The eSAM web portal will be unavailable during the change window. SSH and RDP proxying sessions would not be affected. No user action is required. &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;06:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;14:49&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - UBCIT eSAM will be undergoing maintenance on October 15, 2026, 06:30 - 07:00 PT. The eSAM web portal will be unavailable during the change window. SSH and RDP proxying sessions would not be affected. No user action is required. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31557827</id>
-    <published>2026-10-15T06:00:00-07:00</published>
-    <updated>2026-09-29T14:46:01-07:00</updated>
+    <published>2026-10-15T06:00:13-07:00</published>
+    <updated>2026-10-15T06:00:13-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/t9scx29w16vh"/>
     <title>CWL Login Service Maintenance Oct 15, 2026, 06:00 - 10:00 PT</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;06:00&lt;/var&gt; - &lt;var data-var='time'&gt;10:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;14:46&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - UBC IT will be performing scheduled maintenance on the CWL login service (SSO). The service will remain available throughout the maintenance window, and no user action is required. &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;06:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;14:46&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - UBC IT will be performing scheduled maintenance on the CWL login service (SSO). The service will remain available throughout the maintenance window, and no user action is required. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31660487</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/d2hk0ppg5yck"/>
     <title>Workday Scheduled Weekly Maintenance  October 09, 2026, 21:00 PT to October 10, 2026, 00:00 PT</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;21:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;11:33&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Please be advised that on October 09, 2026, 21:00 PT to October 10, 2026, 00:00 PT, Workday will be undergoing scheduled maintenance as part of its weekly service update. The system will remain accessible during the scheduled maintenance period but it is advised not to run critical processes and tasks. &lt;br /&gt;&lt;br /&gt;Learn about Workday Support at UBC and other available resources on &lt;a href="https://isc.ubc.ca/"&gt;isc.ubc.ca&lt;/a&gt; &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31632547</id>
-    <published>2026-10-09T14:14:11-07:00</published>
-    <updated>2026-10-09T14:14:11-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/np4hz6l23n7x"/>
-    <title>BC Time Zone Change Planning</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;14:14&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - British Columbia has adopted permanent year-round daylight saving time (Pacific Time), with the change scheduled to take effect on November 1. We recognize that some community members may have questions about the impact on calendars, devices, and scheduled meetings.&lt;br /&gt;&lt;br /&gt;UBC IT is actively working with Microsoft and Apple to coordinate the required time zone updates for computers, mobile devices, and calendaring services. We anticipate updates from our vendors will begin rolling out next week.&lt;br /&gt;&lt;br /&gt;UBC IT plans to provide detailed guidance by October 16 outlining what to expect and any actions that may be required.&lt;br /&gt;Thank you for your patience as we work to ensure a smooth transition. &lt;/p&gt;</content>
   </entry>
 </feed>
