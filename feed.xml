@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-10-21T08:54:13-07:00</updated>
+  <updated>2026-10-21T13:34:49-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -113,6 +113,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;18:00&lt;/var&gt; PDT &amp;nbsp;-&amp;nbsp; Oct &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;14:09&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Starting from October 21, 2026 18:00 PT to October 22, 2026 08:00 PT, Exchange Online will be undergoing maintenance to update to the new BCST time zone. No service disruption is expected as a result of this change. &lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31725271</id>
+    <published>2026-10-21T12:52:35-07:00</published>
+    <updated>2026-10-21T12:52:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/0khbhmnz9nyd"/>
+    <title>UBC websites and web services may be temporarily unavailable</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;12:52&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - We are continuing to monitor and patch impacted websites and applications. Users may still experience issues connecting to some websites or applications. Thank you for your patience as we work to restore all services.&lt;br /&gt;&lt;br /&gt;The following services have been patched and are now fully available:&lt;br /&gt;&lt;br /&gt;•	Canvas&lt;br /&gt;•	Websites on CMS&lt;br /&gt;•	UBC Blogs&lt;br /&gt;•	H5P&lt;br /&gt;•	Moodle&lt;br /&gt;•	iPeer&lt;br /&gt;•	UBC Wiki&lt;br /&gt;•	Card Scanner&lt;br /&gt;&lt;br /&gt;The next update will be at 4:30 PM. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;11:11&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - UBC is responding to a global critical issue affecting technology used by some websites and web applications.&lt;br /&gt;&lt;br /&gt;As a precaution, some UBC websites or services may be temporarily unavailable from off-campus while they are assessed and security updates are applied. If a website you are trying to access is unavailable, this may be the reason.&lt;br /&gt;&lt;br /&gt;UBC IT and distributed IT teams are working to identify affected systems and restore any impacted services as soon as they can be safely returned to operation.&lt;br /&gt;&lt;br /&gt;No action is required from users at this time.&lt;br /&gt;&lt;br /&gt;We will be providing updates on a regular basis regarding this issue. &lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31716415</id>
     <published>2026-10-21T00:00:18-07:00</published>
     <updated>2026-10-21T00:00:20-07:00</updated>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/6vdd4qr87pdt"/>
     <title>Network Database Maintenance October 19, 2026 17:30 - 18:00 PT</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;18:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;17:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;14:11&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The following Network tools will be unavailable during the database maintenance:&lt;br /&gt;&lt;br /&gt; - Transmogrifier&lt;br /&gt; - IP Manager&lt;br /&gt; - IP Search&lt;br /&gt; - FileMaker Pro &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31660498</id>
-    <published>2026-10-19T16:00:08-07:00</published>
-    <updated>2026-10-19T16:00:09-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/s97m3kvjpmtl"/>
-    <title>EduCloud Server Maintenance October 19, 2026, 14:00–16:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;14:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;14:08&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - EduCloud Server Web Portal (educloud.ok.ubc.ca) will undergo maintenance on October 19, 2026, 14:00–16:00 PT.  There is no expected impact to running VMs, but there may be brief intermittent outages to the EduCloud web portal during this maintenance window. &lt;/p&gt;</content>
   </entry>
 </feed>
