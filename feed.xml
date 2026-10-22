@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-10-22T01:05:58-07:00</updated>
+  <updated>2026-10-22T09:01:14-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -82,19 +82,27 @@
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31676938</id>
-    <published>2026-10-22T09:00:00-07:00</published>
-    <updated>2026-10-15T08:29:05-07:00</updated>
+    <published>2026-10-22T09:01:13-07:00</published>
+    <updated>2026-10-22T09:01:13-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/11sx992lw3sv"/>
     <title>Appian Applications Maintenance October 22, 2026, 09:00 PDT to October 23, 2026, 10:00 PDT</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; PDT &amp;nbsp;-&amp;nbsp; Oct &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;08:29&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - All Appian applications will undergo a planned system maintenance from October 22, 2026, 09:00 PDT to October 23, 2026, 10:00 PDT. During this time, users may experience brief interruptions or be unable to log in to individual applications. &lt;br /&gt;&lt;br /&gt;Impacted applications are:&lt;br /&gt;&lt;br /&gt;•	Student Communication Tool (SCT)&lt;br /&gt;•	Final Grade Submission (FGST)&lt;br /&gt;•	Official Document Management Tool (ODMT)&lt;br /&gt;•	Learner Financial support application (LFSM)&lt;br /&gt;•	Teach Eval (SEC)&lt;br /&gt;•	Exam management application (EXMM/EXMMA)&lt;br /&gt;•	Activity Transfer application (CRSS)&lt;br /&gt;•	Standard Time Table Management application (STTM)&lt;br /&gt;•	Academic Records (AARS)&lt;br /&gt;•	Role Based Access Control (RBAC)&lt;br /&gt;•	Web Comm (COMM)&lt;br /&gt;&lt;br /&gt;Disruptions may occur throughout the day as updates are deployed. Please plan accordingly. We apologize for any inconvenience. &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;09:01&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;08:29&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - All Appian applications will undergo a planned system maintenance from October 22, 2026, 09:00 PDT to October 23, 2026, 10:00 PDT. During this time, users may experience brief interruptions or be unable to log in to individual applications. &lt;br /&gt;&lt;br /&gt;Impacted applications are:&lt;br /&gt;&lt;br /&gt;•	Student Communication Tool (SCT)&lt;br /&gt;•	Final Grade Submission (FGST)&lt;br /&gt;•	Official Document Management Tool (ODMT)&lt;br /&gt;•	Learner Financial support application (LFSM)&lt;br /&gt;•	Teach Eval (SEC)&lt;br /&gt;•	Exam management application (EXMM/EXMMA)&lt;br /&gt;•	Activity Transfer application (CRSS)&lt;br /&gt;•	Standard Time Table Management application (STTM)&lt;br /&gt;•	Academic Records (AARS)&lt;br /&gt;•	Role Based Access Control (RBAC)&lt;br /&gt;•	Web Comm (COMM)&lt;br /&gt;&lt;br /&gt;Disruptions may occur throughout the day as updates are deployed. Please plan accordingly. We apologize for any inconvenience. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31614701</id>
-    <published>2026-10-22T09:00:00-07:00</published>
-    <updated>2026-10-07T08:12:26-07:00</updated>
+    <published>2026-10-22T09:00:08-07:00</published>
+    <updated>2026-10-22T09:00:08-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/84ts045n3038"/>
     <title>UBC SharePoint Maintenance Thursday, October 22, 2026 09:00 PT to 17:00 PT</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; - &lt;var data-var='time'&gt;17:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;08:12&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - On Thursday, October 22, 2026 from 09:00 PT to 17:00 PT, the UBC SharePoint Software as a Service (SaaS) service will be undergoing maintenance. During this maintenance window, SharePoint on-prem sites will be accessible as no interruptions to the service are expected. &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;08:12&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - On Thursday, October 22, 2026 from 09:00 PT to 17:00 PT, the UBC SharePoint Software as a Service (SaaS) service will be undergoing maintenance. During this maintenance window, SharePoint on-prem sites will be accessible as no interruptions to the service are expected. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31716403</id>
+    <published>2026-10-22T08:00:07-07:00</published>
+    <updated>2026-10-22T08:00:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/8sb9q8pf6pdg"/>
+    <title>Exchange Online Maintenance October 21, 2026 18:00 PT to October 22, 2026 08:00 PT</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;18:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;14:09&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Starting from October 21, 2026 18:00 PT to October 22, 2026 08:00 PT, Exchange Online will be undergoing maintenance to update to the new BCST time zone. No service disruption is expected as a result of this change. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31716421</id>
@@ -103,14 +111,6 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/27qrbgk28b70"/>
     <title>UBC Vancouver Voicemail Service Maintenance October 21, 2026, 20:00 - 23:59 PT</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;14:13&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - UBC Vancouver Voicemail service will be undergoing maintenance from October 21, 2026, 20:00 - 23:59 PT.  No impact is expected as a result of this change. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31716403</id>
-    <published>2026-10-21T18:00:08-07:00</published>
-    <updated>2026-10-21T18:00:08-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/8sb9q8pf6pdg"/>
-    <title>Exchange Online Maintenance October 21, 2026 18:00 PT to October 22, 2026 08:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;18:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;14:09&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Starting from October 21, 2026 18:00 PT to October 22, 2026 08:00 PT, Exchange Online will be undergoing maintenance to update to the new BCST time zone. No service disruption is expected as a result of this change. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31716374</id>
