@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-10-28T04:15:09-07:00</updated>
+  <updated>2026-10-28T14:30:09-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -74,27 +74,35 @@
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31775982</id>
-    <published>2026-10-28T10:30:00-07:00</published>
-    <updated>2026-10-27T14:45:33-07:00</updated>
+    <published>2026-10-28T14:30:09-07:00</published>
+    <updated>2026-10-28T14:30:09-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/d9pjnkzhjwqh"/>
     <title>Intermapper Upgrade October 28, 2026 10:30-14:30 PT</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;10:30&lt;/var&gt; - &lt;var data-var='time'&gt;14:30&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;14:45&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The Intermapper application will be upgraded.  During the outage window Intermapper will not be available. &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;14:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;10:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;14:45&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The Intermapper application will be upgraded.  During the outage window Intermapper will not be available. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31786902</id>
+    <published>2026-10-28T14:19:28-07:00</published>
+    <updated>2026-10-28T14:19:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/zlh7j4443t88"/>
+    <title>UBC CMS – Website Disruptions – Oct 28, 2026 1:45 p.m. Pacific</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;14:19&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - We are seeing intermittent disruptions in UBC CMS. To increase stability and security, users from both UBC and non-UBC networks may be prompted for browser verification. This will involve an intermediate screen being displayed and the need to click "Continue" to reach the site. This prompt will occur once every eight hours, for every UBC CMS website, and is not a cause for alarm.&lt;br /&gt;&lt;br /&gt;We are investigating the disruptions and will provide an update when we have more information or when the issue is resolved. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31776062</id>
-    <published>2026-10-28T09:00:00-07:00</published>
-    <updated>2026-10-27T14:55:07-07:00</updated>
+    <published>2026-10-28T09:00:09-07:00</published>
+    <updated>2026-10-28T09:00:09-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/lz3hgn2znlrf"/>
     <title>Zoom Minimum Software Version Update Release, October, 28, 2026 09:00 PT</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; PDT &amp;nbsp;-&amp;nbsp; Oct &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;14:55&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Beginning on Wednesday, October 28 at 09:00 PT, UBC IT will require a minimum Zoom software version of 7.2.1 for all supported device types and operating systems.  No service disruption is anticipated.  Users may be prompted to update their Zoom client to the latest version before joining or hosting meetings. &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;14:55&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Beginning on Wednesday, October 28 at 09:00 PT, UBC IT will require a minimum Zoom software version of 7.2.1 for all supported device types and operating systems.  No service disruption is anticipated.  Users may be prompted to update their Zoom client to the latest version before joining or hosting meetings. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31776039</id>
-    <published>2026-10-28T04:00:09-07:00</published>
-    <updated>2026-10-28T04:00:09-07:00</updated>
+    <published>2026-10-28T05:30:08-07:00</published>
+    <updated>2026-10-28T05:30:08-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/4t7wwhyc3zcs"/>
     <title>Jupyter Open Maintenance October 28, 2026, 04:00-05:30 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;04:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;14:51&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - JupyterHub Open will be unavailable due to scheduled maintenance on October 28, 2026, 04:00-05:30 PT. &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;05:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;04:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;14:51&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - JupyterHub Open will be unavailable due to scheduled maintenance on October 28, 2026, 04:00-05:30 PT. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31767622</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/gdc5nmf86cxl"/>
     <title>EASD - Monthly Mule Runtime Patch on 22 Oct 2026, 16:00 - 18:00</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;18:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;16:01&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;13:03&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - All Mule applications will undergo maintenance on 22 Oct 2026, from 16:00 to 18:00.&lt;br /&gt;&lt;br /&gt;No outage is expected.&lt;br /&gt;&lt;br /&gt;This work is being performed after hours to minimize any potential impact. In the unlikely event that an application is affected during patching, there may be a brief disruption of 15 to 30 minutes. All services will return to normal automatically once the maintenance is complete.&lt;br /&gt;&lt;br /&gt;Please be aware that:&lt;br /&gt;&lt;br /&gt;Some system functions may be temporarily unavailable.&lt;br /&gt;API requests may not go through during part of the upgrade.&lt;br /&gt;Processing of SFTP files will pause during deployment and resume automatically afterward.&lt;br /&gt;All services will restore themselves without any action required on your part.&lt;br /&gt;&lt;br /&gt;Applications that may be impacted:&lt;br /&gt;&lt;br /&gt;Workday&lt;br /&gt;Tuition Waiver (SFDC - TW)&lt;br /&gt;EMMS (PlanOn)&lt;br /&gt;Office of Research Services - Survey Monkey&lt;br /&gt;OpenAthens&lt;br /&gt;LinkedIn Learning Students&lt;br /&gt;Lifeworks&lt;br /&gt;IAM Impacts:&lt;br /&gt;IAM APIs will be impacted. This change is not only for web applications.  &lt;br /&gt;All APIs including IAM related will be impacted&lt;br /&gt;CWL Account creation via CWLU and SP_PUID lookup is impacted, and will be unavailable to:&lt;br /&gt;- Students, applicants, alumni&lt;br /&gt;- LLIS learners&lt;br /&gt;All IAM related processes, and authentication access will be unavailable to:&lt;br /&gt;- Applicant Service Centre (ASC)&lt;br /&gt;- CWL Account Upgrader (CWLU)&lt;br /&gt;- DAF website&lt;br /&gt;- DeDupe website&lt;br /&gt;- PHUB-admin website&lt;br /&gt;- Science One&lt;br /&gt;- UNI CRM&lt;br /&gt;- UBC Student Housing and Community Services myAccount (including UBC Card)&lt;br /&gt;- Vidcruiter&lt;br /&gt;No other impact on end users.&lt;br /&gt;Release Plan: https://confluence.it.ubc.ca/x/zoQ5H &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31716412</id>
-    <published>2026-10-22T17:03:08-07:00</published>
-    <updated>2026-10-22T17:03:08-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/xdlwwzhrhy5l"/>
-    <title>SITS/eVision - Scheduled maintenance in Production October 22, 2026, 14:00-17:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;17:03&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;16:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Verifying&lt;/strong&gt; - We have just completed this task.&lt;br /&gt;&lt;br /&gt;SITS/eVision is now back online. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;14:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;14:11&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - SITS/e:Vision will undergo maintenance on October 22, 2026 from 14:00-17:00 PT&lt;br /&gt;&lt;br /&gt;During this time, the SITS/e:Vision (including the Graduate Studies Admission System and Sauder Executive Education Registration System) will NOT be available. &lt;/p&gt;</content>
   </entry>
 </feed>
