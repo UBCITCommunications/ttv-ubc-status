@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-10-27T14:45:33-07:00</updated>
+  <updated>2026-10-27T20:51:48-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -17,12 +17,28 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;12:00&lt;/var&gt; - &lt;var data-var='time'&gt;13:00&lt;/var&gt; PST&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;14:38&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The Multifactor Authentication (MFA) Service will undergo an upgrade on Nov 10, 2026, 12:00-13:00 PT. No service disruption is expected. &lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31776013</id>
+    <published>2026-11-07T06:00:00-08:00</published>
+    <updated>2026-10-27T14:48:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/cl6j2r3smgrv"/>
+    <title>UBC Identity Provider Systems Maintenance, November 7, 2026 06:00 - 07:00 PT</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var='date'&gt;7&lt;/var&gt;, &lt;var data-var='time'&gt;06:00&lt;/var&gt; - &lt;var data-var='time'&gt;07:00&lt;/var&gt; PST&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;14:48&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The UBC Identity Provider (https://authencation.ubc.ca) will be undergoing Systems Maintenance on Saturday November 7, 2026 from 06:00 - 07:00 PT.  Users may experience a short outage of less than 5 minutes at the start and end of this work. &lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31765310</id>
     <published>2026-10-30T21:00:00-07:00</published>
     <updated>2026-10-26T09:44:21-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/j1vrr5qp31mc"/>
     <title>Workday Scheduled Weekly Maintenance  October 30, 2026, 21:00 PT to October 31, 2026, 00:00 PT</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;21:00&lt;/var&gt; PDT &amp;nbsp;-&amp;nbsp; Oct &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;09:44&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Please be advised that on October 30, 2026, 21:00 PT to October 31, 2026, 00:00 PT, Workday will be undergoing scheduled maintenance as part of its weekly service update. The system will remain accessible during the scheduled maintenance period but it is advised not to run critical processes and tasks. &lt;br /&gt;&lt;br /&gt;Learn about Workday Support at UBC and other available resources on isc.ubc.ca. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31776002</id>
+    <published>2026-10-30T07:00:00-07:00</published>
+    <updated>2026-10-27T14:47:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/xtbdt3wvz88d"/>
+    <title>UBC Identity Broker (IDBK) Maintenance October 30, 2026 07:00-09:00 PT</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; - &lt;var data-var='time'&gt;09:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;14:47&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The UBC Identity Broker (IDBK)  will be undergoing maintenance on October 30, 2026 from 07:00 to 09:00 PT.&lt;br /&gt;&lt;br /&gt;There is no expected service impact. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31471769</id>
@@ -33,12 +49,28 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;05:00&lt;/var&gt; - &lt;var data-var='time'&gt;17:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;11:49&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The TouchNet TEST site will be undergoing scheduled maintenance. During the update window the TouchNet TEST site will be offline for logging in by staff as a TouchNet user and for making TEST payments.&lt;br /&gt;For any questions please contact dpp.support@ubc.ca &lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31776033</id>
+    <published>2026-10-29T20:00:00-07:00</published>
+    <updated>2026-10-27T14:51:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/m2jzqzrxg0t8"/>
+    <title>Learning Tools Provisioning Service LTPS Maintenance October 29, 2026, 20:00-21:30 PT</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; - &lt;var data-var='time'&gt;21:30&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;14:51&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The Learning Tools Provisioning Service (LTPS) will be unavailable due to scheduled maintenance on October 29, 2026, 20:00-21:30 PT. Any changes to course enrolments and teaching assignments in Canvas will be queued up accordingly and processed after the maintenance. The LTPS User Interface will not be available to instructional support staff and other departmental administrators during the maintenance window. &lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31767559</id>
     <published>2026-10-29T09:00:00-07:00</published>
     <updated>2026-10-26T15:27:27-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/0dfm8zp0fg17"/>
     <title>Appian Applications Maintenance October 29, 2026, 09:00 PDT to October 30, 2026, 10:00 PDT</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; PDT &amp;nbsp;-&amp;nbsp; Oct &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;15:27&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - All Appian applications will undergo a planned system maintenance from October 29, 2026, 09:00 PDT to October 30, 2026, 10:00 PDT. During this time, users may experience brief interruptions or be unable to log in to individual applications. &lt;br /&gt;&lt;br /&gt;As part of this scheduled maintenance, the UBC Official Document Management Tool (ODMT) will be temporarily unavailable from 12:00 PDT to 1:00 PDT.&lt;br /&gt;&lt;br /&gt;Other impacted applications include:&lt;br /&gt;•	Exam management application (EXMM/EXMMA)&lt;br /&gt;•	Activity Transfer application (CRSS)&lt;br /&gt;•	Learner Financial support application (LFSM)&lt;br /&gt;•	Final Grade Submission (FGST)&lt;br /&gt;•	Academic Records (AARS)&lt;br /&gt;•	Role Based Access Control (RBAC) &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31776016</id>
+    <published>2026-10-29T07:00:00-07:00</published>
+    <updated>2026-10-27T14:49:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/38mg5bdndxcw"/>
+    <title>UBC Identity Broker Service System Maintenance, October 29, 2026 07:00 - 08:00 PT</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; - &lt;var data-var='time'&gt;08:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;14:49&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The UBC Identity Broker Service (broker.id.ubc.ca) will be undergoing System Maintenance on October 29, 2026 07:00 - 08:00 PT.  The service will be unavailable during this time. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31775982</id>
@@ -49,20 +81,36 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;10:30&lt;/var&gt; - &lt;var data-var='time'&gt;14:30&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;14:45&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The Intermapper application will be upgraded.  During the outage window Intermapper will not be available. &lt;/p&gt;</content>
   </entry>
   <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31775975</id>
-    <published>2026-10-27T17:00:00-07:00</published>
-    <updated>2026-10-27T14:44:20-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/d80dll1qvfjd"/>
-    <title>Maintenance for IRP Student: Admissions related services from 27 Oct 2026, 17:00 - 28 Oct 2026 16:00 PT</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; PDT &amp;nbsp;-&amp;nbsp; Oct &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;14:44&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Apps/Services:&lt;br /&gt;&lt;br /&gt;ADM Adapter&lt;br /&gt;ADM Batch Service&lt;br /&gt;ADM Crosswalk Service&lt;br /&gt;ADM Receiver Service&lt;br /&gt;ADM REST API&lt;br /&gt;Administrative Application Portal&lt;br /&gt;Applicant Service Centre&lt;br /&gt;Broad Based Admission Evaluation - Admin&lt;br /&gt;Broad Based Admission Evaluation - Reader&lt;br /&gt;Document Routing Engine&lt;br /&gt;EPBC Adapter&lt;br /&gt;EPBC Receiver Service&lt;br /&gt;ETS Adapter&lt;br /&gt;ETS Receiver Service&lt;br /&gt;External Application Service&lt;br /&gt;IELTS Adapter&lt;br /&gt;IELTS Receiver Service&lt;br /&gt;Undergraduate Application Service&lt;br /&gt;Impacts :&lt;br /&gt;&lt;br /&gt;During this downtime there will be a brief interruption around 2 hours to the apps and services listed above during the release activities. &lt;br /&gt;Release activities will be completed between 27 Oct 2026 from 17:00 until 27 Oct 2026 19:00, Validation will continue until 28 Oct 2026 16:00. &lt;/p&gt;</content>
+    <id>tag:status.it.ubc.ca,2005:Incident/31776062</id>
+    <published>2026-10-28T09:00:00-07:00</published>
+    <updated>2026-10-27T14:55:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/lz3hgn2znlrf"/>
+    <title>Zoom Minimum Software Version Update Release, October, 28, 2026 09:00 PT</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; PDT &amp;nbsp;-&amp;nbsp; Oct &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;14:55&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Beginning on Wednesday, October 28 at 09:00 PT, UBC IT will require a minimum Zoom software version of 7.2.1 for all supported device types and operating systems.  No service disruption is anticipated.  Users may be prompted to update their Zoom client to the latest version before joining or hosting meetings. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31776039</id>
+    <published>2026-10-28T04:00:00-07:00</published>
+    <updated>2026-10-27T14:51:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/4t7wwhyc3zcs"/>
+    <title>Jupyter Open Maintenance October 28, 2026, 04:00-05:30 PT</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;04:00&lt;/var&gt; - &lt;var data-var='time'&gt;05:30&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;14:51&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - JupyterHub Open will be unavailable due to scheduled maintenance on October 28, 2026, 04:00-05:30 PT. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31767622</id>
-    <published>2026-10-27T16:30:00-07:00</published>
-    <updated>2026-10-26T15:45:56-07:00</updated>
+    <published>2026-10-27T19:30:09-07:00</published>
+    <updated>2026-10-27T19:30:10-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/9z05sxj06r3j"/>
     <title>Admissions System (ADM) Maintenance October 27, 2026, 16:30 - 19:30 PDT</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;16:30&lt;/var&gt; - &lt;var data-var='time'&gt;19:30&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;15:45&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The Admissions System (ADM) and all associated applications such as Admissions Administrative Portal (AAP), Broad-Based Admission Evaluation (BBA), Powerbuilder (AS), Applicant Service Centre (ASC), etc., will undergo planned maintenance on October 27, 2026, between 16:30 - 19:30 PDT. &lt;br /&gt;&lt;br /&gt;Students, faculty, and staff will not be able to access these systems during the maintenance window. &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;19:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;16:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;15:45&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The Admissions System (ADM) and all associated applications such as Admissions Administrative Portal (AAP), Broad-Based Admission Evaluation (BBA), Powerbuilder (AS), Applicant Service Centre (ASC), etc., will undergo planned maintenance on October 27, 2026, between 16:30 - 19:30 PDT. &lt;br /&gt;&lt;br /&gt;Students, faculty, and staff will not be able to access these systems during the maintenance window. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31775975</id>
+    <published>2026-10-27T17:00:08-07:00</published>
+    <updated>2026-10-27T17:00:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/d80dll1qvfjd"/>
+    <title>Maintenance for IRP Student: Admissions related services from 27 Oct 2026, 17:00 - 28 Oct 2026 16:00 PT</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;14:44&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Apps/Services:&lt;br /&gt;&lt;br /&gt;ADM Adapter&lt;br /&gt;ADM Batch Service&lt;br /&gt;ADM Crosswalk Service&lt;br /&gt;ADM Receiver Service&lt;br /&gt;ADM REST API&lt;br /&gt;Administrative Application Portal&lt;br /&gt;Applicant Service Centre&lt;br /&gt;Broad Based Admission Evaluation - Admin&lt;br /&gt;Broad Based Admission Evaluation - Reader&lt;br /&gt;Document Routing Engine&lt;br /&gt;EPBC Adapter&lt;br /&gt;EPBC Receiver Service&lt;br /&gt;ETS Adapter&lt;br /&gt;ETS Receiver Service&lt;br /&gt;External Application Service&lt;br /&gt;IELTS Adapter&lt;br /&gt;IELTS Receiver Service&lt;br /&gt;Undergraduate Application Service&lt;br /&gt;Impacts :&lt;br /&gt;&lt;br /&gt;During this downtime there will be a brief interruption around 2 hours to the apps and services listed above during the release activities. &lt;br /&gt;Release activities will be completed between 27 Oct 2026 from 17:00 until 27 Oct 2026 19:00, Validation will continue until 28 Oct 2026 16:00. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31767285</id>
@@ -159,53 +207,5 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/xdlwwzhrhy5l"/>
     <title>SITS/eVision - Scheduled maintenance in Production October 22, 2026, 14:00-17:00 PT</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;17:03&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;16:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Verifying&lt;/strong&gt; - We have just completed this task.&lt;br /&gt;&lt;br /&gt;SITS/eVision is now back online. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;14:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;14:11&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - SITS/e:Vision will undergo maintenance on October 22, 2026 from 14:00-17:00 PT&lt;br /&gt;&lt;br /&gt;During this time, the SITS/e:Vision (including the Graduate Studies Admission System and Sauder Executive Education Registration System) will NOT be available. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31614701</id>
-    <published>2026-10-22T17:01:07-07:00</published>
-    <updated>2026-10-22T17:01:07-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/84ts045n3038"/>
-    <title>UBC SharePoint Maintenance Thursday, October 22, 2026 09:00 PT to 17:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;17:01&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;08:12&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - On Thursday, October 22, 2026 from 09:00 PT to 17:00 PT, the UBC SharePoint Software as a Service (SaaS) service will be undergoing maintenance. During this maintenance window, SharePoint on-prem sites will be accessible as no interruptions to the service are expected. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31735891</id>
-    <published>2026-10-22T16:00:08-07:00</published>
-    <updated>2026-10-22T16:00:08-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/s1c436lkjtry"/>
-    <title>EASD Rundeck Scheduler Platform Maintenance - 22 Oct 2026  11:00 AM to 22 Oct 2026 12:00 PM PT.</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;13:15&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;13:12&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The Rundeck Scheduler Platform will undergo routine maintenance from 22 Oct 2026 11:00 to 22 Oct 2026 12:00 PT to maintain platform reliability and ensure accurate job scheduling following British Columbia's transition to permanent UTC-7 (America/Vancouver).&lt;br /&gt;&lt;br /&gt;A brief service interruption of up to 5 minutes is expected while the Production environment is restarted.&lt;br /&gt;&lt;br /&gt;Service Impact:&lt;br /&gt;&lt;br /&gt;Rundeck may be temporarily unavailable during the maintenance window.&lt;br /&gt;&lt;br /&gt;Any jobs running at the time of the restart will be interrupted and may require re-execution.&lt;br /&gt;&lt;br /&gt;Jobs scheduled during the brief outage may be delayed. These jobs will be reviewed following the maintenance activity to ensure successful completion.&lt;br /&gt;&lt;br /&gt;No action is required from users. Service will resume automatically following the maintenance activity.&lt;br /&gt;&lt;br /&gt; &lt;br /&gt;&lt;br /&gt;Release Plan:  https://confluence.it.ubc.ca/x/OFj4G &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31716403</id>
-    <published>2026-10-22T08:00:07-07:00</published>
-    <updated>2026-10-22T08:00:08-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/8sb9q8pf6pdg"/>
-    <title>Exchange Online Maintenance October 21, 2026 18:00 PT to October 22, 2026 08:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;18:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;14:09&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Starting from October 21, 2026 18:00 PT to October 22, 2026 08:00 PT, Exchange Online will be undergoing maintenance to update to the new BCST time zone. No service disruption is expected as a result of this change. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31716421</id>
-    <published>2026-10-22T00:00:08-07:00</published>
-    <updated>2026-10-22T00:00:08-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/27qrbgk28b70"/>
-    <title>UBC Vancouver Voicemail Service Maintenance October 21, 2026, 20:00 - 23:59 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;14:13&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - UBC Vancouver Voicemail service will be undergoing maintenance from October 21, 2026, 20:00 - 23:59 PT.  No impact is expected as a result of this change. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31716374</id>
-    <published>2026-10-21T16:01:07-07:00</published>
-    <updated>2026-10-21T16:01:07-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/2vf920v1n419"/>
-    <title>BC time zone change for UBCIT managed Windows OS devices October 20, 2026, 16:00 PT.</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;16:01&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;14:04&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - UBC IT managed PCs will be targeted with a silent package that will transition Windows OS to the new BC time zone (UTC-07:00) Pacific Time (British Columbia).  For Windows OS PCs that have Location Services and Set time zone automatically turned on, the time zone change will be controlled by the OS.  For all other scenarios the silent package will take care of setting the time zone to (UTC-07:00) Pacific Time (British Columbia), or (UTC-07:00) Yukon, depending on the availability of the new time zone to the OS which was made available via the Oct 13, 2026 Windows Cumulative Security Updates. We realize this may impact a small number of devices operating outside BC (Washington, Oregon, California) that may need to be corrected after this change. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31715119</id>
-    <published>2026-10-21T16:00:09-07:00</published>
-    <updated>2026-10-21T16:00:09-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/txg1qsprt5mx"/>
-    <title>Enterprise Automation &amp; Solution Delivery (EASD) services maintenance on 20 Oct 2026 10:00 PT - 21 Oct 2026 16:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;10:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;10:29&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The common services team will be releasing software updates that may affect any of the following apis:&lt;br /&gt;&lt;br /&gt;workday-student/v2&lt;br /&gt;&lt;br /&gt;Release Notes&lt;br /&gt;&lt;br /&gt;workday-student switch to workday-update mode=HTTP&lt;br /&gt;&lt;br /&gt;&lt;br /&gt; workday-student--2 upgrade to CH 2.0 &amp; Parent POM 3.x&lt;br /&gt;&lt;br /&gt;workday-student use IANA time zone&lt;br /&gt;&lt;br /&gt;courseListingId added in payload when uploading the transfer credits&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Impact&lt;br /&gt;&lt;br /&gt;60 minutes delay to event processing in workday-student (applications, applicants, educational-institutions, cards)&lt;br /&gt;&lt;br /&gt;Release Plan: &lt;br /&gt;&lt;br /&gt;https://confluence.it.ubc.ca/x/6yfaGw &lt;/p&gt;</content>
   </entry>
 </feed>
