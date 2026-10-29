@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-10-28T14:30:09-07:00</updated>
+  <updated>2026-10-28T21:16:46-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -73,6 +73,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Oct &lt;var data-var='date'&gt;29&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; - &lt;var data-var='time'&gt;08:00&lt;/var&gt; PDT&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;14:49&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The UBC Identity Broker Service (broker.id.ubc.ca) will be undergoing System Maintenance on October 29, 2026 07:00 - 08:00 PT.  The service will be unavailable during this time. &lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31775975</id>
+    <published>2026-10-28T16:00:13-07:00</published>
+    <updated>2026-10-28T16:00:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/d80dll1qvfjd"/>
+    <title>Maintenance for IRP Student: Admissions related services from 27 Oct 2026, 17:00 - 28 Oct 2026 16:00 PT</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;14:44&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Apps/Services:&lt;br /&gt;&lt;br /&gt;ADM Adapter&lt;br /&gt;ADM Batch Service&lt;br /&gt;ADM Crosswalk Service&lt;br /&gt;ADM Receiver Service&lt;br /&gt;ADM REST API&lt;br /&gt;Administrative Application Portal&lt;br /&gt;Applicant Service Centre&lt;br /&gt;Broad Based Admission Evaluation - Admin&lt;br /&gt;Broad Based Admission Evaluation - Reader&lt;br /&gt;Document Routing Engine&lt;br /&gt;EPBC Adapter&lt;br /&gt;EPBC Receiver Service&lt;br /&gt;ETS Adapter&lt;br /&gt;ETS Receiver Service&lt;br /&gt;External Application Service&lt;br /&gt;IELTS Adapter&lt;br /&gt;IELTS Receiver Service&lt;br /&gt;Undergraduate Application Service&lt;br /&gt;Impacts :&lt;br /&gt;&lt;br /&gt;During this downtime there will be a brief interruption around 2 hours to the apps and services listed above during the release activities. &lt;br /&gt;Release activities will be completed between 27 Oct 2026 from 17:00 until 27 Oct 2026 19:00, Validation will continue until 28 Oct 2026 16:00. &lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31775982</id>
     <published>2026-10-28T14:30:09-07:00</published>
     <updated>2026-10-28T14:30:09-07:00</updated>
@@ -111,14 +119,6 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/9z05sxj06r3j"/>
     <title>Admissions System (ADM) Maintenance October 27, 2026, 16:30 - 19:30 PDT</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;19:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;16:30&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;15:45&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The Admissions System (ADM) and all associated applications such as Admissions Administrative Portal (AAP), Broad-Based Admission Evaluation (BBA), Powerbuilder (AS), Applicant Service Centre (ASC), etc., will undergo planned maintenance on October 27, 2026, between 16:30 - 19:30 PDT. &lt;br /&gt;&lt;br /&gt;Students, faculty, and staff will not be able to access these systems during the maintenance window. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31775975</id>
-    <published>2026-10-27T17:00:08-07:00</published>
-    <updated>2026-10-27T17:00:08-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/d80dll1qvfjd"/>
-    <title>Maintenance for IRP Student: Admissions related services from 27 Oct 2026, 17:00 - 28 Oct 2026 16:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;14:44&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Apps/Services:&lt;br /&gt;&lt;br /&gt;ADM Adapter&lt;br /&gt;ADM Batch Service&lt;br /&gt;ADM Crosswalk Service&lt;br /&gt;ADM Receiver Service&lt;br /&gt;ADM REST API&lt;br /&gt;Administrative Application Portal&lt;br /&gt;Applicant Service Centre&lt;br /&gt;Broad Based Admission Evaluation - Admin&lt;br /&gt;Broad Based Admission Evaluation - Reader&lt;br /&gt;Document Routing Engine&lt;br /&gt;EPBC Adapter&lt;br /&gt;EPBC Receiver Service&lt;br /&gt;ETS Adapter&lt;br /&gt;ETS Receiver Service&lt;br /&gt;External Application Service&lt;br /&gt;IELTS Adapter&lt;br /&gt;IELTS Receiver Service&lt;br /&gt;Undergraduate Application Service&lt;br /&gt;Impacts :&lt;br /&gt;&lt;br /&gt;During this downtime there will be a brief interruption around 2 hours to the apps and services listed above during the release activities. &lt;br /&gt;Release activities will be completed between 27 Oct 2026 from 17:00 until 27 Oct 2026 19:00, Validation will continue until 28 Oct 2026 16:00. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31767285</id>
