@@ -4,10 +4,18 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-11-02T05:29:31-08:00</updated>
+  <updated>2026-11-02T14:44:55-08:00</updated>
   <author>
     <name>UBC</name>
   </author>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31825312</id>
+    <published>2026-11-18T01:00:00-08:00</published>
+    <updated>2026-11-02T08:25:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/rbbwj9lb8p5m"/>
+    <title>TouchNet PROD site - Scheduled Maintenance November 18, 2026 - 01:00 a.m. to November 18, 2026 - 05:00 a.m.</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;01:00&lt;/var&gt; - &lt;var data-var='time'&gt;05:00&lt;/var&gt; PST&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;08:25&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The TouchNet PROD site will be undergoing scheduled maintenance. During the update window the TouchNet PROD site will be offline for logging in by staff as a TouchNet user and for customers making new payments. During this time when the payor clicks "pay now" TouchNet will display a screen informing the payor that the system is off line for maintenance and to try again after the system is back online. &lt;br /&gt;For any questions please contact dpp.support@ubc.ca &lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31557812</id>
     <published>2026-11-10T12:00:00-08:00</published>
@@ -23,6 +31,14 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/cl6j2r3smgrv"/>
     <title>UBC Identity Provider Systems Maintenance, November 7, 2026 06:00 - 07:00 PT</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var='date'&gt;7&lt;/var&gt;, &lt;var data-var='time'&gt;06:00&lt;/var&gt; - &lt;var data-var='time'&gt;07:00&lt;/var&gt; PST&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;14:48&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The UBC Identity Provider (https://authencation.ubc.ca) will be undergoing Systems Maintenance on Saturday November 7, 2026 from 06:00 - 07:00 PT.  Users may experience a short outage of less than 5 minutes at the start and end of this work. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31825308</id>
+    <published>2026-11-04T06:00:00-08:00</published>
+    <updated>2026-11-02T08:24:52-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/f12px0f5c1j6"/>
+    <title>TouchNet TEST site - Scheduled Maintenance November 04, 2026 - 06:00 a.m. to November 04, 2026 - 06:00 p.m</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var='date'&gt;4&lt;/var&gt;, &lt;var data-var='time'&gt;06:00&lt;/var&gt; - &lt;var data-var='time'&gt;18:00&lt;/var&gt; PST&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;08:24&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The TouchNet TEST site will be undergoing scheduled maintenance. During the update window the TouchNet TEST site will be offline for logging in by staff as a TouchNet user and for making TEST payments.&lt;br /&gt;For any questions please contact dpp.support@ubc.ca &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31798431</id>
@@ -191,21 +207,5 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/3prqcv6fw6y2"/>
     <title>UBC Vancouver VoIP Phone Service Maintenance October 22, 2026, 20:00 - 23:59 PT</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;00:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;14:14&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - UBC Vancouver VoIP phone service will be undergoing maintenance on October 22, 2026, 20:00 -  23:59 PT.  No impact is expected as a result of this change. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31735898</id>
-    <published>2026-10-22T20:02:07-07:00</published>
-    <updated>2026-10-22T20:02:07-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/993m10x5nk34"/>
-    <title>Enterprise Automation and Solution Delivery Services Maintenance for PHUB Admin Tool and Dedupe Tool - 22 Oct 2026 17:00 PT-20:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;20:02&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;17:01&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;13:13&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The Enterprise Automation and Solution Delivery (EASD) Services will undergo maintenance on 22 Oct 2026 from 17:00 to 20:00 PT.&lt;br /&gt;&lt;br /&gt;There should be minimal downtime and impact to end users.&lt;br /&gt;&lt;br /&gt;Release Impact:&lt;br /&gt;&lt;br /&gt;This release will be deployed after hours to minimize impact.&lt;br /&gt;Volume of Events/processing delays&lt;br /&gt;N/A&lt;br /&gt;Impact to Services&lt;br /&gt;Intermittent (minimal impact to services/end users expected) &lt;br /&gt;Rolling deployment, intermittent interruptions with services automatically recovering. &lt;br /&gt;No impact to end users.&lt;br /&gt;Impacted Services:&lt;br /&gt;&lt;br /&gt;ubc-iec--dedupe--1 (v1.2.1 → v1.2.2)&lt;br /&gt;ubc-iec--phub-admin--1 (v1.5.2 → v1.5.3)&lt;br /&gt;Release Plan:  &lt;br /&gt;&lt;br /&gt;hxxps://confluence.it.ubc.ca/x/tTWYGw &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31737001</id>
-    <published>2026-10-22T20:01:08-07:00</published>
-    <updated>2026-10-22T20:01:08-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/6z3vf1vr09n3"/>
-    <title>Campus Network Maintenance October 22, 2026, 17:00-20:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;20:01&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;17:02&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;16:58&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Network maintenance will occur at the Vancouver and Kelowna campus on October 22, 2026, 17:00-20:00 PT.  Users will be prompted to upgrade their VPN software when using the service. &lt;/p&gt;</content>
   </entry>
 </feed>
