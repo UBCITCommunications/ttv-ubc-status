@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-11-11T22:39:24-08:00</updated>
+  <updated>2026-11-12T11:19:26-08:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -33,6 +33,22 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;01:00&lt;/var&gt; - &lt;var data-var='time'&gt;05:00&lt;/var&gt; PST&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;08:25&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The TouchNet PROD site will be undergoing scheduled maintenance. During the update window the TouchNet PROD site will be offline for logging in by staff as a TouchNet user and for customers making new payments. During this time when the payor clicks "pay now" TouchNet will display a screen informing the payor that the system is off line for maintenance and to try again after the system is back online. &lt;br /&gt;For any questions please contact dpp.support@ubc.ca &lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31911793</id>
+    <published>2026-11-17T16:00:00-08:00</published>
+    <updated>2026-11-12T07:33:19-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/nyq0y6fqgncg"/>
+    <title>Appian Applications Maintenance November 17, 2026, 16:00 - 20:00 PM PCT</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; - &lt;var data-var='time'&gt;20:00&lt;/var&gt; PST&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;07:33&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - All Appian applications will undergo a planned system maintenance on November 17, 2026 from 16:00 PCT to 20:00 PM PCT. During this time, users may experience brief interruptions or be unable to log in to individual applications. &lt;br /&gt;&lt;br /&gt;Impacted applications include:&lt;br /&gt;•	Student Communication Tool (SCT)&lt;br /&gt;•	Official Document Management Tool (ODMT)&lt;br /&gt;•	Teach Eval (SEC)&lt;br /&gt;•	Learner Financial support application (LFSM)&lt;br /&gt;•	Final Grade Submission (FGST)&lt;br /&gt;•	Exam management application (EXMM/EXMMA)&lt;br /&gt;•	Activity Transfer application (CRSS)&lt;br /&gt;•	Academic Records (AARS)&lt;br /&gt;•	Role Based Access Control (RBAC)&lt;br /&gt;•	Standard Time Table Management application (STTM)&lt;br /&gt;•	Web Comm (COMM) &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31911791</id>
+    <published>2026-11-16T04:00:00-08:00</published>
+    <updated>2026-11-12T07:32:52-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/qxt2z0mcpng0"/>
+    <title>Appian Applications Maintenance November 16, 2026, 04:00 - 06:00 AM PCT</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;04:00&lt;/var&gt; - &lt;var data-var='time'&gt;06:00&lt;/var&gt; PST&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;07:32&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - All Appian applications will undergo a planned system maintenance on November 16, 2026 from 04:00 PCT to 06:00 AM PCT. During this time, users may experience brief interruptions or be unable to log in to individual applications. &lt;br /&gt;&lt;br /&gt;Impacted applications include:&lt;br /&gt;•	Student Communication Tool (SCT)&lt;br /&gt;•	Official Document Management Tool (ODMT)&lt;br /&gt;•	Teach Eval (SEC)&lt;br /&gt;•	Learner Financial support application (LFSM)&lt;br /&gt;•	Final Grade Submission (FGST)&lt;br /&gt;•	Exam management application (EXMM/EXMMA)&lt;br /&gt;•	Activity Transfer application (CRSS)&lt;br /&gt;•	Academic Records (AARS)&lt;br /&gt;•	Role Based Access Control (RBAC)&lt;br /&gt;•	Standard Time Table Management application (STTM)&lt;br /&gt;•	Web Comm (COMM) &lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31866233</id>
     <published>2026-11-12T20:00:00-08:00</published>
     <updated>2026-11-06T16:08:45-08:00</updated>
@@ -41,12 +57,20 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; PST &amp;nbsp;-&amp;nbsp; Nov &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;03:30&lt;/var&gt; PST&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt; 6&lt;/var&gt;, &lt;var data-var='time'&gt;16:07&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Network maintenance is being performed at the HR MacMillan and Landscape Architecture Annex buildings, involving replacement of aging network infrastructure. During this service window from November 12, 2026 20:00 - November 13, 2026 03:30 PCT; network services will be interrupted briefly and intermittently while physical and logical changes are being performed on the network backbones and while the user ports are migrated to new switching infrastructure. &lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/31913708</id>
+    <published>2026-11-12T11:05:52-08:00</published>
+    <updated>2026-11-12T11:05:52-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/5sv26bh8s03t"/>
+    <title>Issues with connecting to Outlook and Microsoft 365 Web Applications, November 12, 2026, 11:15 PCT</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;11:05&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - UBC IT is aware of a disruption affecting Microsoft 365 services. Users may have trouble accessing:&lt;br /&gt; &lt;br /&gt;Exchange Online (Outlook email and calendar)&lt;br /&gt;Microsoft Teams&lt;br /&gt;SharePoint Online and OneDrive&lt;br /&gt;Microsoft Copilot 365&lt;br /&gt;Microsoft Defender XDR&lt;br /&gt; &lt;br /&gt;This is an issue with Microsoft’s service and not with UBC systems.   UBC IT Technicians are monitoring updates from Microsoft.&lt;br /&gt;&lt;br /&gt;Our next update will be at 13:45 PCT. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;10:22&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - We are currently receiving reports of issues connecting with Outlook and other Microsoft 365 web applications.&lt;br /&gt;&lt;br /&gt;UBC IT technicians are currently investigating the issue.&lt;br /&gt;&lt;br /&gt;Our next update is scheduled to be at 12:00 PCT. &lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31885931</id>
-    <published>2026-11-12T09:00:00-08:00</published>
-    <updated>2026-11-09T15:04:03-08:00</updated>
+    <published>2026-11-12T09:00:09-08:00</published>
+    <updated>2026-11-12T09:00:09-08:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/9zdt8pv0j7d1"/>
     <title>UBC SharePoint Maintenance Thursday, November 12, 2026 09:00 PT to 17:00 PCT</title>
-    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; - &lt;var data-var='time'&gt;17:00&lt;/var&gt; PST&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;15:04&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - On Thursday, November 12, 2026 from 09:00 PCT to 17:00 PCT, the UBC SharePoint Software as a Service (SaaS) service will be undergoing maintenance. During this maintenance window, SharePoint on-prem sites will be accessible as no interruptions to the service are expected. &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;15:04&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - On Thursday, November 12, 2026 from 09:00 PCT to 17:00 PCT, the UBC SharePoint Software as a Service (SaaS) service will be undergoing maintenance. During this maintenance window, SharePoint on-prem sites will be accessible as no interruptions to the service are expected. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31895426</id>
@@ -178,34 +202,10 @@
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31846435</id>
-    <published>2026-11-04T15:38:20-08:00</published>
-    <updated>2026-11-04T15:38:20-08:00</updated>
+    <published>2026-11-12T06:01:26-08:00</published>
+    <updated>2026-11-12T06:01:26-08:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/z1z5bflp3pl2"/>
     <title>Wireless connectivity issues for Macs - November 4, 2026 - 13:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;15:38&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - Noted workarounds appear to be working for affected users.&lt;br /&gt;Technicians are still monitoring the issue; however, recommendation is to apply one of the workarounds/fixes. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;13:53&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - Issue is still being investigated.&lt;br /&gt;&lt;br /&gt;For workarounds:&lt;br /&gt;&lt;br /&gt;1. Update your MacOS operating system&lt;br /&gt;2. Use the UBCIoT Wifi network (https://it.ubc.ca/services/email-voice-internet/ubc-internet-things-iot-wi-fi) &lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;12:42&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - There is currently an issue that some Mac devices are unable to connect to the UBC wireless networks.&lt;br /&gt;&lt;br /&gt;Technicians are investigating the issue.&lt;br /&gt;&lt;br /&gt;Next update will be at 15:00 &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31844820</id>
-    <published>2026-11-04T11:00:01-08:00</published>
-    <updated>2026-11-04T11:00:01-08:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/m9hc4lf747n8"/>
-    <title>Voyager Restored - Webcat Intermittent Latency  - Wednesday November 4, 2026</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;11:00&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - Voyager and Webcat are functioning normally. Service is fully restored. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;10:31&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - Voyager has been restored, but UBC IT is investigating intermittent latency when accessing the web catalogue (OPAC). &lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;09:25&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - Voyager is currently unavailable and the issue is currently under investigation. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31844738</id>
-    <published>2026-11-04T09:44:46-08:00</published>
-    <updated>2026-11-04T09:44:46-08:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/sr1w33m5h5zd"/>
-    <title>Shared Web Hosting (bronze) unavailable Wednesday November 4, 2026 10:00 PCT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;09:44&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - Shared web hosting service has been restored as of 10:35 PCT. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;09:12&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - The shared web hosting platform is currently unavailable as of 10:00 PCT.  At this moment websites hosted on the shared web hosting platform are offline. Technicians are currently investigating. An update will be provided in 30mins. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31837742</id>
-    <published>2026-11-04T09:00:08-08:00</published>
-    <updated>2026-11-04T09:00:09-08:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/s1q86vcwd5f8"/>
-    <title>UBC Identity Broker (IDBK) Maintenance Nov 4, 2026 07:00-09:00PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;13:25&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The UBC Identity Broker (IDBK) will be undergoing maintenance on Nov 4, 2026 07:00-09:00PT.&lt;br /&gt;&lt;br /&gt;There are no expected user or service impact. &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;06:01&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Monitoring&lt;/strong&gt; - After investigating, UBC IT technicians have determined that a recent required network upgrade resulted in some older devices being unable to connect to UBC's networks. UBC's wireless network remains fully functional, and most up-to-date devices are able to connect.&lt;br /&gt;&lt;br /&gt;We strongly recommend that all clients ensure their devices are up to date with the latest versions of their operating system. For Macs this is MacOS 27.2.1, and for iPhone/iPad this is iOS version 27.2.1.&lt;br /&gt;&lt;br /&gt;If your phone or computer is unable to update to the latest version, clients may opt to use the UBC IoT network as an alternative, if connecting from on-campus. More information about the IoT network can be found at https://it.ubc.ca/services/email-voice-internet/ubc-internet-things-iot-wi-fi. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;15:38&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - Noted workarounds appear to be working for affected users.&lt;br /&gt;Technicians are still monitoring the issue; however, recommendation is to apply one of the workarounds/fixes. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;13:53&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - Issue is still being investigated.&lt;br /&gt;&lt;br /&gt;For workarounds:&lt;br /&gt;&lt;br /&gt;1. Update your MacOS operating system&lt;br /&gt;2. Use the UBCIoT Wifi network (https://it.ubc.ca/services/email-voice-internet/ubc-internet-things-iot-wi-fi) &lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;12:42&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - There is currently an issue that some Mac devices are unable to connect to the UBC wireless networks.&lt;br /&gt;&lt;br /&gt;Technicians are investigating the issue.&lt;br /&gt;&lt;br /&gt;Next update will be at 15:00 &lt;/p&gt;</content>
   </entry>
 </feed>
