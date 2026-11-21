@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-11-20T22:00:08-07:00</updated>
+  <updated>2026-11-21T05:29:34-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -42,11 +42,11 @@
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31958617</id>
-    <published>2026-11-20T22:00:08-07:00</published>
-    <updated>2026-11-20T22:00:08-07:00</updated>
+    <published>2026-11-21T05:00:08-07:00</published>
+    <updated>2026-11-21T05:00:08-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/lzvbj0pd386k"/>
     <title>Workday Scheduled Monthly Maintenance and Weekly Service Update November 20, 2026, 22:00 PCT to November 21, 2026, 05:00 PCT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;22:00&lt;/var&gt; MST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;15:31&lt;/var&gt; MST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Please be advised that on November 20, 2026, 22:00 PCT to November 21, 2026, 05:00 PCT, Workday will be undergoing scheduled maintenance as part of its monthly service update. The system will remain accessible during the scheduled maintenance period but it is advised not to run critical processes and tasks&lt;br /&gt;&lt;br /&gt;Learn about Workday Support at UBC and other available resources on isc.ubc.ca. &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;05:00&lt;/var&gt; MST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;22:00&lt;/var&gt; MST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;15:31&lt;/var&gt; MST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Please be advised that on November 20, 2026, 22:00 PCT to November 21, 2026, 05:00 PCT, Workday will be undergoing scheduled maintenance as part of its monthly service update. The system will remain accessible during the scheduled maintenance period but it is advised not to run critical processes and tasks&lt;br /&gt;&lt;br /&gt;Learn about Workday Support at UBC and other available resources on isc.ubc.ca. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31996936</id>
