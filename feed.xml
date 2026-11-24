@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-11-23T19:49:33-07:00</updated>
+  <updated>2026-11-24T09:44:44-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -82,11 +82,11 @@
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31999113</id>
-    <published>2026-11-23T17:00:10-07:00</published>
-    <updated>2026-11-23T17:00:10-07:00</updated>
+    <published>2026-11-24T06:00:08-07:00</published>
+    <updated>2026-11-24T06:00:08-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/6wvmj41f5v9n"/>
     <title>UBC SharePoint Online Maintenance Monday, November 23, 2026 from 17:00 PCT to Tuesday, November 24, 2026 06:00 PCT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; MST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;14:47&lt;/var&gt; MST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - On Monday, November 23, 2026 from 17:00 PCT to Tuesday, November 24, 2026 06:00 PCT, the UBC SharePoint Online service will be undergoing maintenance. During this maintenance window, SharePoint Online sites (SharePoint Online, Teams connected, and OneDrive sites) will be accessible as no interruptions to the service are expected. &lt;/p&gt;</content>
+    <content type="html">&lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;06:00&lt;/var&gt; MST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; MST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;14:47&lt;/var&gt; MST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - On Monday, November 23, 2026 from 17:00 PCT to Tuesday, November 24, 2026 06:00 PCT, the UBC SharePoint Online service will be undergoing maintenance. During this maintenance window, SharePoint Online sites (SharePoint Online, Teams connected, and OneDrive sites) will be accessible as no interruptions to the service are expected. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31958617</id>
