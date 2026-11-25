@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.it.ubc.ca"/>
   <link rel="self" type="application/atom+xml" href="https://status.it.ubc.ca/history.atom"/>
   <title>UBC Status - Incident History</title>
-  <updated>2026-11-24T09:44:44-07:00</updated>
+  <updated>2026-11-24T18:49:13-07:00</updated>
   <author>
     <name>UBC</name>
   </author>
@@ -65,6 +65,14 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;22:00&lt;/var&gt; MST &amp;nbsp;-&amp;nbsp; Nov &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;01:00&lt;/var&gt; MST&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;10:25&lt;/var&gt; MST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Please be advised that on November 27, 2026, 22:00 PT to November 28, 2026, 01:00 PT, Workday will be undergoing scheduled maintenance as part of its weekly service update. The system will remain accessible during the scheduled maintenance period but it is advised not to run critical processes and tasks. &lt;br /&gt;Learn about Workday Support at UBC and other available resources on isc.ubc.ca. &lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/32033888</id>
+    <published>2026-11-26T20:00:00-07:00</published>
+    <updated>2026-11-24T14:56:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/8f2ykxd9n52y"/>
+    <title>JIRA Maintenance November 26, 2026 20:00-22:00 PCT</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; - &lt;var data-var='time'&gt;22:00&lt;/var&gt; MST&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;14:56&lt;/var&gt; MST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - UBC IT JIRA will be unavailable on November 26, 2026 20:00-22:00 PCT due to scheduled maintenance. &lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/32021831</id>
     <published>2026-11-26T20:00:00-07:00</published>
     <updated>2026-11-23T10:41:54-07:00</updated>
@@ -73,12 +81,68 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; - &lt;var data-var='time'&gt;22:00&lt;/var&gt; MST&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;10:41&lt;/var&gt; MST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - JIRA will be undergoing scheduled maintenance for security patching from November 26, 2026, 20:00-22:00 PCT. &lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/32033839</id>
+    <published>2026-11-26T07:00:00-07:00</published>
+    <updated>2026-11-24T14:48:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/lvh8w5m9xqb3"/>
+    <title>UBC Identity Broker (IDBK) Upgrade November 26, 2026 07:00-09:00 PCT</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; - &lt;var data-var='time'&gt;09:00&lt;/var&gt; MST&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;14:48&lt;/var&gt; MST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The UBC Identity Broker (IDBK) will be upgraded on Nov 26, 2026 between 07:00-09:00 PCT.&lt;br /&gt;&lt;br /&gt;For approximately 5 minutes during this window, the following will be unavailable:&lt;br /&gt;- Sign-in to applications that use IDBK, including the Applicant Service Centre (ASC), StarRez Housing (UBCV and UBCO), Faculty of Medicine Federation with PHSA, Faculty of Medicine Continuing Professional Development, and 12Twenty&lt;br /&gt;- CWL account creation through the CWL Account Upgrader(CWLU) and SecureLink (SLID)&lt;br /&gt;- Account merging and account merge opportunities&lt;br /&gt;&lt;br /&gt;Users already signed in to an application should not be affected. If a sign-in fails during the window, please wait a few minutes and try again. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/32033807</id>
+    <published>2026-11-26T06:00:00-07:00</published>
+    <updated>2026-11-24T14:43:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/r2p9xlpmqq24"/>
+    <title>Jupyter Open Maintenance November 26, 2026, 06:00-07:00 PCT</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;06:00&lt;/var&gt; - &lt;var data-var='time'&gt;07:00&lt;/var&gt; MST&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;14:43&lt;/var&gt; MST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - JupyterHub Open will be unavailable due to scheduled maintenance on November 26, 2026, 06:00-07:00 PCT. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/32033892</id>
+    <published>2026-11-25T20:00:00-07:00</published>
+    <updated>2026-11-24T14:57:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/dpnmj6w7g3g2"/>
+    <title>UBC IT Confluence Upgrade November 25, 2026 20:00-22:00 PCT</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; - &lt;var data-var='time'&gt;22:00&lt;/var&gt; MST&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;14:57&lt;/var&gt; MST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - UBC IT Confluence will be upgraded on November 25, 2026 20:00-22:00 PCT. During the upgrade, Confluence will not be available. &lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/32021803</id>
     <published>2026-11-25T20:00:00-07:00</published>
     <updated>2026-11-23T10:39:40-07:00</updated>
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/5k7rwbvthdvk"/>
     <title>Confluence Maintenance November 25, 2026, 20:00-22:00 PCT</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; - &lt;var data-var='time'&gt;21:00&lt;/var&gt; MST&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;10:39&lt;/var&gt; MST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Confluence will be undergoing scheduled maintenance for security patching from November 25, 2026, 20:00-22:00 PCT. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/32033901</id>
+    <published>2026-11-25T18:00:00-07:00</published>
+    <updated>2026-11-24T14:59:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/fh1mv0dtwqmg"/>
+    <title>CWL MyAccount Maintenance on Novmeber 25, 2026 18:00 - 20:00 PCT</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;18:00&lt;/var&gt; - &lt;var data-var='time'&gt;20:00&lt;/var&gt; MST&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;14:59&lt;/var&gt; MST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The UBC myAccount service will be undergoing maintenance on November 25, 2026 18:00 - 20:00 PCT.&lt;br /&gt;There is an anticipated service interruption of 5 - 10  minutes during the maintenance window.&lt;br /&gt;We will be updating myAccount in order to improve its security. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/32033865</id>
+    <published>2026-11-25T10:00:00-07:00</published>
+    <updated>2026-11-24T14:52:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/3m43qyjmhl0m"/>
+    <title>Enterprise Automation and Solution Delivery - Planned Maintenance to upgrade Elastic Kubernetes Service (AWS EKS) November 25, 2026, 10:00-18:30 PCT</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; - &lt;var data-var='time'&gt;18:30&lt;/var&gt; MST&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;14:52&lt;/var&gt; MST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - On 25 November 2026, DevOps will perform a planned upgrade of our Elastic Kubernetes Service (AWS EKS) cluster.&lt;br /&gt;&lt;br /&gt;No downtime is expected.&lt;br /&gt;&lt;br /&gt;Potential Scheduled Job Execution-Impacted Windows (Vancouver Time)&lt;br /&gt;&lt;br /&gt;11:05 – 11:35&lt;br /&gt;13:40 – 14:10&lt;br /&gt;16:20 - 16:50&lt;br /&gt;Modified / Impacted Infrastructure&lt;br /&gt;&lt;br /&gt;EKS Cluster (1.32 --&gt; 1.34)&lt;br /&gt;Node Groups (1.32 --&gt; 1.34)&lt;br /&gt;EKS Add-ons  &lt;br /&gt;CoreDNS (v1.11.4‑eksbuild.28 → v1.13.2-eksbuild.7)&lt;br /&gt;VPC CNI (v1.21.1-eksbuild.3 → v1.21.2-eksbuild.2)&lt;br /&gt;kube-proxy (v1.32.11‑eksbuild.2 → v1.34.6-eksbuild.8)&lt;br /&gt;Services &lt;br /&gt;Rundeck&lt;br /&gt;Telegraf &lt;br /&gt;InfluxDB&lt;br /&gt;Chronograph&lt;br /&gt;Kapacitor &lt;br /&gt;Alerta&lt;br /&gt;BPMS redirect&lt;br /&gt;Rundeck Impact&lt;br /&gt;Multiple Rundeck projects and scheduled jobs may be affected during the potential downtime windows. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/32033846</id>
+    <published>2026-11-24T17:00:12-07:00</published>
+    <updated>2026-11-24T17:00:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/p14wzmv0lmcs"/>
+    <title>UBC IT Domain Name System (DNS) Maintenance November 24, 2026, 17:00-22:00 PCT</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; MST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;14:50&lt;/var&gt; MST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - UBC IT Network team will be conducting maintenance on its DNS servers on November 24, 2026, between 17:00-22:00 PCT. Access to myDNS user interface may be intermittent during this maintenance window. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.it.ubc.ca,2005:Incident/32031976</id>
+    <published>2026-11-24T10:56:52-07:00</published>
+    <updated>2026-11-24T10:56:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/k8jgt7xtkz36"/>
+    <title>Official Document Management Tool and Convocation Management System – Data Synchronization Issues</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;10:56&lt;/var&gt; MST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - Users may experience error messages or see outdated or incorrect data due to a data synchronization issue in the Official Document Management Tool (ODMT) and Convocation Management System (CNVM). Technical teams are actively working to resolve the issue, and further updates will be posted as information becomes available. We apologize for any inconvenience. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.it.ubc.ca,2005:Incident/31999113</id>
@@ -143,69 +207,5 @@
     <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/h55jskydr87r"/>
     <title>Enterprise Automation &amp; Solution Delivery (EASD) – LFS Services Maintenance from November 19, 2026, 10:00-15:00 PCT</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;15:00&lt;/var&gt; MST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;10:08&lt;/var&gt; MST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;10:07&lt;/var&gt; MST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Enterprise Automation &amp; Solution Delivery (EASD) – LFS Services Maintenance from November 19, 2026, 10:00-15:00 PCT&lt;br /&gt;&lt;br /&gt;Release activities will be completed between November 19 2026 from 10:00 - 16:00.&lt;br /&gt;Validation will continue until 20 Nov 2026 15:00&lt;br /&gt;The LFS Team will be releasing software updates that may affect any of the following:&lt;br /&gt;&lt;br /&gt;Apps/Services:&lt;br /&gt;&lt;br /&gt;Learner Financial Support Management (LFSM)&lt;br /&gt;Fix is to over write existing data from the year that the data is being loaded for IA&lt;br /&gt;&lt;br /&gt;Fix to adjust pending amount from one/many students to be repeated and saved/reflected in learner profile upon saving adjudication record&lt;br /&gt;Fix to display POS for the student at the time of assignment and not the current one.&lt;br /&gt;Added Administering Unit as a filter for the Student Award Assignment Records Report&lt;br /&gt;Added  Eligibility Passed, Payment plan code, Installment date, Installment amount, Original accepted amount column and updated label for Assignment to Current Amount to Student Award Assignment Records Report&lt;br /&gt;Release Impact&lt;br /&gt;LFSM will have a short interruption of services during this deployment from 14:00 ~ 14:30 (30 minutes) on Sept 22nd&lt;br /&gt;Reason for maintenance:&lt;br /&gt;&lt;br /&gt;Release of bug fixes and enhancements to LFS &lt;br /&gt;Release Plan: https://confluence.it.ubc.ca/x/A7JVH &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31968845</id>
-    <published>2026-11-18T23:00:09-07:00</published>
-    <updated>2026-11-18T23:00:09-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/jyprf7yjjt7k"/>
-    <title>UBC IT Domain Name System (DNS) Maintenance November 18, 2026, 17:00-23:00 PCT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;23:00&lt;/var&gt; MST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; MST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;15:13&lt;/var&gt; MST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - UBC IT Network Management Centre (NMC) will be conducting maintenance on its DNS servers on November 18, 2026, between 17:00-23:00 PCT. Access to myDNS user interface may be intermittent during this maintenance window. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31977483</id>
-    <published>2026-11-18T16:01:07-07:00</published>
-    <updated>2026-11-18T16:01:07-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/j4d1c9x1kbfw"/>
-    <title>Enterprise Automation &amp; Solution Delivery SFDC UNI Adaptor on November 18, 2026, 10:00-16:00 PCT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;16:01&lt;/var&gt; MST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;10:26&lt;/var&gt; MST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;10:25&lt;/var&gt; MST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Upgrade to Cloud Hub 2.0&lt;br /&gt;Impacts:&lt;br /&gt;&lt;br /&gt;No user impact is expected.&lt;br /&gt;There could be a possible 5-10 minutes downtime.&lt;br /&gt;All services will automatically recover. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31917596</id>
-    <published>2026-11-18T16:00:08-07:00</published>
-    <updated>2026-11-18T16:00:08-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/wsk4y6rvp1qf"/>
-    <title>Enterprise Automation and Solution Delivery services maintenance for Appian Applications on November 17, 2026 starting at 16:00 PCT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; MST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;16:01&lt;/var&gt; MST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;16:01&lt;/var&gt; MST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Enterprise Automation and Solution Delivery services maintenance for Appian Applications on November 17, 2026 starting at 16:00 PCT&lt;br /&gt;&lt;br /&gt;Note: Validation activities will continue on November 18, 2026.&lt;br /&gt;&lt;br /&gt;Apps/Services:&lt;br /&gt;&lt;br /&gt;Following Applications will be impacted because  CloudHub 1.0 is increasingly becoming a strategic and operational constraint for UBC's integration platform. Migrating to CloudHub 2.0 would reduce operational risk, simplify infrastructure management, improve scalability, and better align UBC with MuleSoft's future platform direction.&lt;br /&gt;&lt;br /&gt;Exam management application (EXMM/EXMMA)&lt;br /&gt;Activity Transfer application (CRSS)&lt;br /&gt;Learner Financial support application (LFSM)&lt;br /&gt;Final Grade Submission (FGST)&lt;br /&gt;Official Document Management Tool (ODMT)&lt;br /&gt;Student Communications (COMS)&lt;br /&gt;Affiliate Student Management Tool (ASMT)&lt;br /&gt;University Data Platform (UDAP)&lt;br /&gt;Impacts:&lt;br /&gt;&lt;br /&gt;During this maintenance window there will be varying interruptions to individual Appian Applications&lt;br /&gt;Reason for maintenance:&lt;br /&gt;&lt;br /&gt;UBC's integration platform, Migrating from CloudHub 1.0 to CloudHub 2.0&lt;br /&gt;Release Plan: https://confluence.it.ubc.ca/x/66ZVH &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31968493</id>
-    <published>2026-11-18T13:30:07-07:00</published>
-    <updated>2026-11-18T13:30:07-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/p1ydxhgx5zy4"/>
-    <title>Intermapper Upgrade November 18, 2026 10:30 - 13:30 PCT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;13:30&lt;/var&gt; MST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;18&lt;/var&gt;, &lt;var data-var='time'&gt;10:30&lt;/var&gt; MST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;14:40&lt;/var&gt; MST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - Upgrade the OS and application for the Intermapper server hosting Virtual Network Maps. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31968455</id>
-    <published>2026-11-17T22:30:07-07:00</published>
-    <updated>2026-11-17T22:30:07-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/25cfbprcz9ww"/>
-    <title>TouchNet PROD site - Scheduled Maintenance November 17, 2026, 22:00-22:30 PCT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;22:30&lt;/var&gt; MST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;22:00&lt;/var&gt; MST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;14:32&lt;/var&gt; MST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - TouchNet is adding data centre capacity to support higher transaction volumes and traffic. Applying the upgrade requires a quick service restart tonight, Nov 17, between 10:00 and 10:30 pm PT. Expect about 2 minutes of downtime.&lt;br /&gt;During that time, admins won't be able to log in, and payors will see a friendly message to try again shortly. No action needed on your end.&lt;br /&gt;Questions? contact: dpp.support@ubc.ca &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31911793</id>
-    <published>2026-11-17T20:00:08-07:00</published>
-    <updated>2026-11-17T20:00:08-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/nyq0y6fqgncg"/>
-    <title>Appian Applications Maintenance November 17, 2026, 16:00 - 20:00 PM PCT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;20:00&lt;/var&gt; MST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; MST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;08:33&lt;/var&gt; MST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - All Appian applications will undergo a planned system maintenance on November 17, 2026 from 16:00 PCT to 20:00 PM PCT. During this time, users may experience brief interruptions or be unable to log in to individual applications. &lt;br /&gt;&lt;br /&gt;Impacted applications include:&lt;br /&gt;•	Student Communication Tool (SCT)&lt;br /&gt;•	Official Document Management Tool (ODMT)&lt;br /&gt;•	Teach Eval (SEC)&lt;br /&gt;•	Learner Financial support application (LFSM)&lt;br /&gt;•	Final Grade Submission (FGST)&lt;br /&gt;•	Exam management application (EXMM/EXMMA)&lt;br /&gt;•	Activity Transfer application (CRSS)&lt;br /&gt;•	Academic Records (AARS)&lt;br /&gt;•	Role Based Access Control (RBAC)&lt;br /&gt;•	Standard Time Table Management application (STTM)&lt;br /&gt;•	Web Comm (COMM) &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31968485</id>
-    <published>2026-11-17T18:00:07-07:00</published>
-    <updated>2026-11-17T18:00:07-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/1g61r1bzgrx2"/>
-    <title>Enterprise Automation and Solution Delivery Services Maintenance for Person-Hub Admin Tool on 17 Nov 2026 16:00-18:00 PCT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;18:00&lt;/var&gt; MST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;16:02&lt;/var&gt; MST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;14:38&lt;/var&gt; MST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The Enterprise Automation and Solution Delivery (EASD) Person-Hub Admin Tool services will undergo maintenance on 17 Nov 2026 from 16:00 to 18:00 PCT.&lt;br /&gt;&lt;br /&gt;There should be minimal downtime and impact to end users during the release. &lt;br /&gt;&lt;br /&gt;Release Impact:&lt;br /&gt;&lt;br /&gt;Person-Hub Admin Tool Experience API and Person-Hub Admin Tool (UI) to introduce SIS, EAD, and CNT data to the existing SPOG view.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Volume of Events/processing delays&lt;br /&gt;N/A&lt;br /&gt;Impact on Services&lt;br /&gt;Rolling deployment, intermittent interruptions with services automatically recovering. &lt;br /&gt;Intermittent (minimal impact to services/end users expected) &lt;br /&gt;No impact to end users after the release.&lt;br /&gt;Impacted Services:&lt;br /&gt;&lt;br /&gt;ubc-iec--phub-admin-exp–1&lt;br /&gt;ubc-iec--phub-admin--1&lt;br /&gt;Release Plan:  &lt;br /&gt;&lt;br /&gt;hxxps://confluence.it.ubc.ca/x/LqdVH &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.it.ubc.ca,2005:Incident/31894460</id>
-    <published>2026-11-17T17:00:07-07:00</published>
-    <updated>2026-11-17T17:00:07-07:00</updated>
-    <link rel="alternate" type="text/html" href="https://status.it.ubc.ca/incidents/lmzrmw5jrnc4"/>
-    <title>UBC Identity Broker Maintenance November 10, 2026 16:00 PT - November 17, 2026 16:00 PT</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; MST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; MST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;12:46&lt;/var&gt; MST&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The UBC Identity Broker (IDBK) will undergo scheduled maintenance beginning November 10, 2026 at 16:00 PT to November 17, 2026 16:00 PT.&lt;br /&gt;&lt;br /&gt;The service will be updated to onboard a new service and increase resourcing capacity.&lt;br /&gt;&lt;br /&gt;No end user impact is expected. &lt;/p&gt;</content>
   </entry>
 </feed>
